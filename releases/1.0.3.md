@@ -9,7 +9,7 @@
 - Reduced the maximum time a Toon or Cog can wait to join a battle from 30 seconds to 7.5 seconds. This should prevent issues with a Toon waiting to join holding up the battle.
 
 **Streets**
-- Ye Olde Toontown street percentages have been adjusted.
+- Ye Olde Toontowne street percentages have been adjusted.
 - - The new percentages are as follows:
 - - Knight Knoll: 0% Boardbot, 5% Bossbot, 5% Lawbot, 45% Cashbot, 45% Sellbot
 - - Noble Nook: 50% Boardbot, 40% Bossbot, 10% Lawbot, 0% Cashbot, 0% Sellbot
