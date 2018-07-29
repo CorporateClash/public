@@ -21,6 +21,9 @@
 - - The C.E.O. now has a higher speed pool, so it will take much longer to get the C.E.O. to fully red treads.
 - - Fixed an issue where the C.E.O.'s turn speed would accidentally become 0.
 
+**Estates**
+- Banks now deliver properly.
+
 **Cog Disguises**
 - Fix an issue with Corporate Raider Level 15 stock options.
 
