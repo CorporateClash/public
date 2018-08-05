@@ -22,7 +22,7 @@
 - Fixed an issue where two cranes could attempt to grab the same object in the C.F.O.
 - The C.F.O. has become a bit less chatty in the final round.
 - Some crane mechanics have changed in the C.F.O. final round:
-- - The corner cranes are now use a blue magnet model. They act the same as before.
+- - The corner cranes now use a blue magnet model. They act the same as before.
 - - The side cranes have had a massive overhaul:
 - - - Side cranes now move 50% faster than corner cranes
 - - - Side cranes rotational range is lower, but to compensate, their extension range is much further.
