@@ -1,0 +1,22 @@
+{
+    "featured": 10001,
+    "series": [
+        {
+            "name": "The Official Storyline Comics",
+            "extra": "Corporate Clash is a game with story. And often enough this is told through comics! This series is our official storyline progression series to reveal and tell important stories that need to be told as Corporate Clash unfolds.",
+            "id": 1,
+            "comics": [
+                {
+                    "name": "The Office",
+                    "id": 10001,
+                    "date": "August 13, 2018",
+                    "panels": [
+                        "https://judge.sh/6tu5RrQ4QX.png",
+                        "https://judge.sh/UYmIWuvF.png",
+                        "https://judge.sh/rViGG1vP.png"
+                    ]
+                }
+            ]
+        }
+    ]
+}
