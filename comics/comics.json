@@ -10,9 +10,12 @@
                     "name": "Twi's Death Book",
                     "id": 10002,
                     "date": "August 14, 2018",
-                    "width": 400,
-                    "height": 500,
-                    "path": "https://comics-cdn.corporateclash.net/test1/[01-03].png"
+                    "width": 600,
+                    "height": 400,
+                    "basepath": "https://comics-cdn.corporateclash.net/test1/",
+                    "start": "01",
+                    "end": "03",
+                    "ext": "png"
                 },
                 {
                     "name": "The Office",
@@ -20,7 +23,10 @@
                     "date": "August 13, 2018",
                     "width": 400,
                     "height": 500,
-                    "path": "https://comics-cdn.corporateclash.net/test2/[01-03].png"
+                    "basepath": "https://comics-cdn.corporateclash.net/test2/",
+                    "start": "01",
+                    "end": "03",
+                    "ext": "png"
                 }
             ]
         }
