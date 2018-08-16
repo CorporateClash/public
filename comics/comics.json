@@ -10,21 +10,13 @@
                     "name": "Twi's Death Book",
                     "id": 10002,
                     "date": "August 14, 2018",
-                    "panels": [
-                        "https://judge.sh/yQUA2E7EX.png",
-                        "https://judge.sh/THhUXDglnp.png",
-                        "https://judge.sh/kXic2dv.png"
-                    ]
+                    "path": "https://comics-cdn.corporateclash.net/test1/[01-03].png"
                 },
                 {
                     "name": "The Office",
                     "id": 10001,
                     "date": "August 13, 2018",
-                    "panels": [
-                        "https://judge.sh/6tu5RrQ4QX.png",
-                        "https://judge.sh/UYmIWuvF.png",
-                        "https://judge.sh/rViGG1vP.png"
-                    ]
+                    "path": "https://comics-cdn.corporateclash.net/test2/[01-03].png"
                 }
             ]
         }
