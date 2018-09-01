@@ -25,6 +25,19 @@
 - Tweaked the location of the Boss Health Bar
 - Added help to CJ timers
 - - Hover over the timers to see what they're for
+- Added Toggle-able boss statistics that can be viewed in the final round of each boss. Press F1 to view/hide the stats.
+- Tweaked the CFO Side Crane Mechanics
+- - Any goons thrown from a side crane will stun the CFO if the hit has a high impact! However, in order to pay the price for such power, they now enable goons instead of disable them.
+
+**SOS Cards**
+- Lure SOS have been rebalanced:
+- - Lil Oldman 5 stars (Presentation, 6 rounds)
+- - Nancy Gas 4 stars (Hypno Goggles, 5 rounds)
+- - Stinky Ned 3 stars (Big Magnet, 4 rounds)
+
+**Clubs**
+- Club EXP Rewards obtained from facilities, bosses, and buildings have been rebalanced.
+- Maximum Club Capacity has been increased to 100!
 
 **Codes**
 - Added in codes for quest items
