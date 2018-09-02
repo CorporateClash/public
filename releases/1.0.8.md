@@ -23,9 +23,7 @@
 **Bosses**
 - Added a Cooldown timer to the CJ.
 - Tweaked the location of the Boss Health Bar.
-- Added help to CJ timers.
 - Fixed an issue where the camera would spawn in the floor, on round three of the CJ fight.
-- - Hover over the timers to see what they're for.
 - Added Toggle-able boss statistics that can be viewed in the final round of each boss. Press F1 to view/hide the stats.
 - Tweaked the CFO Side Crane Mechanics.
 - - Any goons thrown from a side crane will stun the CFO if the hit has a high impact! However, in order to pay the price for such power, they now enable goons instead of disable them.
