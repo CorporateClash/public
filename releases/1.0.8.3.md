@@ -1,9 +1,9 @@
 ### v1.0.8.3 BETA
 **Quests**
 - Added three new sidequests (Speak to a HQ officer for hints):
-- - 1 Quests in TB.
-- - 1 Quest in AA.
-- - 1 Quests in DDL.
+- - 1 Quests in The Brrrgh.
+- - 1 Quest in Acorn Acres.
+- - 1 Quests in Drowsy Dreamland.
 
 **Playground**
 - Added a few new retextures to Toontown Central
