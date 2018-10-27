@@ -14,7 +14,7 @@
 - Added a toggle to disable Speedchat Plus.
 - Added a toggle to disable Clubs chat.
 - Added the ability to delete SOS cards.
-- Added some new toon speach sounds.
+- Added some new toon speech sounds.
 
 **Tweak**
 - Changed the starting music volume to 50% when first opening the game.
