@@ -10,7 +10,7 @@
 - - Bloodsucker Skelecogs are invading Toontown! ToonHQ has manged to secure some safe districts during this spooky time.
 - - Trick or treating has returned to Toontown, see the blog for more information.
 
-**Feature**
+**Features**
 - Added a toggle to disable Speedchat Plus.
 - Added a toggle to disable Clubs chat.
 - Added the ability to delete SOS cards.
@@ -21,3 +21,15 @@
 
 **Bugfixes**
 - Fixed various issues. Please contact support if you encounter any!
+
+## Patch 1
+**Features**
+- When using an SOS call, the type of SOS call is now shown.
+- Materials can now be earned by defeating cogs.
+
+**Tweaks**
+- Rebalanced the number of materials received from fishing and the limited time instance.
+
+**Bugfixes**
+- Fixed a bug where Female toons would receive the wrong shorts from the Halloween limited time quest.
+- - Toons who have received the wrong shorts will be sent the correct pair.
