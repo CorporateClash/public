@@ -1,8 +1,21 @@
 [
   {
     "type": "faq",
-    "q": "What has changed in Corporate Clash?",
-    "a": "New features, new graphics, and new places to explore! There's a ton of new and exciting changes and features added to Toontown: Corporate Clash!"
+    "q": "What is this game? What is Corporate Clash?",
+    "a": "Corporate Clash is a completely free to play recreation of the MMORPG Toontown Online. The game was unjustly shut down in 2013 with tens of thousands of players still insterested in the game, and our goal is to bring back its legacy while adding new content to the game that has been requested by players for years."
+  },
+  {
+    "type": "faq",
+    "q": "How do you play?",
+    "a": "To play the game, simply create an account and head to the play page to get started! Flippy, the mayor of Toontown will be your tour guide and will teach you how to play."
+  },
+  {
+    "type": "faq",
+    "q": "How is Corporate Clash different from Toontown and other servers?",
+    "a": "New features, new graphics, and new places to explore! There's a ton of new and exciting changes and features added to Toontown: Corporate Clash! You can visit [the 1.0.0 changelog](https://corporateclash.net/releases/v1.0.0) to get a full list of our greatest features."
+  },
+  {
+    "type": "hr"
   },
   {
     "type": "faq",
@@ -26,5 +39,10 @@
     "type": "faq",
     "q": "What is ToonStep?",
     "a": "Toonstep is our two-factor authentication system that requires you verify new logins that don't originate from past IP addresses that you have trusted. Toonstep is not required and not recommended if you use a strong password and/or a password manager for random passwords across different websites."
+  },
+  {
+    "type": "faq",
+    "q": "I'm having trouble registering or logging into my account! What do I do?!",
+    "a": "The login page should include some error information if you have issues with it. Otherwise, email support@corporateclash.net and we'll help you with the process."
   }
 ]
