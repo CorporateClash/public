@@ -5,7 +5,7 @@ Feature:
 - Black Friday means big sales, which means a Sellbot Mega Invasion! Go help save Toontown from the Sellbot Menace!
 
 Optimization:
-- Made a slight improvements to street loading, players should see a small bump in peformance on streets.
+- Made a slight improvement to street loading, players should see a small bump in peformance on streets.
 - Toons now load from preloaded cache.
 
 Bugfixes:
