@@ -1,7 +1,7 @@
 ### v1.0.8.7 BETA
 Feature:
 - Turkey Toons are available for Thanksgiving only in Make-A-Toon, go make one!
-- - Turkey toons will only be avalible in the Make-A-Toon from Midnight until 11:59PM on Thursday the 22nd November.
+- - Turkey toons will only be available in the Make-A-Toon from Midnight until 11:59PM on Thursday the 22nd November.
 - Black Friday means big sales, which means a Sellbot Mega Invasion! Go help save Toontown from the Sellbot Menace!
 
 Optimization:
