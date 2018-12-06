@@ -3,7 +3,7 @@
     "series": [
         {
             "name": "The Official Storyline Comics",
-            "extra": "Yes, this is test data ;). Corporate Clash is a game with story. And often enough this is told through comics! This series is our official storyline progression series to reveal and tell important stories that need to be told as Corporate Clash unfolds.",
+            "extra": "Corporate Clash is a game with story. And often enough this is told through comics! This series is our official storyline progression series to reveal and tell important stories that need to be told as Corporate Clash unfolds.",
             "id": 1,
             "comics": [
                 {
@@ -13,12 +13,11 @@
                     "width": 600,
                     "height": 400,
                     "basepath": "https://comics-cdn.corporateclash.net/test1/",
-                    "start": "01",
-                    "preview1": "01.png",
-                    "preview2": "02.png",
-                    "preview3": "03.png",
-                    "end": "03",
-                    "ext": "png"
+                    panels: [
+                                "01.png",
+                                "02.png",
+                                "03.png"
+                    ]
                 },
                 {
                     "name": "The Office",
@@ -27,12 +26,11 @@
                     "width": 400,
                     "height": 500,
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    "start": "01",
-                    "preview1": "01.png",
-                    "preview2": "02.png",
-                    "preview3": "03.png",
-                    "end": "03",
-                    "ext": "png"
+                    panels: [
+                                "01.png",
+                                "02.png",
+                                "03.png"
+                    ]
                 }
             ]
         }
