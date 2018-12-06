@@ -10,10 +10,8 @@
                     "name": "Twi's Death Book",
                     "id": 10002,
                     "date": "August 14, 2018",
-                    "width": 600,
-                    "height": 400,
                     "basepath": "https://comics-cdn.corporateclash.net/test1/",
-                    panels: [
+                    "panels": [
                                 "01.png",
                                 "02.png",
                                 "03.png"
@@ -23,10 +21,9 @@
                     "name": "The Office",
                     "id": 10001,
                     "date": "August 13, 2018",
-                    "width": 400,
-                    "height": 500,
+
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    panels: [
+                    "panels": [
                                 "01.png",
                                 "02.png",
                                 "03.png"
