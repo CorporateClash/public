@@ -31,7 +31,7 @@
 - The Shtickerbook has been consolidated a bit.
 - - Moved the code redemption page to the items page
 - - Moved the Gag training page to the Gags page
-- Edited the Tutorial to reflect the Sthicker Book changes.
+- Edited the Tutorial to reflect the Shtickerbook changes.
 - Disabled the Shkraftbooking page
 - - This page will be reimplemented once all of the Shkraftbooking systems are ready, or whenever we have an event that uses materials.    
 - Changed FPS meter styling to a look a little more toony.
