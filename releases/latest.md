@@ -7,7 +7,7 @@
 **Bugfixes**
 - Fixed some text issues on the items page.
 - Fixed a bug where all toons would be notified about sprinting.
-- Fixed a crash which would occur when clicking on a small toons nametag.
+- Fixed a crash which would occur when clicking on a small toon's nametag.
 - Fixed an issue where an incorrect nameplate was given for completing a challenge.
 - Fish now swim in the diving game.
 - Fixed an issue where lure wouldn't give the correct amount of gag experience.
