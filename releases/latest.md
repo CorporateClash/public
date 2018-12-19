@@ -1,13 +1,46 @@
-### v1.0.9.2 BETA
+### v1.0.9.3 BETA
+
+**Events**
+- Toonseltown has opened up for the holiday season!
+- - You can visit Toonseltown at most of the time using the button beside your friends list button.
+- - Plenty of locals are out and about to give you information about caroling and sidetasks!
+
+- It isn't all slapstick and seltzer in Toonseltown...
+- - C.O.G.S. Incorporated has dedicated all its resources towards stopping the festivities in Toonseltown!
+- - - Every 30 minutes, there will be a special event to retrieve all the gifts that Santa drops over Toonseltown, but the cogs are going to try to take those gifts!
+- - - Stop the Cogs and retrieve as many presents as possible, and you can receive some awesome gifts!
+
+- Caroling is back in Toontown!
+- - Visit select shops around Toontown and sing their favorite carol to receive jellybeans, and if you sing to them all, a special reward!
+
+- It's gotten chilly in Toontown...
+- - All the playgrounds have been frozen over, and their music has become more festive to match!
+- - Frozen Fish can now be caught anywhere, due to their migration patterns shifting to the climate
+
+**Features**
+- Snowman Steve has taken permanent residence in The Brrrrgh!
+- - Talk to him after reaching The Brrrrgh in the taskline for a special sidetask!
+- - Snowman Steve isn't an ordinary toon, he speaks in the sound of sleigh bells!
 
 **Tweaks**
-- Lowered the volume of Taunt emote sound effect.
-- Adjusted the positioning of certain toons on the T.P.P.
+- Caroling now has cutscenes and music attached.
+- Snow piles have shown up all over Toontown!
+- - Run over them to gather some snowballs to throw at your friends, or even the Cogs!
+- Throwing pies and or snowballs at Cogs walking down the street will now engage them in battle.
+- Toon shops involved in caroling have been flagged as uncapturable to Cogs.
+- Wacky Way now has a street map.
+- Improved the transition tasks for Barnacle Boatyard to Acorn Acres.
+- - All the tasks now require cogs on Peanut Place.
+- - Peanut Place now has a 1:1 Cog:Toon ratio in battles.
+- - Peanut Place max level has been reduced to 9.
+- Fixed an issue with Legume Lane's max level being 9, instead of 10.
+- Added some phrases and words to the blacklist.
+- Slightly modified the map to account for Toonseltown's location.
+
+**Optimization**
+- Improved the preformance of the content pack loader
 
 **Bugfixes**
-- Fixed some text issues on the items page.
-- Fixed a bug where all toons would be notified about sprinting.
-- Fixed a crash which would occur when clicking on a small toon's nametag.
-- Fixed an issue where an incorrect nameplate was given for completing a challenge.
-- Fish now swim in the diving game.
-- Fixed an issue where lure wouldn't give the correct amount of gag experience.
+- Implemented a potential bugfix for Mac Laff Meter sorting issues
+- Fixed the infamous C.E.O. Table Glitch™
+
