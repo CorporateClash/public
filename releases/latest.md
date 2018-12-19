@@ -38,7 +38,7 @@
 - Slightly modified the map to account for Toonseltown's location.
 
 **Optimization**
-- Improved the preformance of the content pack loader
+- Improved the performance of the content pack loader
 
 **Bugfixes**
 - Implemented a potential bugfix for Mac Laff Meter sorting issues
