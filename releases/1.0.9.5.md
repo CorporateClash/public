@@ -1,7 +1,7 @@
 ### v1.0.9.5 BETA
 
 **Tweaks**
-- Updated a quest in Acorn Acers to reflect the street changes.
+- Updated a quest in Acorn Acres to reflect the street changes.
 - Added more words to the whitelist!
 - Updated the Winter speedchat menu!
 
