@@ -8,7 +8,7 @@
             "comics": [
                 {
                     "name": "Test1",
-                    "id": 10002,
+                    "id": 10001,
                     "date": "August 20, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test1/",
                     "panels": [
@@ -19,7 +19,7 @@
                 },
                 {
                     "name": "Test2",
-                    "id": 10001,
+                    "id": 10002,
                     "date": "August 19, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
                     "panels": [
@@ -30,7 +30,7 @@
                 },
                 {
                     "name": "Test3",
-                    "id": 10001,
+                    "id": 10003,
                     "date": "August 18, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
                     "panels": [
@@ -41,7 +41,7 @@
                 },
                 {
                     "name": "Test4",
-                    "id": 10001,
+                    "id": 10004,
                     "date": "August 17, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
                     "panels": [
@@ -52,7 +52,7 @@
                 },
                 {
                     "name": "Test5",
-                    "id": 10001,
+                    "id": 10005,
                     "date": "August 16, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
                     "panels": [
@@ -66,11 +66,11 @@
         {
             "name": "The Second Official Storyline Comics",
             "extra": "is this your card",
-            "id": 1,
+            "id": 2,
             "comics": [
                 {
                     "name": "Test6",
-                    "id": 10002,
+                    "id": 10006,
                     "date": "August 15, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test1/",
                     "panels": [
@@ -81,7 +81,7 @@
                 },
                 {
                     "name": "Test7",
-                    "id": 10001,
+                    "id": 10007,
                     "date": "August 14, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
                     "panels": [
@@ -92,7 +92,7 @@
                 },
                 {
                     "name": "Test8",
-                    "id": 10001,
+                    "id": 10008,
                     "date": "August 13, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
                     "panels": [
@@ -103,7 +103,7 @@
                 },
                 {
                     "name": "Test9",
-                    "id": 10001,
+                    "id": 10009,
                     "date": "August 12, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
                     "panels": [
@@ -114,7 +114,7 @@
                 },
                 {
                     "name": "Test10",
-                    "id": 10001,
+                    "id": 10010,
                     "date": "August 11, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/test2/",
                     "panels": [
