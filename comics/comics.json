@@ -7,120 +7,27 @@
             "id": 1,
             "comics": [
                 {
-                    "name": "Test1",
+                    "name": "Annual Review",
                     "id": 10001,
-                    "date": "August 20, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test1/",
+                    "date": "December 25, 2018",
+                    "basepath": "https://comics-cdn.corporateclash.net/annual_review/",
                     "panels": [
                                 "01.png",
                                 "02.png",
-                                "03.png"
-                    ]
-                },
-                {
-                    "name": "Test2",
-                    "id": 10002,
-                    "date": "August 19, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png"
-                    ]
-                },
-                {
-                    "name": "Test3",
-                    "id": 10003,
-                    "date": "August 18, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png"
-                    ]
-                },
-                {
-                    "name": "Test4",
-                    "id": 10004,
-                    "date": "August 17, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png"
-                    ]
-                },
-                {
-                    "name": "Test5",
-                    "id": 10005,
-                    "date": "August 16, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "The Second Official Storyline Comics",
-            "extra": "is this your card",
-            "id": 2,
-            "comics": [
-                {
-                    "name": "Test6",
-                    "id": 10006,
-                    "date": "August 15, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test1/",
-                    "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png"
-                    ]
-                },
-                {
-                    "name": "Test7",
-                    "id": 10007,
-                    "date": "August 14, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png"
-                    ]
-                },
-                {
-                    "name": "Test8",
-                    "id": 10008,
-                    "date": "August 13, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png"
-                    ]
-                },
-                {
-                    "name": "Test9",
-                    "id": 10009,
-                    "date": "August 12, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png"
-                    ]
-                },
-                {
-                    "name": "Test10",
-                    "id": 10010,
-                    "date": "August 11, 2018",
-                    "basepath": "https://comics-cdn.corporateclash.net/test2/",
-                    "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png"
+                                "03.png",
+                                "04.png",
+                                "05.png",
+                                "06.png",
+                                "07.png",
+                                "08.png",
+                                "09.png",
+                                "10.png",
+                                "11.png",
+                                "12.png",
+                                "13.png",
+                                "14.png",
+                                "15.png",
+                                "16.png",
                     ]
                 }
             ]
