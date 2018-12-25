@@ -5,7 +5,7 @@
 - Added a secret nameplate unlock.
 - - You have until the end of the Winter event to solve and unlock the nameplate.
 - Added a Live event to Toonseltown.
-- - Join us at 8PM Toontown time to see a special visitor.
+- - Join us at 8:30PM Toontown time to see a special visitor.
 - Added Species Effects.
 - - Deers can now unlock a special effect.
 - - More to come soon!
