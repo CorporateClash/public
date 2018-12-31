@@ -2,7 +2,7 @@
 
 **Events**
 - Toonseltown has closed up for the season to get things straightened up for next year!
-- - All unfished Toonseltown quests have been removed.
+- - All unfinished Toonseltown quests have been removed.
 - - The snow has started melting all around Toontown.
 
 - New Years fireworks has come to Toontown!
