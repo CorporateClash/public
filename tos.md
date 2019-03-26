@@ -7,7 +7,9 @@ These Terms of Service govern your user of our services, as outlined below. When
 * "you" and "your" refers to your account, you, or anyone with access to your account. 
 * "Corporate Clash entities" refers to the officers, directors, employees, and volunteers that help us run our services.
 * "User Access Group" refers to users who have signed up for our service. 
-* “Disney” may referrer to The Walt Disney Company or any of its subsidiaries. We are not affiliated with the Walt Disney Company or any of its subsidiaries.
+* “Disney” may referrer to The Walt Disney Company or any of its subsidiaries. 
+
+We are not affiliated with Disney.
 
 ### Eligibility
 
@@ -35,11 +37,11 @@ While we make tools available to aid in the protection of your account, you are 
 
 ##### Don't misuse our services. 
 
-You are only allowed to access our services to an extent permitted by law, and only via the means we intend. We reserve the right to suspend your account and stop providing service to you if we determine you, anyone who has or had access to your account, has violated these terms or performed actions in ill-will or with malicious intent. 
+You are only allowed to access our services to an extent permitted by law, and only via the means we intend. We reserve the right to suspend your account and stop providing service to you if we determine you, or anyone who has access to your account, has violated these terms or performed actions in ill-will or with malicious intent. 
 
 ##### Play fair. 
 
-Don't use exploits, hacks, or unauthorized third party software that may give you an unfair advantage in relation to other users. We expressly permit the use of software which provides an in-game overlay for voice or text chat, however, only as long as it does not perform automated actions on our services. 
+Don't use exploits, hacks, or unauthorized third party software that may give you an unfair advantage in relation to other users. We expressly permit the use of software which provides an in-game overlay for voice or text chat as long as it does not perform automated actions. 
 
 We encourage you to notify us of any exploits or hacks you encouter, find, or create immediately via an email to security@corporateclash.net.
 
@@ -71,4 +73,4 @@ IN NO EVENT WILL CORPORATE CLASH ENTITIES BE LIABLE TO YOU OR ANY THIRD PARTY FO
 
 ### Changes to these Terms
 
-We reserve the right to update this document at our discretion, without prior notice, however we will make an adequate effort to notify existing users of our service when our terms do change within a fortnite via email or other means. We reserve the right to not notify the user of changes to the terms whatsoever.
+Besides changes to formatting, we will make an adequate effort to notify you when our terms change within a fortnite via email or other means. We reserve the right to not notify you of changes to the terms whatsoever.
