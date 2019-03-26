@@ -13,10 +13,13 @@ These Terms of Service govern your user of our services, as outlined below. When
 
 By agreeing to these terms, you agree that:
 
-* you are at least 13 years of age if you reside in the United States
-* you are at least 16 years of age if you reside in the European Union or one of its member states
-* you are able to legally bind yourself to these terms as per local juristiction
+* you are at least 13 years of age if you reside in the United States, or
+* you are at least 16 years of age if you reside in the European Union or one of its member states, or
+* you are able to legally bind yourself to these terms as per local juristiction, or 
 * you have a parent or guardian present that also agrees to these terms
+
+You also agree that: 
+
 * you are not currently residing in a country or state santioned by the United States government 
 * you have not previously been banned, suspended, or removed from our services
 
