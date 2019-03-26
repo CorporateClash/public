@@ -21,7 +21,7 @@ By agreeing to these terms, you agree that:
 
 You also agree that: 
 
-* you are not currently residing in a country or state santioned by the United States government 
+* you are not currently residing in a country or state sanctioned by the United States government 
 * you have not previously been banned, suspended, or removed from our services
 
 ### Your Responsibilities
