@@ -6,7 +6,6 @@ These Terms of Service govern your user of our services, as outlined below. When
 * "we", "us", and "our" refer to the company "Corporate Clash"
 * "you" and "your" refers to your account, you, or anyone with access to your account. 
 * "Corporate Clash entities" refers to the officers, directors, employees, and volunteers that help us run our services.
-* "User Access Group" refers to users who have signed up for our service. 
 * “Disney” may referrer to The Walt Disney Company or any of its subsidiaries. 
 
 We are not affiliated with Disney.
