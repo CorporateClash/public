@@ -4,7 +4,7 @@ These Terms of Service govern your user of our services, as outlined below. When
 
 * "services" are products and services operated by us or under our control
 * "we", "us", and "our" refer to the company "Corporate Clash"
-* "you" and "your" refers to your account, you, or anyone with access to your account. 
+* "you" and "your" refer to your account, you, or anyone with access to your account. 
 * "Corporate Clash entities" refers to the officers, directors, employees, and volunteers that help us run our services.
 * “Disney” may referrer to The Walt Disney Company or any of its subsidiaries. 
 
@@ -32,6 +32,8 @@ You are the sole person responsible for actions and activities perormed under yo
 
 While we make tools available to aid in the protection of your account, you are resposible for using a strong password, keeping your e-mail account secure, and ensuring unauthorized parties do not access your account.
 
+We provide no recovery solutions or remediation if you lose control of your e-mail account and an unauthorized party uses access to your e-mail to change the account e-mail, get your account to be banned, or change the account password. 
+
 ### Your use of our Services
 
 ##### Don't misuse our services. 
@@ -48,13 +50,15 @@ We encourage you to notify us of any exploits or hacks you encouter, find, or cr
 
 We reseve the right to suspend your account and stop providing service to you for any amount of time if we determine you previously have, are, or intent to degrade the experience of other users of our service.  
 
+Corporate Clash entities have final say in disputes; you may dispute an action taken against your account one time by emailing support@corporateclash.net. We reserve the right to uphold our decisions without reason and we reserve the right to not respond to disputes whatsoever.
+
 ##### We process your data.
 
 By signing up for our services, you content to our data collection policies as described in our [privacy policy](https://corporateclash.net/help/privacy).
 
 ##### Account selling
 
-You agree that you will not buy, sell, or transfer any aspect of your account without express written confirmation from an authorized officer representing us. 
+You agree that you will not buy, sell, or transfer any aspect of your account without express written confirmation from us. 
 
 ##### Legal protections
 
