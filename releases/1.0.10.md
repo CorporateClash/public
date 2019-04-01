@@ -7,6 +7,8 @@
 - - Both the Halloween and Winter events are available to play!
 - - - The Toonseltown minigame will run every 20 minutes!
 - - - The Toons of Toonseltown have opened up shop for April Toons. Go and see them if you didn't get a chance during the Winter event.
+- - Melancholic toons have shuffled their way into Toontown!
+- - - Melancholic type toons only have one laff point, so play carefully!
 
 **Features**
 - Limited time quests now show their expiry date.
