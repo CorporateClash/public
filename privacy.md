@@ -55,7 +55,9 @@ We do not perform profiling or automated decision making on users’ behalf beyo
 
 We use first-party cookies to contain a "session" that allows you to stay logged in between page loads. This session is associated with PII related to your account, but is not used to track you in places other than our websites.
 
-We use some third-party cookies like the Cloudflare `__cfduid` cookie and `__cf_bm` cookie to ensure our website is protected against malicious attacks. These cookies are used across Cloudflare-operated websites in order to stop bots from performing malicious actions, such as signing up fake accounts.
+We use some third-party cookies like the Cloudflare `__cfduid` cookie and [`__cf_bm`](https://community.cloudflare.com/t/cf-bm-cookie/56696/15?u=judge) cookie to ensure our website is protected against malicious attacks. These cookies are used across Cloudflare-operated websites in order to stop bots from performing malicious actions, such as signing up fake accounts.
+
+When we use Twitter or Youtube embeds to show content from their services, we ask them to use a "no cookie" or "no tracking" version of the embed. It is up to them to honor this.
 
 ### Updates to this document
 
