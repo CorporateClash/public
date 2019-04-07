@@ -51,6 +51,12 @@ We do not perform profiling or automated decision making on users’ behalf beyo
 * DigitalOcean ([Digitalocean DPA](https://www.digitalocean.com/legal/data-processing-agreement/))
 * Amazon Web Services/AWS ([AWS DPA](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf))
 
+### Cookies
+
+We use first-party cookies to contain a "session" that allows you to stay logged in between page loads. This session is associated with PII related to your account, but is not used to track you in places other than our websites.
+
+We use some third-party cookies like the Cloudflare `__cfduid` cookie and `__cf_bm` cookie to ensure our website is protected against malicious attacks. These cookies are used across Cloudflare-operated websites in order to stop bots from performing malicious actions, such as signing up fake accounts.
+
 ### Updates to this document
 
 We retain the right to update this document without notice. Users who continue to use our service after this document has been updated automatically agree to the new data processing terms defined in the updated document.
