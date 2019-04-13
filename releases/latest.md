@@ -7,7 +7,7 @@
 
 **Bugfixes**
 - Fixed an issue where Clubs would be displayed on the Main Menu.
-- - Clubs are currently undering going a majour rework. They'll be back soon!
+- - Clubs are currently undergoing a major rework. They'll be back soon!
 
 **Other**
 - Added in some code to prepare for a future district page update.
