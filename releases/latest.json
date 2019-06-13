@@ -1,44 +1,25 @@
 {
-  "version": "v1.0.11 BETA",
+  "version": "v1.0.11.1 BETA",
   "notes": [
-    {
-      "title": "**Features**",
-      "points": [
-        "- Gag presets",
-        "- - The Gag Shop has spruced up their systems, and can now remember your gag presets!",
-        "- - Toons can now save one Gag Preset at The Gag Shop.",
-        "- - Gag Presets costs the same as buying each gag individually.",
-        "- Refund Points",
-        "- - Toons can now return a Gag Track to the Gag Shop in exchange for a Refund Point!",
-        "- - Toons in Drowsy Dreamland can complete a brand new sidequest to earn their first Refund Point!",
-        "- Gag Training Page",
-        "- - The Gag Training page has received a fresh coat of paint!",
-        "- District Page",
-        "- - Toons will no longer teleport to a district when clicking on a district",
-        "- - Invasion cog and estimated duration can now be seen from the district page"
-      ]
-    },
     {
       "title": "**Tweaks**",
       "points": [
-        "- The credits have been updated to reflect the current staff on the team",
-        "- Lowered the wind sound effect heard in certain playgrounds.",
-        "- The Tesla gag has been buffed to 66 damage!",
-        "- Reworked purchasing logic.",
-        "- - Purchases that use the Bank will now take from the Bank first.",
-        "- - - This was a community feedback suggestion by @Dalton and @Klungo on our Discord!"
+        "- Zap's prioritization mechanics have been reworked!",
+        "- - Zap now prioritizes its direction to the left side instead of the right side. Toons will need to update their strategies!",
+        "- - Zap no longer prioritizes prestiged Zap gags to go before non-prestiged Zap gags."
       ]
     },
     {
       "title": "**Bugfixes**",
       "points": [
-        "- The Toons over at The Gag Shop have been working on Zap Gags!",
-        "- - Mutiple Fixes - Please check full patch notes for more information.",
-        "- Camera Changes",
-        "- - Fixed an issue with the camera getting stuck in the floor",
-        "- Fixed the 'table glitch' in the CEO fight.",
-        "- Toons that are saved during a battle with a unite no longer lose gag experience.",
-        "- Fixed a bug where the other clothing item (shirt/shorts/skirt) would reset after changing the other item."
+        "- The Toons over at The Gag Shop have been working on Zap gags, again!",
+        "- - Fixed visual bugs with Zap. Most if not all animations should now play properly!",
+        "- - - Zap may still have problems, so if you experience any unexpected issues with Zap, please report them to us!",
+        "- Fixed multiple issues on the District Page.",
+        "- - If there are still any problems related to the District Page, please report them to us and attach crash logs if available!",
+        "- Fixed a crash with players using the new Gag GUI.",
+        "- Replaced the lock on the construction site so cogs can no longer sneak in.",
+        "- Fixed an issue where The Trolley Gag Shop would take beans from your jellybean bank first."
       ]
     }
   ]
