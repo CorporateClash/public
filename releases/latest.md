@@ -6,3 +6,6 @@
 - - Fixed a bug in which the accuracy decay on lured Cogs overrides the 100% accuracy of Zap gags on soaked Cogs.
 - Xarius Pendragon will no longer steal your experience points in Cog Facilities or Cog Bosses! Potentially fixed a bug in which Toons irregularly lost experience points.
 - - If you still experience issues with losing experience points, please report them!
+
+**Feature**
+- The Toon Resistance Giveaway's Winner, TrueBlueDogemon, now has his Burger Shirt in the game! To redeem it, use code "FLAME-BROILED" in the Codes section of the Items Page!
