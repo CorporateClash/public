@@ -7,7 +7,7 @@
         "- The Toons over at The Gag Shop have been working on Zap gags, again...",
         "- - Fixed a situational bug in which a Cog gets un-soaked when a Trap gag hits it in the same round.",
         "- - Fixed a bug in which the accuracy decay on lured Cogs overrides the 100% accuracy of Zap gags on soaked Cogs.",
-        "- Xarius Pendragon will no longer steal your experience points in Cog Facilities or Cog Bosses! Potentially fixed a bug in which Toons irregularly lost experience points."
+        "- Xarius Pendragon will no longer steal your experience points in Cog Facilities or Cog Bosses! Potentially fixed a bug in which Toons irregularly lost experience points.",
         "- - If you still experience issues with losing experience points, please report them!"
       ]
     }
