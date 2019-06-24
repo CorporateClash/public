@@ -20,7 +20,8 @@
 	{
       "title": "**Bugfixes**",
       "points": [
-        "- The Toon Resistance Giveaway's Winner, TrueBlueDogemon, now has his Burger Shirt in the game! To redeem it, use code \"FLAME-BROILED\" in the Codes section of the Items Page!"
+        "- Training Points Page",
+		"- - Fixed an issue in which Toons could not take back a Training Point they put in for a Gag Track when they have 0 Training Points in total"
       ]
     }
   ]
