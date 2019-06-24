@@ -1,18 +1,24 @@
 {
-  "version": "v1.0.11.2 BETA",
+  "version": "v1.0.12 BETA",
   "notes": [
     {
-      "title": "**Bugfixes**",
+      "title": "**Features**",
       "points": [
-        "- The Toons over at The Gag Shop have been working on Zap gags, again...",
-        "- - Fixed a situational bug in which a Cog gets un-soaked when a Trap gag hits it in the same round.",
-        "- - Fixed a bug in which the accuracy decay on lured Cogs overrides the 100% accuracy of Zap gags on soaked Cogs.",
-        "- Xarius Pendragon will no longer steal your experience points in Cog Facilities or Cog Bosses! Potentially fixed a bug in which Toons irregularly lost experience points.",
-        "- - If you still experience issues with losing experience points, please report them!"
+        "- Cog Department Experience Levels",
+        "- - An experience bar, similar to the Activity Experience Bars (Fishing, Golfing, etc), will now appear during Cog Boss battles that Toons can level up through!",
+        "- - Briefly, you can level up by performing well in the interactive rounds of the Cog Boss (Pie Round, Crane Round, Cannon Round, etc)",
+        "- - Toons are rewarded experience points in two different ways:",
+        "- - - Individual performance is rewarded at the end of the battle",
+        "- - - Group performance is rewarded in real-time",
+        "- - Every 10 levels, Toons will receive some rewards that they might find cool or even useful!",
+        "- - - At level 10, Toons will be given the respective Cog Department's special uniform!",
+        "- - - At level 20, Toons will be given the ability to keep their Cog currencies (Merits, Cogbucks, etc) for their next promotion in their respective Cog Department!",
+        "- - - At level 30, Toons will be given a permanent +1 reward boost (SOS, Unites, etc) in their respective Cog Department!",
+        "- - - A special (temporarily confidential) reward is given to Toons who max out their Cog Department Levels!"
       ]
     },
 	{
-      "title": "**Feature**",
+      "title": "**Bugfixes**",
       "points": [
         "- The Toon Resistance Giveaway's Winner, TrueBlueDogemon, now has his Burger Shirt in the game! To redeem it, use code \"FLAME-BROILED\" in the Codes section of the Items Page!"
       ]
