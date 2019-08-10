@@ -4,60 +4,32 @@
     {
       "title": "**Features**",
       "points": [
-        "- Cog Department Experience Levels",
-        "- - An experience bar, similar to the Activity Experience Bars (Fishing, Golfing, etc), will now appear during Cog Boss battles that Toons can level up through!",
-        "- - Briefly, you can level up by performing well in the interactive rounds of the Cog Boss (Pie Round, Crane Round, Cannon Round, etc)",
-        "- - Toons are rewarded experience points in two different ways:",
-        "- - - Individual performance is rewarded at the end of the battle",
-        "- - - Group performance is rewarded in real-time",
-        "- - Every 10 levels, Toons will receive some rewards that they might find cool or even useful!",
-        "- - - At level 10, Toons will be given the respective Cog Department's special uniform!",
-        "- - - At level 20, Toons will be given the ability to keep their Cog currencies (Merits, Cogbucks, etc) for their next promotion in their respective Cog Department!",
-        "- - - At level 30, Toons will be given a permanent +1 reward boost (SOS, Unites, etc) in their respective Cog Department!",
-        "- - - A special (temporarily confidential) reward is given to Toons who max out their Cog Department Levels!",
-        " ",
+        "- Taskline has been completely reworked!",
+        "- - In general, ToonTasks across the board have been nerfed or modified to prevent tedium.",
+        "- - ToonTasks involving staff members and community figures have been removed.",
         "- Introducing the Sidetask Searcher!",
-        "- - A new tab has appeared in the ToonTasks page!",
         "- - The \"Sidetask Searcher\" will show a toon all available sidetasks to them.",
-        "- - The sidetasks are organized by playground, or you can view ALL sidetasks.",
         "- - The name of the sidetasks are color-coded based on the completion status of the sidetask.",
-        "- - - Task names in black are side tasks available for pickup.",
-        "- - - Task names in orange are side tasks that are currently in progress by the toon.",
-        "- - - Task names in dark red are side tasks that are completed. Upon clicking on the task, you will notice the official Toon Council stamp",
-        " ",
         "- Olly Outback returns for the arrival of Outback toons!",
         "- - Talk to Olly Outback in the Toontown Central playground and help welcome the new toons in town!",
-        "- - Participating in various activities around town will reward toons with \"Didgeridollars\" that are used to unlock cool Outback exclusive accessories!",
+        "- - Participating in various activities around town will reward toons with \"Didgeridollars\" that are used to unlock cool Outback exclusive accessories!"
       ]
     },
-	{
+    {
       "title": "**Playgrounds**",
       "points": [
-        "- Multiple backgrounds and nameplates have been added to the game. Some of the nameplates are secretly unlocked! Happy Hunting!",
+        "- Multiple backgrounds and nameplates have been added to the game. Happy Hunting!",
         "- A few playgrounds have been slightly tweaked to feel more alive.",
         "- Builder Bob has finally got to work in Ye Olde Toontowne! The Windmill and Watermill now spin.",
         "- The boat in Barnacle Boatyard now has a captain!"
       ]
     },
-	{
+    {
       "title": "**Cog Headquarters**",
       "points": [
         "- The CEO serving round has been shortened. Cogs now only need to be served twice to explode, and the round will only last 200 seconds as opposed to 300.",
         "- Toons that are level 20 in a department and promote to a maximum merit promotion will now have merits carry over as intended.",
         "- When hovering over missing disguise parts in the disguise page in the Shtickerbook, information will be displayed including where to acquire the part."
-      ]
-    },
-	{
-      "title": "**Misc**",
-      "points": [
-        "- The Gag Shop clerks have been working hard on ensuring the best quality of zap gags they can produce! Potential issues involving zap jumping the wrong way have been fixed.",
-        "- Starting gag tracks can now be refunded.",
-        "- Fixed issues with district page not displaying invasion information correctly.",
-        "- Dialogue boxes have been adjusted to prevent them to going off screen.",
-        "- Removed the "Howdy!" easter egg for Big White Toon cheesy effect in The Brrrgh. This cheesy effect is now instead unlocked via a sidetask.",
-        "- Accessories across all species have been adjusted to fit better!",
-        "- Credits have been updated to reflect the current staff team.",
-        "- Added various words to the whitelist."
       ]
     }
   ]
