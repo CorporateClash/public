@@ -2,34 +2,34 @@
   "version": "v1.0.13 BETA",
   "notes": [
     {
+      "title": "**Event**",
+      "points": [
+        "- Buffed Didgeridollar Gains!",
+        "- - 3 points will now be earned for defeating every level 15+ Cog",
+        "- - Added a 30% chance to earn a Didgeridollar from completing a quest part."
+      ]
+    },
+    {
       "title": "**Features**",
       "points": [
-        "- Taskline has been completely reworked!",
-        "- - In general, ToonTasks across the board have been nerfed or modified to prevent tedium.",
-        "- - ToonTasks involving staff members and community figures have been removed.",
-        "- Introducing the Sidetask Searcher!",
-        "- - The \"Sidetask Searcher\" will show a toon all available sidetasks to them.",
-        "- - The name of the sidetasks are color-coded based on the completion status of the sidetask.",
-        "- Olly Outback returns for the arrival of Outback toons!",
-        "- - Talk to Olly Outback in the Toontown Central playground and help welcome the new toons in town!",
-        "- - Participating in various activities around town will reward toons with \"Didgeridollars\" that are used to unlock cool Outback exclusive accessories!"
+        "- Added the previously unused Snowland Tag Game Arena to The Brrrgh's Tag Game!",
+        "- Added your Didgeridollar count to the Inventory GUI "
       ]
     },
     {
-      "title": "**Playgrounds**",
+      "title": "**Bugfixes**",
       "points": [
-        "- Multiple backgrounds and nameplates have been added to the game. Happy Hunting!",
-        "- A few playgrounds have been slightly tweaked to feel more alive.",
-        "- Builder Bob has finally got to work in Ye Olde Toontowne! The Windmill and Watermill now spin.",
-        "- The boat in Barnacle Boatyard now has a captain!"
+        "- The Captain's returned from his fishing trip!",
+        "- - No longer are you forced to enjoy the day in Barnacle Boatyard with him."
       ]
     },
     {
-      "title": "**Cog Headquarters**",
+      "title": "**Misc**",
       "points": [
-        "- The CEO serving round has been shortened. Cogs now only need to be served twice to explode, and the round will only last 200 seconds as opposed to 300.",
-        "- Toons that are level 20 in a department and promote to a maximum merit promotion will now have merits carry over as intended.",
-        "- When hovering over missing disguise parts in the disguise page in the Shtickerbook, information will be displayed including where to acquire the part."
+        "- Managed to get Lil' Oldman to unlock his door.",
+        "- Added a new batch of words to the chat whitelist.",
+        "- Added a check to send missing Quest Rewards upon login.",
+        "- Fixed various other minor bugs."
       ]
     }
   ]
