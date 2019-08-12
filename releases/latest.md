@@ -24,7 +24,7 @@
 **Misc**
 - Managed to get Lil' Oldman to unlock his door.
 - YOTT NPC's are no longer confused on which street to send you to.
-- Fixed visual bug regarding Kiwi's appearnce in Toon Profiles & the Items Page.
+- Fixed visual bug regarding Kiwi's appearance in Toon Profiles & the Items Page.
 - Added a new batch of words to the chat whitelist.
 - Updated how Playground Backgrounds are sent to players.
 - Added a check to send missing Quest Rewards upon login.
