@@ -1,35 +1,31 @@
 {
-  "version": "v1.0.13.1 BETA",
+  "version": "v1.0.13.2 BETA",
   "notes": [
     {
-      "title": "**Event**",
+      "title": "**Trolley**",
       "points": [
-        "- Buffed Didgeridollar Gains!",
-        "- - 3 points will now be earned for defeating every level 15+ Cog",
-        "- - Added a 30% chance to earn a Didgeridollar from completing a quest part."
+        "- Temporarily disabled Toon Escape."
       ]
     },
     {
-      "title": "**Features**",
+      "title": "**ToonTasks**",
       "points": [
-        "- Added the previously unused Snowland Tag Game Arena to The Brrrgh's Tag Game!",
-        "- Added your Didgeridollar count to the Inventory GUI "
+        "- Dialogue fixes in Barnacle Boatyard and Ye Olde Toontowne.",
+        "- Fixed issue with 15 laff ubers losing their mainline ToonTask in the beginning of the game.",
+        "- Fixed issue with getting disconnected when talking to NPCs with uncompleted disguises while on a disguise completion task."
       ]
     },
     {
-      "title": "**Bugfixes**",
+      "title": "**Outback Event**",
       "points": [
-        "- The Captain's returned from his fishing trip!",
-        "- - No longer are you forced to enjoy the day in Barnacle Boatyard with him."
+        "- Significantly buffed Didgeridollar gains from turning in ToonTask parts. It is now a 30% chance to be awarded 7-10 Didgeridollars."
       ]
     },
     {
       "title": "**Misc**",
       "points": [
-        "- Managed to get Lil' Oldman to unlock his door.",
-        "- Added a new batch of words to the chat whitelist.",
-        "- Added a check to send missing Quest Rewards upon login.",
-        "- Fixed various other minor bugs."
+        "- Fixed crash from closing out of a toon's TAP too fast.",
+        "- Turkeys can no longer show up when hitting the 'Shuffle' button in Make-a-Toon."
       ]
     }
   ]
