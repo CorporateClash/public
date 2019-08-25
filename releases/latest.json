@@ -4,13 +4,7 @@
     {
       "title": "**ToonTasks/Taskline**",
       "points": [
-        "- The 'Toss Pineapples at Resistance Ranger Rest' ToonTask has been brought back. This ToonTask will replace the ToonTask where you have to collect fruit from the Catching Game.",
-        "- Fixed issue with not receiving Roman Helmet from Professor Pi, those who have completed this task without being rewarded will receive the helmet upon logging in.",
-        "- Fixed misleading information and grammar issues in the dialogue throughout the first half of the main taskline.",
-        "- Fixed issue with ToonTasks displaying misleading information when tasked to recover items from a cog building.",
-        "- Fixed issue with boss fight ToonTasks not displaying the NPC to return to upon completion.",
-        "- Adjusted certain speedchat phrases that had grammar issues regarding ToonTasks.",
-        "- A ToonTask that requires the player to catch fruit from the trolley in the Catching game will now display the correct fruit."
+        "- Various ToonTask fixes and adjustments."
       ]
     },
     {
@@ -18,11 +12,8 @@
       "points": [
         "- New rewards!",
         "- - The Didgeridollar cap has been raised from 3500 to 6500!",
-        "- - With this cap increase, toons can now acquire 5 new accessories and a new shirt!",
         "- Balance adustments with Didgeridollars.",
-        "- - Due to the new Didgeridollar limit, the rate at which Didgeridollars are earned has been increased!",
-        "- - The Outback welcoming event will also be extended by an additional week so everyone can get their hands on the new rewards!",
-        "- - Fixed an issue with players earning the incorrect amount of Didgeridollars particularly in boss fights.",
+        "- - The rate at which Didgeridollars are earned has been increased alongside a week extension of the event!",
         "- One final secret nameplate for the Outback Event is now unlockable in game, happy hunting!"
       ]
     },
@@ -42,11 +33,8 @@
       "title": "**Misc**",
       "points": [
         "- You can no longer catch the T.A.P. fishing background more than once while fishing.",
-        "- Fixed typos in the Corporate Clash credits.",
         "- Fixed a district reset issue with the Trolley during the Trolley Tracks holiday.",
-        "- Added a significant amount of words to the whitelist.",
-        "- NPC names can no longer be used as a toon name if it exists in the Pick-A-Name.",
-        "- Modified certain doodle names when buying a new doodle in the Pet Store."
+        "- Added a significant amount of words to the whitelist."
       ]
     }
   ]
