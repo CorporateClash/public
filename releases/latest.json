@@ -1,31 +1,52 @@
 {
-  "version": "v1.0.13.2 BETA",
+  "version": "v1.0.13.3 BETA",
   "notes": [
     {
-      "title": "**Trolley**",
+      "title": "**ToonTasks/Taskline**",
       "points": [
-        "- Temporarily disabled Toon Escape."
-      ]
-    },
-    {
-      "title": "**ToonTasks**",
-      "points": [
-        "- Dialogue fixes in Barnacle Boatyard and Ye Olde Toontowne.",
-        "- Fixed issue with 15 laff ubers losing their mainline ToonTask in the beginning of the game.",
-        "- Fixed issue with getting disconnected when talking to NPCs with uncompleted disguises while on a disguise completion task."
+        "- The 'Toss Pineapples at Resistance Ranger Rest' ToonTask has been brought back. This ToonTask will replace the ToonTask where you have to collect fruit from the Catching Game.",
+        "- Fixed issue with not receiving Roman Helmet from Professor Pi, those who have completed this task without being rewarded will receive the helmet upon logging in.",
+        "- Fixed misleading information and grammar issues in the dialogue throughout the first half of the main taskline.",
+        "- Fixed issue with ToonTasks displaying misleading information when tasked to recover items from a cog building.",
+        "- Fixed issue with boss fight ToonTasks not displaying the NPC to return to upon completion.",
+        "- Adjusted certain speedchat phrases that had grammar issues regarding ToonTasks.",
+        "- A ToonTask that requires the player to catch fruit from the trolley in the Catching game will now display the correct fruit."
       ]
     },
     {
       "title": "**Outback Event**",
       "points": [
-        "- Significantly buffed Didgeridollar gains from turning in ToonTask parts. It is now a 30% chance to be awarded 7-10 Didgeridollars."
+        "- New rewards!",
+        "- - The Didgeridollar cap has been raised from 3500 to 6500!",
+        "- - With this cap increase, toons can now acquire 5 new accessories and a new shirt!",
+        "- Balance adustments with Didgeridollars.",
+        "- - Due to the new Didgeridollar limit, the rate at which Didgeridollars are earned has been increased!",
+        "- - The Outback welcoming event will also be extended by an additional week so everyone can get their hands on the new rewards!",
+        "- - Fixed an issue with players earning the incorrect amount of Didgeridollars particularly in boss fights.",
+        "- One final secret nameplate for the Outback Event is now unlockable in game, happy hunting!"
+      ]
+    },
+    {
+      "title": "**Outback Species**",
+      "points": [
+        "- The size of the new Outback species have been adjusted to be unique from each other."
+      ]
+    },
+    {
+      "title": "**Activities**",
+      "points": [
+        "- Slightly buffed activity experience gain from golfing."
       ]
     },
     {
       "title": "**Misc**",
       "points": [
-        "- Fixed crash from closing out of a toon's TAP too fast.",
-        "- Turkeys can no longer show up when hitting the 'Shuffle' button in Make-a-Toon."
+        "- You can no longer catch the T.A.P. fishing background more than once while fishing.",
+        "- Fixed typos in the Corporate Clash credits.",
+        "- Fixed a district reset issue with the Trolley during the Trolley Tracks holiday.",
+        "- Added a significant amount of words to the whitelist.",
+        "- NPC names can no longer be used as a toon name if it exists in the Pick-A-Name.",
+        "- Modified certain doodle names when buying a new doodle in the Pet Store."
       ]
     }
   ]
