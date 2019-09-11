@@ -1,40 +1,18 @@
 {
-  "version": "v1.0.13.3 BETA",
+  "version": "v1.0.13.4 BETA",
   "notes": [
-    {
-      "title": "**ToonTasks/Taskline**",
-      "points": [
-        "- Various ToonTask fixes and adjustments."
-      ]
-    },
     {
       "title": "**Outback Event**",
       "points": [
-        "- New rewards!",
-        "- - The Didgeridollar cap has been raised from 3500 to 6500!",
-        "- Balance adustments with Didgeridollars.",
-        "- - The rate at which Didgeridollars are earned has been increased alongside a week extension of the event!",
-        "- One final secret nameplate for the Outback Event is now unlockable in game, happy hunting!"
-      ]
-    },
-    {
-      "title": "**Outback Species**",
-      "points": [
-        "- The size of the new Outback species have been adjusted to be unique from each other."
-      ]
-    },
-    {
-      "title": "**Activities**",
-      "points": [
-        "- Slightly buffed activity experience gain from golfing."
+        "- The Outback species welcoming event has come to a close. Olly Outback thanks everyone for participating!"
       ]
     },
     {
       "title": "**Misc**",
       "points": [
-        "- You can no longer catch the T.A.P. fishing background more than once while fishing.",
-        "- Fixed a district reset issue with the Trolley during the Trolley Tracks holiday.",
-        "- Added a significant amount of words to the whitelist."
+        "- Fixed Grammar issues on ToonTask posters.",
+        "- Fixed dialogue issues throughout the main taskline.",
+        "- Adjusted the position of many accessories."
       ]
     }
   ]
