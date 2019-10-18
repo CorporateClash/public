@@ -45,6 +45,10 @@ If you are a parent or legal guardian, and would no longer like you and your chi
 
 We do not perform profiling or automated decision making on users’ behalf beyond verifying that a user has authorized specific IP addresses to access their account. Users let us know themselves what IP addresses are authorized.
 
+### Google Data
+
+When you link your Corporate Clash account to Google or use "sign in with Google", we receive some of your data from Google, such as your name, email, and a unique ID. This data will only be used to associate your Google account to your Corporate Clash account in order to provide the account linking and Google sign-in feature. We will never sell or export this information to anyone other than transmitting it via our data processors (detailed below) in order to store the data in a database or transfer it to your browser.
+
 ### Data Processors
 
 * Cloudflare ([Cloudflare DPA](https://drive.google.com/file/d/1-3p3X_WYuP_864MMBIO0OfMi0Pahf6kW/view?usp=sharing))
