@@ -2,7 +2,8 @@
 
 **Operation: Break The Law Phase 1**
 - The Resistance Outpost's construction is complete! Stop by the end of Polar Place right outside Lawbot HQ to check it out!
-- Toons can earn Dockets!
+- Toons can earn Dockets by defeating Lawbots!
+- - By defeating Lawbots in the Chief Justice battle and the DA Offices, toons receive a 50% Docket bonus.
 - - Dockets can be used to buy Exclusive Break the Law outfits and accessories from Webster in the outpost!
 - Lawbot HQ has had a 'makeover' by the resistance.
 - - The resistance has setup a Gag Kiosk so toons can restock even quicker (at an increased price) to get straight back in the fight!
@@ -31,4 +32,3 @@
 **Misc**
 - The level 20 department reward (merit carryover) has been nerfed to 50% instead of the full promotion.
 - Fixed the infamous 'Defeat a Five++ Story Cog Building' Task poster issue.
-
