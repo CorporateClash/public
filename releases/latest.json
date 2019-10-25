@@ -2,17 +2,21 @@
   "version": "v1.0.13.4 BETA",
   "notes": [
     {
-      "title": "**Outback Event**",
+      "title": "**Operation: Break The Law Phase 1**",
       "points": [
-        "- The Outback species welcoming event has come to a close. Olly Outback thanks everyone for participating!"
+        "- The Resistance Outpost's construction is complete! Stop by the end of Polar Place right outside Lawbot HQ to check it out!",
+        "- Toons can earn Dockets to use for exclusive Break the Law cosmetics!",
+        "- Lawbot HQ has had a 'makeover' by the Resistance.",
+        "- - A Gag Kiosk has been setup so toons can restock and get back in the fight quicker!",
+        "- Count Erclaim has made a return... But in Lawbot HQ?",
+        "- DA Office D's have been secured by the Toon Resistance! The Cog levels have been significantly reduced in DA office D's."
       ]
     },
     {
       "title": "**Misc**",
       "points": [
-        "- Fixed Grammar issues on ToonTask posters.",
-        "- Fixed dialogue issues throughout the main taskline.",
-        "- Adjusted the position of many accessories."
+        "- The level 20 department reward (merit carryover) has been nerfed to 50% instead of the full promotion.",
+        "- Fixed the infamous 'Defeat a Five++ Story Cog Building' Task poster issue."
       ]
     }
   ]
