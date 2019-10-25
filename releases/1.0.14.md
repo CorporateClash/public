@@ -10,8 +10,8 @@
 - Materials are back!
 - - Earn materials from fighting Count Erclaim in Lawbot HQ!
 - - Materials can also be fished for toons that are not strong enough to fight Count Erclaim.
-- Alpha Bat returns this year in Lawbot HQ! She brought her sister Hexa Decimal along as well!
-- - Speak to Alpha Bat to buy exclusive Halloween clothing and accessories!
+- Elphabat returns this year in Lawbot HQ! She brought her sister Hexa Decimal along as well!
+- - Speak to Elphabat to buy exclusive Halloween clothing and accessories!
 - DA Office D's have been secured by the Toon Resistance! The Cog levels have been significantly reduced in DA office D's.
 
 **Count Erclaim Encounter**
@@ -19,7 +19,7 @@
 - Added a higher difficulty tier.
 
 **Limited Time Quests**
-- Talk to Resistance Ranger Rocky in the Resistance Outpost to receive a ToonTask for Alpha Bat's sister, Hexa Decimal.
+- Talk to Resistance Ranger Rocky in the Resistance Outpost to receive a ToonTask for Elphabat's sister, Hexa Decimal.
 - - Hexa Decimal will teach you how to 'Shkraft' materials with Dockets!
 - After learning how to Shkraft, talk to Ranger Rocky for another task.
 - - Rocky will teach you about Skelepire keys and how to find them.
