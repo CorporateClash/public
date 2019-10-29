@@ -2,22 +2,24 @@
   "version": "v1.0.13.4 BETA",
   "notes": [
     {
-      "title": "**Operation: Break The Law Phase 1**",
+      "title": "**Operation: Break The Law Phase 1/Halloween**",
       "points": [
-        "- The Resistance Outpost's construction is complete! Stop by the end of Polar Place right outside Lawbot HQ to check it out!",
-        "- Toons can earn Dockets to use for exclusive Break the Law cosmetics!",
-        "- - Dockets are earned from defeating Lawbots. Lawbots defeated in DA Offices and the Chief Justice Battle have a 50% boost though!",
-        "- Lawbot HQ has had a 'makeover' by the Resistance.",
-        "- - A Gag Kiosk has been setup so toons can restock and get back in the fight quicker!",
-        "- Count Erclaim has made a return... But in Lawbot HQ?",
-        "- DA Office D's have been secured by the Toon Resistance! The Cog levels have been significantly reduced in DA office D's."
+        "- Trick or Treating is back! Hints for this year's locations can be found in the official Toontown: Corporate Clash Discord!",
+        "- Doe Vinci crashed her plane... Again... Webster gave her the rundown and can be found in Lawbot HQ along with the witch twins. If you help her out she's willing to reward you!",
+        "- Skelepire keys will now drop from the CJ no matter what. Keep in mind you still have to complete the task to acquire them from offices however!",
+        "- Virtual Cogs in the DA Office will no longer drop Dockets.",
+        "- Various fixes involving the event."
       ]
     },
     {
       "title": "**Misc**",
       "points": [
-        "- The level 20 department reward (merit carryover) has been nerfed to 50% instead of the full promotion.",
-        "- Fixed the infamous 'Defeat a Five++ Story Cog Building' Task poster issue."
+        "- Fixed various issues in the Shtickerbook.",
+        "- Fixed various issues involving the friends list.",
+        "- Fixed various grammatical issues.",
+        "- Fixed issues with the FOV setting.",
+        "- Fixed issues with Cheesy Effects",
+        "- Other various fixes."
       ]
     }
   ]
