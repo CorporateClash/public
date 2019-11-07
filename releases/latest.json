@@ -1,25 +1,33 @@
 {
-  "version": "v1.0.13.4 BETA",
+  "version": "v1.0.14.2 BETA",
   "notes": [
     {
       "title": "**Operation: Break The Law Phase 1/Halloween**",
       "points": [
-        "- Trick or Treating is back! Hints for this year's locations can be found in the official Toontown: Corporate Clash Discord!",
-        "- Doe Vinci crashed her plane... Again... Webster gave her the rundown and can be found in Lawbot HQ along with the witch twins. If you help her out she's willing to reward you!",
-        "- Skelepire keys will now drop from the CJ no matter what. Keep in mind you still have to complete the task to acquire them from offices however!",
-        "- Virtual Cogs in the DA Office will no longer drop Dockets.",
-        "- Various fixes involving the event."
+        "- Elphabat has new clothing and accessories to check out!",
+        "- Fix issues with props in the Lawbot HQ Courtyard not cleaning up properly.",
+        "- Fix multiple crashes involving the Pumpkin Head cheesy effects."
+      ]
+    },
+    {
+      "title": "**Instances/Bosses**",
+      "points": [
+        "- The secret boss fight will now award an exclusive nameplate and background for your toon's T.A.P.!",
+        "- Instances were tweaked to be more smooth.",
+        "- - Toons will no longer dance twice in a row, instead, after the fight is completed, the reward display is immediately displayed.",
+        "- - All toons will dance during the reward screen rather than only you.",
+        "- - Slight tweaks to a couple of introductory cutscenes.",
+        "- Fixed issue with Department EXP bar hiding and showing from other toons interacting with seltzers and golf spots in the CEO seltzer round.",
+        "- The Department EXP bar will no longer be stuck on screen after going sad in a boss battle."
       ]
     },
     {
       "title": "**Misc**",
       "points": [
-        "- Fixed various issues in the Shtickerbook.",
-        "- Fixed various issues involving the friends list.",
-        "- Fixed various grammatical issues.",
-        "- Fixed issues with the FOV setting.",
-        "- Fixed issues with Cheesy Effects",
-        "- Other various fixes."
+        "- Fixed several clipping issues with the T.A.P. GUI and District picker in the main menu.",
+        "- Fixed incorrect message when reaching Department level 20.",
+        "- Fixed issues with materials not hiding properly when fishing.",
+        "- You can no longer get soft-locked by being sad in Acorn Acres Minigames."
       ]
     }
   ]
