@@ -9,7 +9,6 @@
 - The secret boss fight will now award an exclusive nameplate and background for your toon's T.A.P.!
 - Instances were tweaked to be more smooth.
 - - Toons will no longer dance twice in a row, instead, after the fight is completed, the reward display is immediately displayed.
-- - All toons will dance during the reward screen rather than only you.
 - - Slight tweaks to a couple of introductory cutscenes.
 - Fixed issue with Department EXP bar hiding and showing from other toons interacting with seltzers and golf spots in the CEO seltzer round.
 - The Department EXP bar will no longer be stuck on screen after going sad in a boss battle.
