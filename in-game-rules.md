@@ -36,7 +36,7 @@
 21. * In the event that a user is locked out of an account, Corporate Clash will only restore ownership to the account owner.
 22. * Users share their accounts at their own risk. Corporate Clash claims no responsibility for loss of toons or accounts due to consensually sharing account details with others.
 23. * Account help or information will only be provided if the email registered to the account has been used to contact Corporate Clash.
-24. Corporate Clash reserves the right to deny the recovery of deleted progress or characters to accounts which do not use Toonstep.
+24. Restoring of deleted toons is only available for accounts we determine to have been compromised. 
 25. The connection of unofficial clients to Corporate Clash servers is not allowed.
 26. The distribution of malicious software to other users is prohibited.
 27. * The advertisement of malicious software through any in-game medium is prohibited.
