@@ -24,6 +24,10 @@
 - Rocky would like to introduce The Resistance's Daily Tasks System to toons directly, be sure to stop by and check it out!
 - Rocky's fellow Resistance Ranger, Scout, has an idea to gather more intel on the Lawbots; meet up with Rocky for mission briefing.
 
+**Discord Rich Presence**
+- Discord Rich Presence is back and better than ever!
+- If you wish to turn it off, navigate to the 'Gameplay' tab in your shtickerbook. 
+
 **Misc**
 - Toons will now receive a bean gain animation when completing cog battles and buildings.
 - Dockets now have a special gain animation when you earn them!
