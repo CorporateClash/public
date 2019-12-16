@@ -1,32 +1,27 @@
 {
-  "version": "v1.0.14.2 BETA",
+  "version": "v1.0.15 BETA",
   "notes": [
     {
-      "title": "**Operation: Break The Law Phase 1/Halloween**",
+      "title": "**Operation: Break the Law Phase Two**",
       "points": [
-        "- Elphabat has new clothing and accessories to check out!",
-        "- Fix issues with props in the Lawbot HQ Courtyard not cleaning up properly.",
-        "- Fix multiple crashes involving the Pumpkin Head cheesy effects."
+        "- The Resistance has set up a new outpost inside of Lawbot Headquarters! Check it out inside of the Chief Justice's statue!",
+        "- Lawbot HQ has been further 'redesigned' in preparation for phase two.",
+        "- Reid Stock has relocated her shop to the new outpost, partnered by Vinny to help manage gag and laff barrels inside the HQ."
       ]
     },
     {
-      "title": "**Instances/Bosses**",
+      "title": "**Daily Tasks**",
       "points": [
-        "- The secret boss fight will now award an exclusive nameplate and background for your toon's T.A.P.!",
-        "- Instances were tweaked to be more smooth.",
-        "- - Toons will no longer dance twice in a row, instead, after the fight is completed, the reward display is immediately displayed.",
-        "- - Slight tweaks to a couple of introductory cutscenes.",
-        "- Fixed issue with Department EXP bar hiding and showing from other toons interacting with seltzers and golf spots in the CEO seltzer round.",
-        "- The Department EXP bar will no longer be stuck on screen after going sad in a boss battle."
+        "- Toons will now receive daily tasks from The Resistance, check out the new tab on the tasks page in the Shticker Book!",
+        "- - Daily tasks are scaled to your toon level and progress, providing balanced objectives for any toon!",
+        "- - Rewards given for these tasks are also based on your toon's progress, no useless rewards!"
       ]
     },
     {
-      "title": "**Misc**",
+      "title": "**Limited Time Quests**",
       "points": [
-        "- Fixed several clipping issues with the T.A.P. GUI and District picker in the main menu.",
-        "- Fixed incorrect message when reaching Department level 20.",
-        "- Fixed issues with materials not hiding properly when fishing.",
-        "- You can no longer get soft-locked by being sad in Acorn Acres Minigames."
+        "- Rocky would like to introduce The Resistance's Daily Tasks System to toons directly, be sure to stop by and check it out!",
+        "- Rocky's fellow Resistance Ranger, Scout, has an idea to gather more intel on the Lawbots; meet up with Rocky for mission briefing."
       ]
     }
   ]
