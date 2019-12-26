@@ -7,6 +7,44 @@
             "id": 1,
             "comics": [
                 {
+                    "name": "The Day Of Reckoning",
+                    "id": 10004,
+                    "date": "December 25, 2019",
+                    "basepath": "https://comics-cdn.corporateclash.net/day_of_reckoning/",
+                    "panels": [
+                        "CQ_Page001.png",
+                        "CQ_Page002.png",
+                        "CQ_Page003.png",
+                        "CQ_Page004.png",
+                        "CQ_Page005.png",
+                        "CQ_Page006.png",
+                        "CQ_Page007.png",
+                        "CQ_Page008.png",
+                        "CQ_Page009.png",
+                        "CQ_Page010.png",
+                        "CQ_Page011.png",
+                        "CQ_Page012.png",
+                        "CQ_Page013.png",
+                        "CQ_Page014.png",
+                        "CQ_Page015.png",
+                        "CQ_Page016_ANIMATED_2.gif",
+                        "CQ_Page017_ANIMATED_2.gif",
+                        "CQ_Page018.png",
+                        "CQ_Page019.png",
+                        "CQ_Page020.png",
+                        "CQ_Page021.png",
+                        "CQ_Page022.png",
+                        "CQ_Page023.png",
+                        "CQ_Page024.png",
+                        "CQ_Page025.png",
+                        "CQ_Page026.png",
+                        "CQ_Page027.png",
+                        "CQ_Page028_ANIMATED_Puff.gif",
+                        "CQ_Page029.png",
+                        "CQ_Page030.png"
+                    ]
+                },
+                {
                     "name": "Phase 2",
                     "id": 10003,
                     "date": "December 7, 2019",
@@ -42,7 +80,7 @@
                         "P2_Page028.png",
                         "P2_Page029.png",
                         "P2_Page030.png"
-                        ]
+                    ]
                 },
                 {
                     "name": "Weekly Meeting",
@@ -95,22 +133,22 @@
                     "date": "December 25, 2018",
                     "basepath": "https://comics-cdn.corporateclash.net/annual_review/",
                     "panels": [
-                                "01.png",
-                                "02.png",
-                                "03.png",
-                                "04.png",
-                                "05.png",
-                                "06.png",
-                                "07.png",
-                                "08.png",
-                                "09.png",
-                                "10.png",
-                                "11.png",
-                                "12.png",
-                                "13.png",
-                                "14.png",
-                                "15.png",
-                                "16.png"
+                        "01.png",
+                        "02.png",
+                        "03.png",
+                        "04.png",
+                        "05.png",
+                        "06.png",
+                        "07.png",
+                        "08.png",
+                        "09.png",
+                        "10.png",
+                        "11.png",
+                        "12.png",
+                        "13.png",
+                        "14.png",
+                        "15.png",
+                        "16.png"
                     ]
                 }
             ]
