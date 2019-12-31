@@ -4,21 +4,24 @@
     {
       "title": "**Operation: Break the Law Phase Two**",
       "points": [
-        "- Rocky needs all hands on deck regarding the recent findings in the D.A. Office!",
-        "- - See Rocky for a new ToonTask to progress the story of Break the Law: Phase Two!"
+        "- Rocky has a new quest to further investigate the recent events with the Chief Justice, maybe you should stop by and assist him!",
+        "- [REDACTED]"
       ]
     },
     {
-      "title": "**Daily Tasks**",
+      "title": "**Toonseltown**",
       "points": [
-        "- Several changes were made to how Daily Tasks work based on community feedback, and there are still more to come in the near future."
+        "- Added some clothing and accessories to the Present Thief prize pool, collect them today!",
+        "- It turns out ToonHQ was late to delivering ToonTask rewards for the locals in Toonseltown!",
+        "- - Added the final set of Toonseltown ToonTasks, stop by and help the locals!",
+        "- - The Toonseltown Sidetasks and Toonseltown access has been extended to January 5th!"
       ]
     },
     {
-      "title": "**Toonseltown/Christmas**",
+      "title": "**Bugfixes**",
       "points": [
-        "- Toonseltown is back for the holidays this year!",
-        "- Toontown: Corporate Clash's winter makeover has returned for the holidays as well!"
+        "- Fixed the infamous Sidetask selection soft-lock.",
+        "- Fixed the infamous gag quest camera issue."
       ]
     }
   ]
