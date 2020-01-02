@@ -1,27 +1,26 @@
 {
-  "version": "v1.0.15 BETA",
+  "version": "v1.0.15.3 BETA",
   "notes": [
     {
-      "title": "**Operation: Break the Law Phase Two**",
+      "title": "**Happy New Years**",
       "points": [
-        "- Rocky has a new quest to further investigate the recent events with the Chief Justice, maybe you should stop by and assist him!",
-        "- [REDACTED]"
+        "- The Firework Enthusiasts are back with the latest and most hip clothing for the new year!",
+        "- Talk to each one of them for a limited time Sidetask to complete and get the full outfit!",
+        "- Every hour, there will be a fireworks show in all the playgrounds, stick around for one and you may unlock something!"
       ]
     },
     {
       "title": "**Toonseltown**",
       "points": [
-        "- Added some clothing and accessories to the Present Thief prize pool, collect them today!",
-        "- It turns out ToonHQ was late to delivering ToonTask rewards for the locals in Toonseltown!",
-        "- - Added the final set of Toonseltown ToonTasks, stop by and help the locals!",
-        "- - The Toonseltown Sidetasks and Toonseltown access has been extended to January 5th!"
+        "- Due to the extremely large prize pool for the Present Thief minigame and community feedback, Toons will now earn two rewards instead of one after the game is over.",
+        "- Fixed more exploits regarding the Teleport to Toonseltown button."
       ]
     },
     {
-      "title": "**Bugfixes**",
+      "title": "**Misc**",
       "points": [
-        "- Fixed the infamous Sidetask selection soft-lock.",
-        "- Fixed the infamous gag quest camera issue."
+        "- Fixed a couple crashes caused by Discord Rich Presence.",
+        "- Added words to the whitelist."
       ]
     }
   ]
