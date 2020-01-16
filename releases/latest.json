@@ -4,21 +4,14 @@
     {
       "title": "**Break the Law**",
       "points": [
-        "- The Resistance’s guest star, Elvis Purrsley, is stationed out in Cashbot Headquarters! Speak to Rocky for mission briefing.",
-        "- [REDACTED]"
-      ]
-    },
-    {
-      "title": "**Toonseltown/New Years**",
-      "points": [
-        "- The citizens of Toonseltown want to thank everyone for their assistance over the holidays as they close their doors for the year, thank you Toons!",
-        "- New Years is over in Toontown, hope everyone enjoyed the fireworks!"
+        "- The Toon Resistance has found the location of the final Cog Headquarters memo. Find Rocky, as he’s ready to brief you for another mission! Be sure to stock up first!",
+        "- The Toon Resistance has spent the last few days in recovering the memo with Elvis. While their efforts were nearly futile, they managed to get ahold of 5 clues! Will the clues lead  to something great, or will we just end up at another dead end?"
       ]
     },
     {
       "title": "**Misc**",
       "points": [
-        "Various Bugfixes and tweaks."
+        "Further Whitelist additions"
       ]
     }
   ]
