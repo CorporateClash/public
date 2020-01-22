@@ -18,24 +18,13 @@ We may use third party services help us operate our services, including running 
 
 ### Managing your data
 
-We allow a user to request PII associated with their account to be deleted upon request. A user may also request all of their information to be downloaded upon request. These requests will be fulfilled within thirty (30) days. Requests can be made by emailing accounts@corporateclash.net with the subject line being one of, although not limited to, the following:
-
-* Account deletion request
-* Account data download request
-* Account data download and deletion request
-* Stop processing my account’s data
-* Withdrawal of data processing consent
-* Withdrawal of TOS/Privacy Policy consent
+We allow a user to request PII associated with their account to be deleted via the website account page. A user may also request all of their information to be downloaded upon request. These requests will be fulfilled within thirty (30) days. Requests can be made by emailing accounts@corporateclash.net.
 
 Due to technical limitations, users can only request their information be downloaded, not directly transferred to a competitor.
 
-Due to all collected data being required for an account to be operational, any user request related to withdrawal of data collection consent will result in the user's account being deleted (the user will be notified of this before their account is deleted). 
+For security and authentication purposes, we require the email be sent from the email on the account. Requests to download data of accounts with emails different from the sender’s email will be denied. We may also deny requests if we believe an email to be spoofed (via email spoofing services) or otherwise not sent from the account’s owner.
 
-For security and authentication purposes, we require the email be sent from the email on the account. Requests to delete accounts with emails different from the sender’s email will be denied. We may also deny requests for account deletion if we believe an email to be spoofed (via email spoofing services) or otherwise not sent from the account’s owner.
-
-Upon a request being sent, we will verify the sender with a response email requiring one more confirmation that they would like their account be deleted. This is done to prevent email spoofing. After a reply email that confirms they want the account deleted, the account and all PII associated with the account will be deleted within 1 month with a response email.
-
-If a user decides to delete an account, and does not send another email before we delete the account to cancel the request, the user understands that their account and related information, including the user’s toons and other in-game content, will be permanently lost.
+When a user deletes their account, the user understands that their account and related information, including the user’s toons and other in-game content, will be permanently lost. 
 
 ### Parental opt-out
 
@@ -67,4 +56,4 @@ When we use Twitter or Youtube embeds to show content from their services, we as
 
 ### Updates to this document
 
-We retain the right to update this document without notice. Users who continue to use our service after this document has been updated automatically agree to the new data processing terms defined in the updated document.
+We retain the right to update this document without notice when we clarify existing policies. We will notify users via email if our privacy policy is modified to include new third-party entities or change what data we collect. Users who continue to use our service after this document has been updated automatically agree to the new data processing terms defined in the updated document.
