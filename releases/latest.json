@@ -1,17 +1,30 @@
 {
-  "version": "v1.0.15.3 BETA",
+  "version": "v1.0.15.6 BETA",
   "notes": [
     {
       "title": "**Break the Law**",
       "points": [
-        "- The Toon Resistance has found the location of the final Cog Headquarters memo. Find Rocky, as he’s ready to brief you for another mission! Be sure to stock up first!",
-        "- The Toon Resistance has spent the last few days in recovering the memo with Elvis. While their efforts were nearly futile, they managed to get ahold of 5 clues! Will the clues lead  to something great, or will we just end up at another dead end?"
+        "The Resistance has recovered an… interesting painting of the Chairman, perhaps it might hold clues to something?",
+        "The Resistance has started making early preparations for the transition into Phase Three of Operation: Break the Law!"
+      ]
+    },
+    {
+      "title": "**Lawbot Stand-In**",
+      "points": [
+        "The Resistance has added extra firepower to the canons in the Jury Round of the battle!",
+        "Fire toons into the Cog Jury Members before they can take a seat in the stands!"
+      ]
+    },
+    {
+      "title": "**Department Experience**",
+      "points": [
+        "Department Experience now is rewarded with diminishing returns."
       ]
     },
     {
       "title": "**Misc**",
       "points": [
-        "Further Whitelist additions"
+        "Various accessory tweaks."
       ]
     }
   ]
