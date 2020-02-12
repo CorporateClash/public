@@ -1,50 +1,110 @@
 {
   "positions": [
-  {
-    "name": "Community Team",
-    "positions": [
-      {
-        "name": "",
-        "link": "",
-      }
-    ]
-  }
+    {
+      "name": "Community Team",
+      "positions": [
+        {
+          "name": "Public Relations Member",
+          "link": "https://clash.lol/apply-prmember"
+        }
+      ]
+    },
+    {
+      "name": "Creative Team",
+      "positions": [
+        {
+          "name": "3D Animator",
+          "link": "https://clash.lol/apply-3danimator"
+        },
+        {
+          "name": "3D Modeler",
+          "link": "https://clash.lol/apply-3dmodeler"
+        },
+        {
+          "name": "Brand Artist",
+          "link": "https://clash.lol/apply-brandartist"
+        },
+        {
+          "name": "Comic Artist",
+          "link": "https://clash.lol/apply-comicartist"
+        },
+        {
+          "name": "Retexture Artist",
+          "link": "https://clash.lol/apply-retextureartist"
+        },
+        {
+          "name": "Texture Artist",
+          "link": "https://clash.lol/apply-textureartist"
+        },
+        {
+          "name": "Concept Artist",
+          "link": "https://clash.lol/apply-conceptartist"
+        }
+      ]
+    },
+    {
+      "name": "Technical Team",
+      "positions": [
+        {
+          "name": "Game Developer",
+          "link": "https://clash.lol/apply-gamedev"
+        }
+      ]
+    },
+    {
+      "name": "Support Team",
+      "positions": [
+        {
+          "name": "Support Specialist",
+          "link": "https://clash.lol/apply-support"
+        }
+      ]
+    },
+    {
+      "name": "Moderation Team",
+      "positions": [
+        {
+          "name": "Moderator",
+          "link": "https://clash.lol/apply-moderator"
+        }
+      ]
+    }
   ],
   "faq": [
-  {
-    "type": "faq",
-    "q": "Does the Team get paid?",
-    "a": "Toontown: Corporate Clash is comprised of hard-working individuals that come together over their love of Toontown and passion of the role they want to take on. Therefore, staff members of Toontown: Corporate Clash volunteer their time and work to help create an incredible game and all roles are a volunteer position."
-  },
-  {
-    "type": "faq",
-    "q": "What is the process of applying on the team?",
-    "a": "After your application is completed and submitted, we'll go ahead and review it. While we aim to get the inital review done in seven working days, we may take a little longer! If your application is successful, it will then be passed on to the relevant department Team Lead to organize a voice interview. They will reach out to you and schedule a time to conduct the interview and ask some additional questions."
-  },
-  {
-    "type": "faq",
-    "q": "Do I have to play TTCC in order to be on the staff?",
-    "a": "It is not required to play TTCC in order to be a staff member, but it is strongly suggested and preferred. This way, you can enjoy the fruits of your labour and understand the type of style Toontown: Corporate Clash is comprised of."
-  },
-  {
-    "type": "faq",
-    "q": "Do I need any experience in order to be on the team?",
-    "a": "Experience is always more helpful in some positions, especially Technical and Creative team when using specific programs and adjusting to a specific style of game. However, not having experience does not exclude your application from being reviewed and considered."
-  },
-  {
-    "type": "faq",
-    "q": "How much time do I need to spend to adequately fill the needs of the role?",
-    "a": "Toontown: Corporate Clash is a volunteer effort. Although time consuming, you can fit your role into your everyday life. Many of our staff members fit their duties in between work, school, and other regulated activities. We understand our staff and applicants may have these circumstances and we'll help accommodate them to better serve their role on the team."
-  },
-  {
-    "type": "faq",
-    "q": "What positions are available?",
-    "a": "Open positions are frequently updated based on neet. If the position you are looking for isn't isn't available, please do check back at a later date or contact us if you think you can bring something different to the team."
-  },
-  {
-    "type": "faq",
-    "q": "Can I apply again if I was denied before?",
-    "a": "If your previous application was denied, you can apply again for the same position after 30 days so you can develop your skills. If you are applying for a different position, you are free to apply anytime. We encourage those who unsuccessful when applying for technical team or creative team to improve their abilities and re-apply after 30 days with updated samples of work."
-  }
-]
+    {
+      "type": "faq",
+      "q": "Does the Team get paid?",
+      "a": "Toontown: Corporate Clash is comprised of hard-working individuals that come together over their love of Toontown and passion of the role they want to take on. Therefore, staff members of Toontown: Corporate Clash volunteer their time and work to help create an incredible game and all roles are a volunteer position."
+    },
+    {
+      "type": "faq",
+      "q": "What is the process of applying on the team?",
+      "a": "After your application is completed and submitted, we'll go ahead and review it. While we aim to get the inital review done in seven working days, we may take a little longer! If your application is successful, it will then be passed on to the relevant department Team Lead to organize a voice interview. They will reach out to you and schedule a time to conduct the interview and ask some additional questions."
+    },
+    {
+      "type": "faq",
+      "q": "Do I have to play TTCC in order to be on the staff?",
+      "a": "It is not required to play TTCC in order to be a staff member, but it is strongly suggested and preferred. This way, you can enjoy the fruits of your labour and understand the type of style Toontown: Corporate Clash is comprised of."
+    },
+    {
+      "type": "faq",
+      "q": "Do I need any experience in order to be on the team?",
+      "a": "Experience is always more helpful in some positions, especially Technical and Creative team when using specific programs and adjusting to a specific style of game. However, not having experience does not exclude your application from being reviewed and considered."
+    },
+    {
+      "type": "faq",
+      "q": "How much time do I need to spend to adequately fill the needs of the role?",
+      "a": "Toontown: Corporate Clash is a volunteer effort. Although time consuming, you can fit your role into your everyday life. Many of our staff members fit their duties in between work, school, and other regulated activities. We understand our staff and applicants may have these circumstances and we'll help accommodate them to better serve their role on the team."
+    },
+    {
+      "type": "faq",
+      "q": "What positions are available?",
+      "a": "Open positions are frequently updated based on neet. If the position you are looking for isn't isn't available, please do check back at a later date or contact us if you think you can bring something different to the team."
+    },
+    {
+      "type": "faq",
+      "q": "Can I apply again if I was denied before?",
+      "a": "If your previous application was denied, you can apply again for the same position after 30 days so you can develop your skills. If you are applying for a different position, you are free to apply anytime. We encourage those who unsuccessful when applying for technical team or creative team to improve their abilities and re-apply after 30 days with updated samples of work."
+    }
+  ]
 }
