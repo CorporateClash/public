@@ -1,30 +1,25 @@
 {
-  "version": "v1.0.15.6 BETA",
+  "version": "v1.0.15.7 BETA",
   "notes": [
     {
-      "title": "**Break the Law**",
+      "title": "**Valentoon's Day**",
       "points": [
-        "The Resistance has recovered an… interesting painting of the Chairman, perhaps it might hold clues to something?",
-        "The Resistance has started making early preparations for the transition into Phase Three of Operation: Break the Law!"
+        "Rose S.R. Redd is back! It seems that toons around town haven't been receiving their flower deliveries, and Rose could use some help!",
+        "- Use code \"LOVESTRUCK\" to be awarded an exclusive background for Valentoon's Day!"
       ]
     },
     {
       "title": "**Lawbot Stand-In**",
       "points": [
-        "The Resistance has added extra firepower to the canons in the Jury Round of the battle!",
-        "Fire toons into the Cog Jury Members before they can take a seat in the stands!"
-      ]
-    },
-    {
-      "title": "**Department Experience**",
-      "points": [
-        "Department Experience now is rewarded with diminishing returns."
+        "Possible fix for a rare crashing issue during the cannon round",
+        "Fixed odd behavior from flying cogs in the cannon round",
+        "Fix an issue with incorrect Lawbot department experience being awarded for solo stunning"
       ]
     },
     {
       "title": "**Misc**",
       "points": [
-        "Various accessory tweaks."
+        "Added more clothing colors and types to clothing stores"
       ]
     }
   ]
