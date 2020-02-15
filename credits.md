@@ -83,8 +83,6 @@ Wubwub | 3D Animator
 
 Poppy Cheezycorn | Community Manager | Texture Artist
 
-Baskerville | Community Team | Moderator
-
 Bijou | Community Team
 
 BubblyDinoPop | Community Team | Brand Artist
