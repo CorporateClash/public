@@ -7,7 +7,7 @@
 * [Special Thanks](#special-thanks)
 * [And most importantly...](#and-most-importantly)
 
-## <a name="technical-team"></a>Technical Team
+### <a name="technical-team"></a>Technical Team
 
 Devvy | Game Development Lead | Moderation
 
@@ -31,7 +31,7 @@ Travis | Game Developer
 
 
 
-## <a name="creative-team"></a>Creative Team
+### <a name="creative-team"></a>Creative Team
 
 LoopyGoopyG | Creative Director | Creative Team Lead
 
@@ -79,7 +79,7 @@ Wubwub | 3D Animator
 
 
 
-## <a name="community-team"></a>Community Team
+### <a name="community-team"></a>Community Team
 
 Poppy Cheezycorn | Community Manager | Texture Artist
 
@@ -104,7 +104,7 @@ Queen Bubbles | Community Team
 
 
 
-## <a name="moderation-team"></a>Moderation Team
+### <a name="moderation-team"></a>Moderation Team
 
 Vamp | Moderation Lead | Community Team | Support Team
 
@@ -122,7 +122,7 @@ Spot | Moderator
 
 
 
-## <a name="support-team"></a>Support Team
+### <a name="support-team"></a>Support Team
 
 Envious | Lead Support
 
@@ -142,7 +142,7 @@ Xuthern | Support
 
 
 
-## <a name="contributors"></a>Contributors
+### <a name="contributors"></a>Contributors
 
 Bannini | Former Brand Artist
 
@@ -172,7 +172,7 @@ Wubcake | Koala Sounds
 
 
 
-## <a name="special-thanks"></a>Special thanks
+### <a name="special-thanks"></a>Special thanks
 
 Toontown Rewritten | Reviving the spirit of Toontown
 
@@ -190,7 +190,7 @@ Disney Interactive | Developing Toontown Online
 
 
 
-## <a name="and-most-importantly"></a>And most importantly...
+### <a name="and-most-importantly"></a>And most importantly...
 
 
 YOU!
