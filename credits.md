@@ -11,7 +11,7 @@
 
 Devvy | Game Development Lead | Moderation
 
-Judge2020 | Lead Web Developer
+Hunter Ray | Lead Web Developer
 
 Bizzy | Game Developer
 
