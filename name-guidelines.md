@@ -1,7 +1,5 @@
 ### Naming Guidelines
 
-**Staff have final say over name approval, and may use their own digression when approving or denying names.**
-
 1. The use of numbers is prohibited unless in the form of a coherent name.
 2. First/last names are not allowed.
 3. Town/City/State names are prohibited, unless they are not exclusive to themselves.
