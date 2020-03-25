@@ -13,4 +13,5 @@
 11. Names with improper grammar are prohibited. All names must follow conventional English grammar rules.
 12. No names which are deemed inappropriate or NSFW by staff.
 13. No controversial names which include topics such as politics or religion.
-14. All Moderators have the final say on all names. Every name is subject to Moderator discretion.
+14. Expressions/sentences that are not deemed appropriate are not allowed.
+15. All Moderators have the final say on all names. Every name is subject to Moderator discretion.
