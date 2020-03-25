@@ -9,63 +9,41 @@
 
 ### <a name="technical-team"></a>Technical Team
 
+Aeterna | Game Developer
+
 Devvy | Game Development Lead | Moderation
 
-Hunter Ray | Lead Web Developer
+Hunter Ray (Judge) | Lead Web Developer
 
 Bizzy | Game Developer
 
 Gustavo | Game Developer
 
-Kitt Kitt Lou | Game Developer
-
 Little Cat | Game Developer
 
 Turkeybone | Game Developer | Community Team
 
-Ryot | Game Developer
-
-Sperry | Game Developer
-
 Travis | Game Developer
 
-
+Lorthos | Game Developer
 
 ### <a name="creative-team"></a>Creative Team
 
 LoopyGoopyG | Creative Director | Creative Team Lead
 
-Adam H. | 3D Modeller
+Absolute Cactus | Brand Artist
 
 Arabesco | Concept Artist
 
-Artsyinnocence | Brand Artist
-
-Daaniel | Texture Artist
-
-Djcat | Re-texture Artist
-
-Dr. Mawsh | Concept Artist
-
-Fleetwire | Texture Artist | Composer | Sound Designer
-
 Jessler | Sound Engineer
-
-Lady Giggles JiggleWiggle | Sound Engineer
 
 Loonatic | Texture Artist
 
 Mel N Colley | Concept Artist
 
-NeoNote | Concept Artist
-
 Polygon | 3D Modeller
 
 Purest Melody | Composer
-
-Qpeck | Re-texture Artist
-
-Shawny | Brand Artist | Communuity Team
 
 Sourdough | Concept Artist
 
@@ -78,8 +56,9 @@ Treetop Legend | 3D Modeller
 Wubwub | 3D Animator
 
 
-
 ### <a name="community-team"></a>Community Team
+
+Baskerville | Community Team | Moderator
 
 Poppy Cheezycorn | Community Manager | Texture Artist
 
@@ -140,7 +119,7 @@ Xuthern | Support
 
 
 
-### <a name="contributors"></a>Contributors
+### <a name="contributors"></a>Former Contributors
 
 Bannini | Former Brand Artist
 
@@ -168,7 +147,31 @@ Smokin' Foreman | Various Boardbot Models
 
 Wubcake | Koala Sounds
 
+Kitt Kitt Lou | Game Developer
 
+Ryot | Game Developer
+
+Sperry | Game Developer
+
+Lady Giggles JiggleWiggle | Sound Engineer
+
+Qpeck | Re-texture Artist
+
+Shawny | Brand Artist | Communuity Team
+
+NeoNote | Concept Artist
+
+Artsyinnocence | Brand Artist
+
+Daaniel | Texture Artist
+
+Djcat | Re-texture Artist
+
+Dr. Mawsh | Concept Artist
+
+Fleetwire | Texture Artist | Composer | Sound Designer
+
+Adam H. | 3D Modeller
 
 ### <a name="special-thanks"></a>Special thanks
 
@@ -179,6 +182,8 @@ Toontown Infinite | Various Resources and Inspiration
 Piplup | New battle GUI concept
 
 Buster Dachshund | Textures
+
+thedanielxx478 | Music
 
 [Developers of Panda3D](https://github.com/Astron/panda3d/graphs/contributors)
 
