@@ -185,6 +185,8 @@ Buster Dachshund | Textures
 
 thedanielxx478 | Music
 
+Thomas The Toon Engine | April Toons 2020 Textures
+
 [Developers of Panda3D](https://github.com/Astron/panda3d/graphs/contributors)
 
 [Developers of Astron](https://github.com/Astron/Astron/graphs/contributors)
