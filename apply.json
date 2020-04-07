@@ -20,16 +20,29 @@
           "link": "https://clash.lol/apply-comicartist"
         },
         {
-          "name": "Retexture Artist",
-          "link": "https://clash.lol/apply-retextureartist"
-        },
-        {
           "name": "Texture Artist",
           "link": "https://clash.lol/apply-textureartist"
         },
         {
           "name": "Concept Artist",
           "link": "https://clash.lol/apply-conceptartist"
+        },
+        {
+          "name": "Composer",
+          "link": "https://clash.lol/apply-composer"
+        }
+      ]
+    },
+    {
+      "name": "Community Team",
+      "positions": [
+        {
+          "name": "Video Editor",
+          "link": "https://clash.lol/apply-videoeditor"
+        },
+        {
+          "name": "Graphic Designer",
+          "link": "https://clash.lol/apply-graphicdesigner"
         }
       ]
     },
