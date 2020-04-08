@@ -18,6 +18,6 @@
 **genuine improvements**
 - gags are no longer reversed, cause people don't like fun.
 - all minibosses now use the ".mgr" postfix, as they should.
-- facility bosses are now considered minibosses. there's your cashbot miniboss for ya.
+- facility bosses are now considered minibosses. 
 - merit monday has been nerfed to 25%. wait, that's not an improvement...
 - some more sounds have been switched out.
