@@ -127,7 +127,7 @@ Barks | Former Developer
 
 Donchado | Kangaroo Sounds
 
-Drew C. | Various tweaks, orbital camera system
+Drew C. | Former Game Developer
 
 Liam | Former Developer
 
@@ -141,17 +141,17 @@ Obligatory Unicorn | Former Re-texture Artist, Some music
 
 Old Geezer | Former Composer
 
-Sir Tubby Cheezyfish | Former Developer
+Sir Tubby Cheezyfish | Former Game Developer
 
 Smokin' Foreman | Various Boardbot Models
 
 Wubcake | Koala Sounds
 
-Kitt Kitt Lou | Game Developer
+Kitt Kitt Lou | Former Game Developer
 
-Ryot | Game Developer
+Ryot | Former Game Developer
 
-Sperry | Game Developer
+Sperry | Former Game Developer
 
 Lady Giggles JiggleWiggle | Sound Engineer
 
