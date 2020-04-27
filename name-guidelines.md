@@ -14,4 +14,6 @@
 12. No names which are deemed inappropriate or NSFW by staff.
 13. No controversial names which include topics such as politics or religion.
 14. Expressions/sentences that are not deemed appropriate are not allowed.
-15. All Moderators have the final say on all names. Every name is subject to Moderator discretion.
+15. Names that reference to being a cog in any form are not allowed.
+16. Names that are deemed too negative and/or insulting are not allowed.
+17. All Moderators have the final say on all names. Every name is subject to Moderator discretion.
