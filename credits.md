@@ -9,13 +9,13 @@
 
 ### <a name="technical-team"></a>Technical Team
 
-Aeterna | Game Developer
-
-Devvy | Game Development Lead | Moderation
+Lorthos | Lead Game Developer
 
 Hunter Ray (Judge) | Lead Web Developer
 
 Bizzy | Game Developer
+
+Devvy | Game Developer | Moderation
 
 Gustavo | Game Developer
 
@@ -24,8 +24,6 @@ Little Cat | Game Developer
 Turkeybone | Game Developer | Community Team
 
 Travis | Game Developer
-
-Lorthos | Game Developer
 
 ### <a name="creative-team"></a>Creative Team
 
@@ -120,6 +118,8 @@ Xuthern | Support
 
 
 ### <a name="contributors"></a>Former Contributors
+
+Aeterna | Former Developer
 
 Bannini | Former Brand Artist
 
