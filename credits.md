@@ -13,8 +13,6 @@ Lorthos | Lead Game Developer
 
 Hunter Ray (Judge) | Lead Web Developer
 
-Bizzy | Game Developer
-
 Devvy | Game Developer | Moderation
 
 Gustavo | Game Developer
@@ -128,6 +126,8 @@ Barks | Former Developer
 Donchado | Kangaroo Sounds
 
 Drew C. | Former Game Developer
+
+jjkoletar | [Server Stability Improvements](https://cdn.clash.lol/ThankYouJJ!.pdf)
 
 Liam | Former Developer
 
