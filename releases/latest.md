@@ -1,23 +1,16 @@
-### v7.7.7.7 FOOLISH BUILD
-**april fools, release notes brought to you by sads the skelecog**
-- that's right. you read that correctly.
+### 1.0.16.1 BETA
 
-**phase 2**
-- of april toons, not btl. you thought.
+**Bosses**
+- Fixed an extremely rare bug that caused toons to earn millions of department experience in the Witness Stand-In.
+- Toons will no longer be able to purchase throw gags via Vinny in the Resistance Outpost beforehand in the V.P. and Witness Stand-In.
 
-**dumb stuff**
-- bowling balls are now coconuts.
+**Daily Tasks**
+- Fixed an issue with late game toons not being eligible for Department Experience boosts.
+- Fixed a rare crash on login caused from Daily Tasks.
+- Potentially fixed even more time related issues related to Daily Task resets.
 
-**cog stuff**
-- redd is a lot more difficult, since he got some training from me, sads the skelecog.
-- the factory has a new scenario mode.
-- - the first scenario is "find the foreman" based off of the hit video game with a similar title.
-- - - traverse the factory and find which foreman is the real one, unlike the awful video game associated with it.
-- trains look more like tank engines.
-
-**genuine improvements**
-- gags are no longer reversed, cause people don't like fun.
-- all minibosses now use the ".mgr" postfix, as they should.
-- facility bosses are now considered minibosses. 
-- merit monday has been nerfed to 25%. wait, that's not an improvement...
-- some more sounds have been switched out.
+**Misc**
+- Fixed various dialogue issues throughout the YOTT taskline.
+- Increased the rate at which red moles appear in Cog Golf Courses.
+- Fixed various camera issues in Cog Facilities.
+- Added more words to the whitelist.
