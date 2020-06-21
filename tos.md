@@ -54,7 +54,7 @@ Corporate Clash entities have the final say in disputes; you may dispute an acti
 
 ##### We process your data.
 
-By signing up for our services, you content to our data collection policies as described in our [privacy policy](https://corporateclash.net/help/privacy).
+By signing up for our services, you consent to our data collection policies as described in our [privacy policy](https://corporateclash.net/help/privacy).
 
 ##### Account selling
 
