@@ -13,9 +13,9 @@ Lorthos | Lead Game Developer
 
 Hunter Ray (Judge) | Lead Web Developer
 
-Goose | Game Developer | Technical Lead Assistant
+Goose | Technical Lead Assistant | Game Developer
 
-Jay Nite | Game Developer | Technical Lead Assistant | Community Team
+Jay Nite | Technical Lead Assistant | Game Developer | Community Team
 
 Devvy | Game Developer | Moderator
 
