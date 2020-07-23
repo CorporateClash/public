@@ -7,7 +7,7 @@
 4. Bullying and harassment of other users is not allowed. This includes, but is not limited to: name-calling, stalking and disruption of gameplay. 
 5. Intentionally sabotaging gameplay for other users is not allowed. This includes:
  * * Making choices in battle with the intention of causing other users to go sad, commonly referred to as greening.
- * * Purposefully going inactive during battles. This includes, but is not limited to: lack of group consent when going inactive (regardless of how many toons you are running), or glitching up to the CJ’s Stand to go inactive.
+ * * Purposefully going inactive during battles. This includes, but is not limited to: lack of group consent when going inactive (regardless of how many toons you are running).
  * * Purposefully disconnecting from a boss battle when dissatisfied with the reward without consent from the group before-hand, included but not limited to, SOS Shopping.
  * * Intentionally finishing a cog facility before other members of your group, hence denying them progress towards their promotion.
  * * While exploits are ultimately the responsibility of the Corporate Clash team, the use of glitches or exploits to disrupt the gameplay of others or grant an unfair advantage is prohibited.
@@ -46,5 +46,4 @@
  * * ToonStep must be enabled before the time of deletion
  * * Recovery requests are only available for 60 days from the time of deletion
  * * Only one toon recovery will be granted per account
-
-Toons whose recoveries are approved will be recovered 30 days from the time of an approved recovery request.
+ * * Toon recoveries may take up to 30 days to process once accepted.
