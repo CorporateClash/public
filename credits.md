@@ -13,106 +13,123 @@ Lorthos | Lead Game Developer
 
 Hunter Ray (Judge) | Lead Web Developer
 
-Devvy | Game Developer | Moderation
+Goose | Game Developer | Technical Lead Assistant
+
+Jay Nite | Game Developer | Technical Lead Assistant | Community Team
+
+Devvy | Game Developer | Moderator
 
 Gustavo | Game Developer
 
 Little Cat | Game Developer
 
-Turkeybone | Game Developer | Community Team
-
 Travis | Game Developer
+
+Sketched | Game Developer
+
+Yannik | Game Developer
+
+Vincent | Game Developer
+
 
 ### <a name="creative-team"></a>Creative Team
 
 LoopyGoopyG | Creative Director | Creative Team Lead
 
-Absolute Cactus | Brand Artist
+MasterFrasca | Creative Lead Assistant | Composer
+
+Absolute Cactus | Brand Artist | Community Team | Moderator
 
 Arabesco | Concept Artist
 
-Jessler | Sound Engineer
+Cappuccino | Sound Engineer
 
-Loonatic | Texture Artist
+Loonatic | Texture Artist | Technical Artist
 
 Mel N Colley | Concept Artist
 
-Polygon | 3D Modeller
+Polygon | 3D Modeler | Texture Artist | 3D Animator
 
 Purest Melody | Composer
 
-Sourdough | Concept Artist
+Sourdough | Concept Artist | Community Team | Moderator
 
-Spooks | 3D Modeller
+Spooks | 3D Modeler | Community Team
 
-Toonsies | Comic Artist
+Toonsies | Comic Artist | Community Team
 
-Treetop Legend | 3D Modeller
+Treetop Legend | 3D Modeler
 
-Wubwub | 3D Animator
+Fargo | Texture Artist
+
+FoxthatRox | 3D Modeler 
+
+Heidi Hearts | Concept Artist
+
+MaxGreatness | Composer
+
+NonsensicalThings | 3D Animator
+
+Sugarcain | Concept Artist
+
+Shawny | Brand Artist | Concept Artist
 
 
 ### <a name="community-team"></a>Community Team
 
-Baskerville | Community Team | Moderator
-
 Poppy Cheezycorn | Community Manager | Texture Artist
 
-Bijou | Community Team
+Flurry | Community Lead Assistant
 
 BubblyDinoPop | Community Team | Brand Artist
 
 Cream Cheese | Community Team
 
-Flurry | Community Team
-
-Gavonna | Community Team | Support Team
+Gavonna | Community Team | Support | Moderator
 
 Hypsin88 | Community Team
 
-Nat | Community Team
+Nat | Community Team | Moderator
 
-Queen Bubbles | Community Team
+Wintrie | Community Team | Graphic Designer
 
+Cracking A. Joke | Community Team
 
+Rox | Community Team | Graphic Designer | Video Editor | Moderator
+
+Baskerville | Community Team | Moderator
 
 
 ### <a name="moderation-team"></a>Moderation Team
 
-Vamp | Moderation Lead | Community Team | Support Team
+Vamp | Moderation Lead | Community Team | Support
 
-Liam | Moderator
-
-Lormen | Moderator
+Turkeybone | Moderation Lead Assistant | Game Developer | Community Team
 
 Moses Christ | Moderator
 
-Pandora | Moderator | Community Team | Brand Artist
-
-Penny | Moderator | Support
-
 Spot | Moderator
 
+Sugarhigh | Moderator
+
+Royal | Moderator | Support
 
 
 ### <a name="support-team"></a>Support Team
 
-Envious | Lead Support
+Spider Tacos | Support Lead
 
-Krissy | Support
+Penny | Support Lead Assistant | Moderator
 
 Mailmare | Support
 
-Maki | Support | Moderator
-
-Spider Tacos | Support | Moderator
-
 Shellybobelly | Support
 
-Tyl3r | Support
+Normal | Support
 
-Xuthern | Support
+Cranky Biggenbubble | Support
 
+9er9er | Support
 
 
 ### <a name="contributors"></a>Former Contributors
@@ -157,8 +174,6 @@ Lady Giggles JiggleWiggle | Sound Engineer
 
 Qpeck | Re-texture Artist
 
-Shawny | Brand Artist | Communuity Team
-
 NeoNote | Concept Artist
 
 Artsyinnocence | Brand Artist
@@ -171,7 +186,14 @@ Dr. Mawsh | Concept Artist
 
 Fleetwire | Texture Artist | Composer | Sound Designer
 
-Adam H. | 3D Modeller
+Adam H. | 3D Modeler
+
+Wubwub | 3D Modeler
+
+McZoop | Concept Artist
+
+Bizzy | Former Game Developer
+
 
 ### <a name="special-thanks"></a>Special thanks
 
@@ -179,7 +201,7 @@ Toontown Rewritten | Reviving the spirit of Toontown
 
 Toontown Infinite | Various Resources and Inspiration
 
-Piplup | New battle GUI concept
+Piplup | Retired Battle GUI Concept
 
 Buster Dachshund | Textures
 
@@ -192,7 +214,6 @@ Thomas The Toon Engine | April Toons 2020 Textures
 [Developers of Astron](https://github.com/Astron/Astron/graphs/contributors)
 
 Disney Interactive | Developing Toontown Online
-
 
 
 ### <a name="and-most-importantly"></a>And most importantly...
