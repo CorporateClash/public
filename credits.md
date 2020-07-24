@@ -142,15 +142,13 @@ Barks | Former Developer
 
 Donchado | Kangaroo Sounds
 
-Drew C. | Former Game Developer
+Drewcification | Former Game Developer
 
 jjkoletar | [Server Stability Improvements](https://cdn.clash.lol/ThankYouJJ!.pdf)
 
 Liam | Former Developer
 
 Malverde | TTC Layout
-
-MasterFrasca | Former Composer
 
 NonsensicalThings | Armadillo Sounds
 
