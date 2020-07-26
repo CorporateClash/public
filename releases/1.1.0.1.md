@@ -25,7 +25,7 @@
 
 - C.E.O.
 - - Fires awarded per tier are now 5, 6, 7, 8, and 9.
-- - Pink Slips now cost half of the Cog’s level to use, rounded up. For example, firing a level 12 Cog will cost 6 Pink Slips.
+- - Pink Slips now cost a third of the Cog’s level to use, rounded up. For example, firing a level 12 Cog will cost 4 Pink Slips.
 
 - All Bosses
 - - Nerfed the Cog Boss jump damage range. (10-30 -> 8-24).
