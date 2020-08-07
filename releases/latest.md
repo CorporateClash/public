@@ -5,7 +5,6 @@
 - Loosened restrictions on choosing NPC names for your Toon during the Type-A-Name and Pick-A-Name.
 
 **Bugfixes**
-- Fixed multiple desync issues upon switching to another District. 
 - Potentially fixed an issue with the Connect Three laser puzzle that would cause Toons to lose when they were not supposed to.
 - Potentially fixed an issue that would cause any Cog to count for Executive Cog Daily Tasks.
 - Fixed a typo in quest dialog. 
