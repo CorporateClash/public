@@ -2,7 +2,7 @@
 **Proof should be provided when reporting cases on any of these rules. Ban lengths will be determined by the severity of the case and/or infraction history.**
 
 1. **NSFW talk is prohibited**. This includes any attempt to circumvent the chat filters in place in order to say blacklisted words, **especially, but not limited to swearing.**
- * * The use of NSFW language in Toon or Club names is also prohibited. Users who attempt to submit intentionally inappropriate names are liable to action being taken on their account.
+ * * The use of NSFW language in Toon names is also prohibited. Users who attempt to submit intentionally inappropriate names are liable to action being taken on their account.
 3. **Spamming is prohibited**. This includes, but is not limited to: intentionally annoying other users by spamming the same/similar words/phrases, abusing the filter to create abnormally large speedchat bubbles repetitively. As a temporary solution, you can ignore the toon in question. If reported and the user in question is found guilty, a temporary mute may be applied to their account.
 4. Bullying and harassment of other users is not allowed. This includes, but is not limited to: name-calling, stalking and disruption of gameplay. 
 5. Intentionally sabotaging gameplay for other users is not allowed. This includes:
@@ -23,7 +23,7 @@
 
 9. The use of third-party software to grant an unfair advantage is prohibited. This includes, but is not limited to, fishing and doodle training macros, or Keep Alive. The only third-party applications that are allowed are multi-toon controllers.
 
-10. The buying and selling of Corporate Clash accounts is prohibited. Corporate Clash reserves the right to ban any account that is in the process of being exchanged for money. Any account listing found will be given one week to take down the listing. If the listing is not removed within that week, Corporate Clash reserves the right to ban the account.
+10. The buying and selling of Corporate Clash accounts is prohibited. Corporate Clash reserves the right to ban any account that is in the process of being exchanged for money. If an account listing has been found, Corporate Clash reserves the right to ban the account.
 
 11. Any attempt to access another user’s account without consent is prohibited.
 
