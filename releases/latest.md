@@ -5,6 +5,7 @@ Thank you for our patience with fixing this bug that directly affected Gag Farmi
 Note: This includes the unreleased 1.1.0.8 Patch Notes.
 
 **Bugfixes**
+- Fixes an issue where random toons would be removed from facilities in the first round.
 - Further enhancements to the logic of Lure Decay.
 - Fixed edge cases where Cogs could dodge earlier than intended with Lure Decay.
 - Fixed a district reset related to friends.
