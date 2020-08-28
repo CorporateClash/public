@@ -1,6 +1,6 @@
 ### Beta v1.1.0.9
 
-Thank you for our patience with fixing this bug that directly affected Gag Farming Friday. As a thank you for being patient, we've implemented 8 additional hours of extra Gag experience! It will stack additionally with the 2 hours of Gag experience from Silly Saturday.
+Thank you for our patience with fixing this bug that directly affected Gag Farming Friday. As a thank you for being patient, we've implemented 8 additional hours of extra Gag experience! Silly Saturday will also feature extra Gag experience at the normally scheduled times.
 
 Note: This includes the unreleased 1.1.0.8 Patch Notes.
 
