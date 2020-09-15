@@ -21,7 +21,7 @@
 
 7. The distribution of personally identifiable information is prohibited. This includes, but is not limited to, one’s full name, address, phone number.
 
-8. The use of third-party software to grant an unfair advantage is prohibited. This includes, but is not limited to, fishing and doodle training macros, or Keep Alive. The only third-party applications that are allowed are multi-toon controllers.
+8. The use of third-party software is prohibited, with the exception of multi-toon controllers. This includes, but is not limited to, fishing and doodle training macros, and Keep Alive.
 
 9. The buying and selling of Corporate Clash accounts is prohibited. Corporate Clash reserves the right to ban any account that is in the process of being exchanged for money. If an account listing has been found, Corporate Clash reserves the right to ban the account.
 
