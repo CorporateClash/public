@@ -19,7 +19,7 @@
 - Fixed a rare crash when a Toon disconnecting from a CEO would cause everyone else in the CEO to crash.
 - Fixed a rare crash affecting all Toons in the CFO when one Toon was lagging too far behind during the Crane round.
 - Fixed taunting in the CLO not properly attracting Cogs to the taunter. 
-- Adjusted numerous accessory placements for Turkeys and Beavers.
+- Adjusted numerous accessory placements for Bears, Deer, Ducks, Monkeys, and Pigs.
   - If you come across any misplaced accessories, please fill out this form with an image of the Toon wearing the accessory: [click here](https://docs.google.com/forms/d/e/1FAIpQLScQ5dRGXWB3kz7AFbRQQwuQDdBGMZ4BAzC6A7ZFnb0Qq6eQjw/viewform)
 - “Jump!” Speedchat Phrase will no longer be offered to Toons in the catalog. 
 - Fixed an issue with LMB Orbital Camera moving not cleaning up properly when transitioning areas.
