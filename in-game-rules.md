@@ -29,7 +29,7 @@
 
 11. Any attempt to access staff-only tools or information is prohibited.
 
-12. Attempting to evade permanent bans (also known as blacklisted), is prohibited. Corporate Clash reserves the right to ban any account that is suspected of evasion.
+12. Attempting to evade permanent bans is prohibited. Corporate Clash reserves the right to ban any account that is suspected of evasion.
 
 13. The owner of an account is responsible for any actions taken on the respective account.
     * Account owner is defined as the owner of the Email associated with the account.
