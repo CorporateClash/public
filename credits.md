@@ -146,8 +146,6 @@ Spider Tacos | Support Lead | Support | Moderation
 
 Penny | Support Lead Assistant | Support | Moderation
 
-9er9er | Support
-
 Coal | Support
 
 Cranky Biggenbubble | Support
