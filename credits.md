@@ -81,7 +81,7 @@ MaxGreatness | Composer
 
 NonsensicalThings | 3D Animator | Video Editor | Community Team
 
-Pandora | Brand Artist | Community Team | Moderation | Game Designer
+Pandora | Brand Artist | Community Team | Game Designer
 
 Polygon | 3D Modeler | 3D Animator | Texture Artist | Game Designer
 
@@ -99,7 +99,7 @@ Wintrie | Graphic Designer | Community Team
 
 Jay Nite | Game Design Lead | Game Developer | Game Designer
 
-Toonsies | Game Design Lead Assistant | 2d Artist | Comic Artist | Game Designer | Community Team
+Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
 
 ### <a name="community-team"></a>Community Team
 
