@@ -1,5 +1,6 @@
 * [Technical Team](#technical-team)
 * [Creative Team](#creative-team)
+* [Game Design Team](#game-design-team)
 * [Community Team](#community-team)
 * [Moderation Team](#moderation-team)
 * [Support Team](#support-team)
@@ -93,6 +94,12 @@ Spooks | 3D Modeler | Community Team | Game Designer
 Sugarcain | Concept Artist
 
 Wintrie | Graphic Designer | Community Team
+
+### <a name="game-design-team"></a>Game Design Team
+
+Jay Nite | Game Design Lead | Game Developer | Game Designer
+
+Toonsies | Game Design Lead Assistant | 2d Artist | Comic Artist | Game Designer | Community Team
 
 ### <a name="community-team"></a>Community Team
 
