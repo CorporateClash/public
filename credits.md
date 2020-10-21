@@ -9,209 +9,234 @@
 
 ### <a name="technical-team"></a>Technical Team
 
-Lorthos | Lead Game Developer
+Hunter Ray | Lead Web Developer
 
-Hunter Ray (Judge) | Lead Web Developer
+Lorthos | Technical Team Lead | Game Developer | Game Designer 
+
+Eliz | Technical Lead Assistant | Game Developer | Moderation
 
 Goose | Technical Lead Assistant | Game Developer
 
-Jay Nite | Technical Lead Assistant | Game Developer | Community Team
+Biff | Game Developer
 
-Devvy | Game Developer | Moderator
+Devvy | Game Developer | Moderation
 
 Gustavo | Game Developer
 
+Isocle | Game Developer
+
+Jwcotejr | Game Developer
+
+Lemintex | Game Developer
+
 Little Cat | Game Developer
+
+Spicy | Game Developer
+
+Sketched | Game Developer | Game Designer
+
+Skids | Game Developer | Game Designer
 
 Travis | Game Developer
 
-Sketched | Game Developer
+Vincent B. | Game Developer
 
 Yannik | Game Developer
-
-Vincent | Game Developer
 
 
 ### <a name="creative-team"></a>Creative Team
 
-LoopyGoopyG | Creative Director | Creative Team Lead
+Sourdough | Creative Team Lead | Concept Artist | Moderation | Community Team
 
-MasterFrasca | Creative Lead Assistant | Composer
+LoopyGoopyG | Creative Lead Assistant | Concept Artist | Game Designer
 
-Absolute Cactus | Brand Artist | Community Team | Moderator
+Rox | Creative Lead Assistant | Graphic Designer | Video Editor | Community Team | Moderation
+
+AnonymousAvocado | Concept Artist
 
 Arabesco | Concept Artist
 
-Cappuccino | Sound Engineer
+Brandy | Comic Artist
 
-Loonatic | Texture Artist | Technical Artist
+BunnyHeidi | Concept Artist
 
-Mel N Colley | Concept Artist
+Cappuccino | Sound Designer
 
-Polygon | 3D Modeler | Texture Artist | 3D Animator
-
-Purest Melody | Composer
-
-Sourdough | Concept Artist | Community Team | Moderator
-
-Spooks | 3D Modeler | Community Team
-
-Toonsies | Comic Artist | Community Team
-
-Treetop Legend | 3D Modeler
+Duke Trickyflip | Composer
 
 Fargo | Texture Artist
 
-FoxthatRox | 3D Modeler 
+FoxthatRox  | 3D Modeler
 
-Heidi Hearts | Concept Artist
+Loonatic | Texture Artist | Technical Artist | Game Designer
+
+Mailman | Brand Arist | Comic Artist
+
+Maree | Concept Arist
+
+MasterFrasca | Composer 
 
 MaxGreatness | Composer
 
-NonsensicalThings | 3D Animator
+NonsensicalThings | 3D Animator | Video Editor | Community Team
+
+Pandora | Brand Artist | Community Team | Moderation | Game Designer
+
+Polygon | 3D Modeler | 3D Animator | Texture Artist | Game Designer
+
+Purest Melody | Composer
+
+Shawny | Brand Artist | Concept Artist | Community Team
+
+Spooks | 3D Modeler | Community Team | Game Designer
 
 Sugarcain | Concept Artist
 
-Shawny | Brand Artist | Concept Artist
-
+Wintrie | Graphic Designer | Community Team
 
 ### <a name="community-team"></a>Community Team
 
-Poppy Cheezycorn | Community Manager | Texture Artist
+Poppy Cheezycorn | Community Manager | Community Team | Texture Artist
 
-Flurry | Community Lead Assistant
+Flurry | Community Lead Assistant | Community Team
 
-BubblyDinoPop | Community Team | Brand Artist
+Baskerville | Community Team | Moderation
+
+Cracking A. Joke | Community Team | Game Designer
 
 Cream Cheese | Community Team
 
-Gavonna | Community Team | Support | Moderator
-
 Hypsin88 | Community Team
 
-Nat | Community Team | Moderator
-
-Wintrie | Community Team | Graphic Designer
-
-Cracking A. Joke | Community Team
-
-Rox | Community Team | Graphic Designer | Video Editor | Moderator
-
-Baskerville | Community Team | Moderator
-
+Nat | Community Team | Moderation
 
 ### <a name="moderation-team"></a>Moderation Team
 
-Vamp | Moderation Lead | Community Team | Support
+Vamp | Moderation Lead | Game Design Lead Assistant | Moderation | Game Designer | Community Team 
 
-Turkeybone | Moderation Lead Assistant | Game Developer | Community Team
+Tedster | Moderation Lead Assistant | Moderation | Game Designer
 
-Moses Christ | Moderator
+Turkeybone | Moderation Lead Assistant | Moderation | Game Developer | Community Team | Game Designer
 
-Spot | Moderator
+Dismas | Moderation
 
-Sugarhigh | Moderator
+Moses Christ | Moderation
 
-Royal | Moderator | Support
+Ozzie The Duck | Moderation
+
+Spot | Moderation
+
+Sugarhigh | Moderation
+
+Tricks | Moderation
+
+Windoges | Moderation
 
 
 ### <a name="support-team"></a>Support Team
 
-Spider Tacos | Support Lead
+Spider Tacos | Support Lead | Support | Moderation
 
-Penny | Support Lead Assistant | Moderator
+Penny | Support Lead Assistant | Support | Moderation
 
-Mailmare | Support
+9er9er | Support
 
-Shellybobelly | Support
-
-Normal | Support
+Coal | Support
 
 Cranky Biggenbubble | Support
 
-9er9er | Support
+Mailmare | Support
+
+Normal | Support | Moderation
 
 
 ### <a name="contributors"></a>Former Contributors
 
+Adam H. | Former 3D Modeler
+
 Aeterna | Former Developer
+
+Artsyinnocence | Former Brand Artist
 
 Bannini | Former Brand Artist
 
 Barks | Former Developer
 
+Bizzy | Former Game Developer
+
+BubblyDinoPop | Former Brand Artist | Former Concept Artist | Former Community Team Member | Former Game Designer
+
+Daaniel | Former Texture Artist
+
+Djcat | Former Re-texture Artist
+
 Donchado | Kangaroo Sounds
 
-Drewcification | Former Game Developer
+Dr. Mawsh | Former Concept Artist
 
-jjkoletar | [Server Stability Improvements](https://cdn.clash.lol/ThankYouJJ!.pdf)
+Drew C. | Various tweaks, orbital camera system
+
+Fleetwire | Former Texture Artist | Former Composer | Former Sound Designer
+
+jjkoletar | Server Stability Improvements
+
+Kitt Kitt Lou | Former Game Developer
+
+Lady Giggles JiggleWiggle | Former Sound Engineer
 
 Liam | Former Developer
 
 Malverde | TTC Layout
 
+McZoop | Former Concept Artist
+
+Mel N. Colley | Former Concept Artist
+
+NeoNote | Former Concept Artist
+
 NonsensicalThings | Armadillo Sounds
 
-Obligatory Unicorn | Former Re-texture Artist, Some music
+Obligatory Unicorn | Former Re-texture Artist, some music
 
 Old Geezer | Former Composer
 
-Sir Tubby Cheezyfish | Former Game Developer
-
-Smokin' Foreman | Various Boardbot Models
-
-Wubcake | Koala Sounds
-
-Kitt Kitt Lou | Former Game Developer
+Qpeck | Former Re-texture Artist
 
 Ryot | Former Game Developer
 
+Shellybobelly | Former Support
+
+Sir Tubby Cheezyfish | Game Developer | Technical Artist
+
+Smokin' Foreman | Various Boardbot Models
+
 Sperry | Former Game Developer
 
-Lady Giggles JiggleWiggle | Sound Engineer
+Treetop Legend | Former 3D Modeler
 
-Qpeck | Re-texture Artist
+Wubcake | Koala Sounds
 
-NeoNote | Concept Artist
-
-Artsyinnocence | Brand Artist
-
-Daaniel | Texture Artist
-
-Djcat | Re-texture Artist
-
-Dr. Mawsh | Concept Artist
-
-Fleetwire | Texture Artist | Composer | Sound Designer
-
-Adam H. | 3D Modeler
-
-Wubwub | 3D Modeler
-
-McZoop | Concept Artist
-
-Bizzy | Former Game Developer
-
+Wubwub | Former 3D Modeler
 
 ### <a name="special-thanks"></a>Special thanks
+
+Buster Dachshund | Textures
+
+Developers of Astron
+
+Developers of Panda3D
+
+Disney Interactive | Developing Toontown Online
+
+Piplup | Retired New Battle GUI concept
 
 Toontown Rewritten | Reviving the spirit of Toontown
 
 Toontown Infinite | Various Resources and Inspiration
 
-Piplup | Retired Battle GUI Concept
-
-Buster Dachshund | Textures
-
 thedanielxx478 | Music
 
 Thomas The Toon Engine | April Toons 2020 Textures
-
-[Developers of Panda3D](https://github.com/Astron/panda3d/graphs/contributors)
-
-[Developers of Astron](https://github.com/Astron/Astron/graphs/contributors)
-
-Disney Interactive | Developing Toontown Online
 
 
 ### <a name="and-most-importantly"></a>And most importantly...
