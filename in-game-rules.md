@@ -1,16 +1,16 @@
 ### General In-Game Rules
 **Proof should be provided when reporting cases on any of these rules. Ban lengths will be determined by the severity of the case and/or infraction history.**
 
-1. **NSFW talk is prohibited**. This includes any attempt to circumvent the chat filters in place in order to say blacklisted words, **especially, but not limited to swearing.**
-    * The use of NSFW language in Toon names is also prohibited. Users who attempt to submit intentionally inappropriate names are liable to action being taken on their account.
-2. **Spamming is prohibited**. This includes, but is not limited to: intentionally annoying other users by spamming the same/similar words/phrases, abusing the filter to create abnormally large speedchat bubbles repetitively. As a temporary solution, you can ignore the toon in question. If reported and the user in question is found guilty, a temporary mute may be applied to their account.
+**1. Inappropriate conversations, as well as NSFW chat, is prohibited.** This includes, but is not limited to: political campaigning, discriminating against one’s race or religion, circumventing the filter to say blacklisted words (filter evasion), and general NSFW chat inappropriate for a family friendly setting.
+* Additionally, the use of NSFW or inappropriate language in Toon names is also prohibited. Corporate Clash reserves the right to take action on any user who intentionally submit inappropriate names.
+2. **Excessive spamming is prohibited.** This includes, but is not limited to: intentionally annoying other users by spamming the same/similar words or phrases, abusing the filter to create abnormally large SpeedChat+ bubbles. As a temporary solution, you can ignore the Toon in question.
 3. Bullying and harassment of other users is not allowed. This includes, but is not limited to: name-calling, stalking and disruption of gameplay. 
 4. Intentionally sabotaging gameplay for other users is not allowed. This includes:
     * Making choices in battle with the intention of causing other users to go sad, commonly referred to as greening.
-    * Purposefully going inactive during battles. This includes, but is not limited to: lack of group consent when going inactive (regardless of how many toons you are running).
+    * Purposefully going inactive during battles. This includes, but is not limited to: lack of group consent when going inactive (regardless of how many toons you are running), or idling without communicating to a group you had to step away.
     * Purposefully disconnecting from a boss battle when dissatisfied with the reward without consent from the group before-hand, included but not limited to, SOS Shopping.
     * Intentionally finishing a cog facility before other members of your group, hence denying them progress towards their promotion.
-    * While exploits are ultimately the responsibility of the Corporate Clash team, the use of glitches or exploits to disrupt the gameplay of others or grant an unfair advantage is prohibited.
+    * While exploits are ultimately the responsibility of the Corporate Clash Crew, the use of glitches or exploits to disrupt the gameplay of others or grant an unfair advantage is prohibited. Those found to be performing glitches or exploits that can reset districts, or cause mass crashes may be subject to termination.
 
 #### Staff
 
@@ -19,7 +19,7 @@
 
 #### Account and Security
 
-7. The distribution of personally identifiable information is prohibited. This includes, but is not limited to, one’s full name, address, phone number.
+7. The distribution of personally identifiable information is prohibited. This includes, but is not limited to: full name, address, e-mail, phone number, where you’re attending school, the city you live in, or any other personal information that could give another user details on your location. Additionally, this also includes social media handles, including but not limited to: Instagram, Snapchat, Discord, Reddit, or any other social media outlet.
 
 8. The use of third-party software is prohibited, with the exception of multi-toon controllers. This includes, but is not limited to, fishing and doodle training macros, and Keep Alive.
 
@@ -29,7 +29,7 @@
 
 11. Any attempt to access staff-only tools or information is prohibited.
 
-12. Attempting to evade permanent bans is prohibited. Corporate Clash reserves the right to ban any account that is suspected of evasion.
+12. Corporate Clash reserves the right to ban any suspected account for ban evasion. Ban evasion applies to accounts that are IP banned, or a more severe permanent ban placed on the account.
 
 13. The owner of an account is responsible for any actions taken on the respective account.
     * Account owner is defined as the owner of the Email associated with the account.
