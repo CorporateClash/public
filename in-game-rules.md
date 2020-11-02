@@ -1,8 +1,8 @@
 ### General In-Game Rules
 **Proof should be provided when reporting cases on any of these rules. Ban lengths will be determined by the severity of the case and/or infraction history.**
 
-**1. Inappropriate conversations, as well as NSFW chat, is prohibited.** This includes, but is not limited to: political campaigning, discriminating against one’s race or religion, circumventing the filter to say blacklisted words (filter evasion), and general NSFW chat inappropriate for a family friendly setting.
-* Additionally, the use of NSFW or inappropriate language in Toon names is also prohibited. Corporate Clash reserves the right to take action on any user who intentionally submit inappropriate names.
+1. **Inappropriate conversations, as well as NSFW chat, is prohibited.** This includes, but is not limited to: political campaigning, discriminating against one’s race or religion, circumventing the filter to say blacklisted words (filter evasion), and general NSFW chat inappropriate for a family friendly setting.
+    * Additionally, the use of NSFW or inappropriate language in Toon names is also prohibited. Corporate Clash reserves the right to take action on any user who intentionally submit inappropriate names.
 2. **Excessive spamming is prohibited.** This includes, but is not limited to: intentionally annoying other users by spamming the same/similar words or phrases, abusing the filter to create abnormally large SpeedChat+ bubbles. As a temporary solution, you can ignore the Toon in question.
 3. Bullying and harassment of other users is not allowed. This includes, but is not limited to: name-calling, stalking and disruption of gameplay. 
 4. Intentionally sabotaging gameplay for other users is not allowed. This includes:
