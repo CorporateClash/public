@@ -12,15 +12,13 @@
 
 Hunter Ray | Lead Web Developer
 
-Lorthos | Technical Team Lead | Game Developer | Game Designer 
+Lorthos | Technical Team Lead | Game Developer
 
 Eliz | Technical Lead Assistant | Game Developer | Moderation
 
 Goose | Technical Lead Assistant | Game Developer
 
 Biff | Game Developer
-
-Devvy | Game Developer | Moderation
 
 Gustavo | Game Developer
 
@@ -36,7 +34,7 @@ Spicy | Game Developer
 
 Sketched | Game Developer | Game Designer
 
-Skids | Game Developer | Game Designer
+Skids | Game Developer | Game Designer | Support
 
 Travis | Game Developer
 
@@ -47,7 +45,7 @@ Yannik | Game Developer
 
 ### <a name="creative-team"></a>Creative Team
 
-Sourdough | Creative Team Lead | Concept Artist | Moderation | Community Team
+Sourdough | Creative Team Lead | Concept Artist | Community Team | Moderation
 
 LoopyGoopyG | Creative Lead Assistant | Concept Artist | Game Designer
 
@@ -91,8 +89,6 @@ Shawny | Brand Artist | Concept Artist | Community Team
 
 Spooks | 3D Modeler | Community Team | Game Designer
 
-Sugarcain | Concept Artist
-
 Wintrie | Graphic Designer | Community Team
 
 ### <a name="game-design-team"></a>Game Design Team
@@ -119,11 +115,11 @@ Nat | Community Team | Moderation
 
 ### <a name="moderation-team"></a>Moderation Team
 
-Vamp | Moderation Lead | Game Design Lead Assistant | Moderation | Game Designer | Community Team 
+Vamp | Moderation Lead | Game Design Lead Assistant | Game Designer | Community Team  | Moderation
 
-Tedster | Moderation Lead Assistant | Moderation | Game Designer
+Tedster | Moderation Lead Assistant | Game Designer | Moderation | Support
 
-Turkeybone | Moderation Lead Assistant | Moderation | Game Developer | Community Team | Game Designer
+Turkeybone | Moderation Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
 
 Dismas | Moderation
 
@@ -135,7 +131,7 @@ Spot | Moderation
 
 Sugarhigh | Moderation
 
-Tricks | Moderation
+Tricks | Moderation | Support
 
 Windoges | Moderation
 
@@ -172,6 +168,8 @@ Bizzy | Former Game Developer
 BubblyDinoPop | Former Brand Artist | Former Concept Artist | Former Community Team Member | Former Game Designer
 
 Daaniel | Former Texture Artist
+
+Devvy | Former Technical Lead | Former Game Developer
 
 Djcat | Former Re-texture Artist
 
