@@ -17,7 +17,6 @@
 - A Toon's merits will now display on the 'Disguises' tab of the Toon Avatar Panel.
 - During the V.P. Boss battle, if the boss is near the ledge, they will only open the front door and not the back door.
 - The Tell Tale Carp on Anchor Avenue in Barnacle Boatyard can no longer be taken over by the Cogs.
-- The district picker on the Pick-a-Toon screen now shows exactly which Cog is invading when an invaded district is selected.
 - You can now use right-click to send SpeedChat Phrases through as a thought bubble!
 - Kiwi Toons have found their sleeves!
 - Various additions to the chat whitelist and blacklist.
