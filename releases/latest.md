@@ -15,7 +15,7 @@
 - If a Toon doesn't have full merits when entering a boss lobby, a pop-up warning will show.
   - From there, the Toon can click 'OK' to enter anyways, or 'Cancel' to exit and get the merits they need.
 - A Toon's merits will now display on the 'Disguises' tab of the Toon Avatar Panel.
-- During the V.P. Boss battle, the V.P. will only open his front door if he is near the ledge.
+- During the V.P. Boss battle, if the boss is near the ledge, they will only open the front door and not the back door.
 - The Tell Tale Carp on Anchor Avenue in Barnacle Boatyard can no longer be taken over by the Cogs.
 - The district picker on the Pick-a-Toon screen now shows exactly which Cog is invading when an invaded district is selected.
 - You can now use right-click to send SpeedChat Phrases through as a thought bubble!
