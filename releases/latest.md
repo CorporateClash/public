@@ -19,6 +19,7 @@
 - The Tell Tale Carp on Anchor Avenue in Barnacle Boatyard can no longer be taken over by the Cogs.
 - You can now use right-click to send SpeedChat Phrases through as a thought bubble!
 - Kiwi Toons have found their sleeves!
+- Updated female Cog body models.
 - Various additions to the chat whitelist and blacklist.
 
 **Bugfixes**
