@@ -1,5 +1,8 @@
 ### Beta v1.1.2.1
 
+**Update on November 9th, 2020**: After this initial patch, we introduced another fix that fixes an issue
+ where a Toon can get stuck in the void in Cog Golf Courses.
+
 **Bugfixes**
 - **Fixed a major issue causing disconnects when switching Districts.**
   - Please let us know if you still encounter this issue!
