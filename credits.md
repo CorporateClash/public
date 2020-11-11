@@ -30,11 +30,11 @@ Lemintex | Game Developer
 
 Little Cat | Game Developer
 
+Sir Tubby Cheezyfish | Game Developer | Game Designer | Technical Artist
+
 Spicy | Game Developer
 
 Sketched | Game Developer | Game Designer
-
-Skids | Game Developer | Game Designer | Support
 
 Travis | Game Developer
 
@@ -131,7 +131,7 @@ Spot | Moderation
 
 Sugarhigh | Moderation
 
-Tricks | Moderation | Support
+Tricks | Moderation | Support | Game Designer
 
 Windoges | Moderation
 
@@ -148,7 +148,9 @@ Cranky Biggenbubble | Support
 
 Mailmare | Support
 
-Normal | Support | Moderation
+Normal | Support | Moderation | Game Designer
+
+Skids | Support | Game Designer
 
 
 ### <a name="contributors"></a>Former Contributors
