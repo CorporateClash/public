@@ -211,8 +211,6 @@ Ryot | Former Game Developer
 
 Shellybobelly | Former Support
 
-Sir Tubby Cheezyfish | Game Developer | Technical Artist
-
 Smokin' Foreman | Various Boardbot Models
 
 Sperry | Former Game Developer
