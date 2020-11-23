@@ -77,8 +77,6 @@ MasterFrasca | Composer
 
 MaxGreatness | Composer
 
-NonsensicalThings | 3D Animator | Video Editor | Community Team
-
 Pandora | Brand Artist | Community Team | Game Designer
 
 Polygon | 3D Modeler | 3D Animator | Texture Artist | Game Designer
