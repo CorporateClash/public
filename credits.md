@@ -12,9 +12,9 @@
 
 Hunter Ray | Lead Web Developer
 
-Lorthos | Technical Team Lead | Game Developer
+Eliz | Technical Team Lead | Game Developer | Moderation
 
-Eliz | Technical Lead Assistant | Game Developer | Moderation
+Lorthos | Technical Lead Assistant | Game Developer
 
 Goose | Technical Lead Assistant | Game Developer
 
@@ -69,9 +69,9 @@ FoxthatRox  | 3D Modeler
 
 Loonatic | Texture Artist | Technical Artist | Game Designer
 
-Mailman | Brand Arist | Comic Artist
+Mailman | Brand Artist | Comic Artist
 
-Maree | Concept Arist
+Maree | Concept Artist
 
 MasterFrasca | Composer 
 
@@ -93,7 +93,7 @@ Wintrie | Graphic Designer | Community Team
 
 Jay Nite | Game Design Lead | Game Developer | Game Designer
 
-Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
+Toonsies | Game Design Lead Assistant | Creative Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
 
 ### <a name="community-team"></a>Community Team
 
@@ -103,7 +103,7 @@ Flurry | Community Lead Assistant | Community Team
 
 Baskerville | Community Team | Moderation
 
-Cracking A. Joke | Community Team | Game Designer
+Cracking A. Joke | Community Team | Game Designer | Moderation
 
 Cream Cheese | Community Team
 
@@ -119,7 +119,7 @@ Tedster | Moderation Lead Assistant | Game Designer | Moderation | Support
 
 Turkeybone | Moderation Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
 
-Dismas | Moderation
+Dismas | Moderation Lead Assistant | Moderation
 
 Moses Christ | Moderation
 
@@ -132,6 +132,8 @@ Sugarhigh | Moderation
 Tricks | Moderation | Support | Game Designer
 
 Windoges | Moderation
+
+Main | Moderation
 
 
 ### <a name="support-team"></a>Support Team
@@ -169,7 +171,7 @@ BubblyDinoPop | Former Brand Artist | Former Concept Artist | Former Community T
 
 Daaniel | Former Texture Artist
 
-Devvy | Former Technical Lead | Former Game Developer
+Devvy | Former Technical Lead | Former Game Developer | former Moderation
 
 Djcat | Former Re-texture Artist
 
