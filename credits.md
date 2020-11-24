@@ -14,9 +14,9 @@ Hunter Ray | Lead Web Developer
 
 Eliz | Technical Team Lead | Game Developer | Moderation
 
-Lorthos | Technical Lead Assistant | Game Developer
-
 Goose | Technical Lead Assistant | Game Developer
+
+Lorthos | Technical Lead Assistant | Game Developer
 
 Biff | Game Developer
 
@@ -115,11 +115,15 @@ Nat | Community Team | Moderation
 
 Vamp | Moderation Lead | Game Design Lead Assistant | Game Designer | Community Team  | Moderation
 
+Dismas | Moderation Lead Assistant | Moderation
+
 Tedster | Moderation Lead Assistant | Game Designer | Moderation | Support
 
 Turkeybone | Moderation Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
 
-Dismas | Moderation Lead Assistant | Moderation
+Dr. Pillowpounce | Moderation
+
+Main | Moderation
 
 Moses Christ | Moderation
 
@@ -127,13 +131,13 @@ Ozzie The Duck | Moderation
 
 Spot | Moderation
 
+Socks Socks Socks Socksocks | Moderation
+
 Sugarhigh | Moderation
 
 Tricks | Moderation | Support | Game Designer
 
 Windoges | Moderation
-
-Main | Moderation
 
 
 ### <a name="support-team"></a>Support Team
