@@ -121,6 +121,8 @@ Tedster | Moderation Lead Assistant | Game Designer | Moderation | Support
 
 Turkeybone | Moderation Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
 
+Casper Petalglow | Moderation
+
 Dr. Pillowpounce | Moderation
 
 Main | Moderation
