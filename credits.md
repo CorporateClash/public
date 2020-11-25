@@ -73,7 +73,7 @@ Lemmy | Brand Artist | Concept Artist | Community Team
 
 Loonatic | Texture Artist | Technical Artist | Game Designer
 
-Mailman | Brand Artist | Comic Artist
+Mailman | Brand Artist | Comic Artist | Community Team
 
 Maree | Concept Artist
 
