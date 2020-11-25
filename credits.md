@@ -51,6 +51,8 @@ LoopyGoopyG | Creative Lead Assistant | Concept Artist | Game Designer
 
 Rox | Creative Lead Assistant | Graphic Designer | Video Editor | Community Team | Moderation
 
+Aero | Brand Artist | Graphic Designer | Community Team
+
 AnonymousAvocado | Concept Artist
 
 Arabesco | Concept Artist
@@ -66,6 +68,8 @@ Duke Trickyflip | Composer
 Fargo | Texture Artist
 
 FoxthatRox  | 3D Modeler
+
+Lemmy | Brand Artist | Concept Artist | Community Team
 
 Loonatic | Texture Artist | Technical Artist | Game Designer
 
