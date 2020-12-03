@@ -5,7 +5,7 @@
 - Fixed an issue preventing Lawbot Specialists from spawning on Streets and HQs.
 
 **Tweaks**
-- Removed the Count Erclaim leaderboards for the year. 
+- Removed the Count Erclaim leaderboards.
   - If you have the badges from November, you'll still keep it through December.
 - Minor GUI texture fixes.
 - Minor text fixes.
