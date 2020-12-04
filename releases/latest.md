@@ -6,6 +6,6 @@
 - Fixed the Heavy Drop death animation being off center when killing a Cog that was Unlured in the same round.
 - Fixed incorrect Golf Ball locations on multiple instances of the Tee Off attack.
 - Changed the Edgar Allen Pole NPC to be better fitting for his name.
-- Fixed the CFO Intro cutting off Mata Hairy’s dialogue if he was in a tall Cog disguise.
+- Fixed the CFO Intro cutting off Mata Hairy’s dialogue if dhe was in a tall Cog disguise.
 - Fixed an issue preventing Doodle Trick text from appearing when calling a Doodle in a battle.
 - Minor text fixes. 
