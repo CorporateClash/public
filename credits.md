@@ -127,7 +127,11 @@ Turkeybone | Moderation Lead Assistant | Game Developer | Game Designer | Commun
 
 Casper Petalglow | Moderation
 
+Dom | Moderation
+
 Dr. Pillowpounce | Moderation
+
+Lormen | Moderation
 
 Main | Moderation
 
@@ -141,7 +145,7 @@ Socks Socks Socks Socksocks | Moderation
 
 Sugarhigh | Moderation
 
-Tricks | Moderation | Support | Game Designer
+Tricks | Moderation | Game Designer | Graphic Designer | Community Tean
 
 Windoges | Moderation
 
