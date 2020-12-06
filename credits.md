@@ -111,8 +111,6 @@ Cracking A. Joke | Community Team | Game Designer | Moderation
 
 Cream Cheese | Community Team
 
-Hypsin88 | Community Team
-
 Nat | Community Team | Moderation
 
 ### <a name="moderation-team"></a>Moderation Team
