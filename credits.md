@@ -45,11 +45,11 @@ Yannik | Game Developer
 
 ### <a name="creative-team"></a>Creative Team
 
-Sourdough | Creative Team Lead | Concept Artist | Community Team | Moderation
+Rox | Creative Team Lead | Graphic Designer | Video Editor | Community Team | Moderation
+
+Tedster | Creative Team Lead | Game Designer | Moderation | Support
 
 LoopyGoopyG | Creative Lead Assistant | Concept Artist | Game Designer
-
-Rox | Creative Lead Assistant | Graphic Designer | Video Editor | Community Team | Moderation
 
 Aero | Brand Artist | Graphic Designer | Community Team
 
@@ -89,6 +89,8 @@ Purest Melody | Composer
 
 Shawny | Brand Artist | Concept Artist | Community Team
 
+Sourdough | Concept Artist | Game Designer | Community Team | Moderation
+
 Spooks | 3D Modeler | Community Team | Game Designer
 
 Wintrie | Graphic Designer | Community Team
@@ -119,7 +121,7 @@ Vamp | Moderation Lead | Game Design Lead Assistant | Game Designer | Community 
 
 Dismas | Moderation Lead Assistant | Moderation
 
-Tedster | Moderation Lead Assistant | Game Designer | Moderation | Support
+Normal | Moderation Lead Assistant | Game Designer | Moderation | Support
 
 Turkeybone | Moderation Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
 
@@ -143,7 +145,7 @@ Socks Socks Socks Socksocks | Moderation
 
 Sugarhigh | Moderation
 
-Tricks | Moderation | Game Designer | Graphic Designer | Community Tean
+Tricks | Moderation | Game Designer | Graphic Designer | Community Team
 
 Windoges | Moderation
 
@@ -159,8 +161,6 @@ Coal | Support
 Cranky Biggenbubble | Support
 
 Mailmare | Support
-
-Normal | Support | Moderation | Game Designer
 
 Skids | Support | Game Designer
 
