@@ -1,4 +1,4 @@
-### Beta v1.1.5.3
+### Beta v1.1.6
 
 **Optimization**
 - Corporate Clash now includes more optimizations!
