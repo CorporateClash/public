@@ -69,7 +69,7 @@ Fargo | Texture Artist
 
 FoxthatRox  | 3D Modeler
 
-Lemmy | Brand Artist | Concept Artist | Community Team
+Lemmy | Brand Artist | Concept Artist | Community Team | Game Designer
 
 Loonatic | Texture Artist | Technical Artist | Game Designer
 
@@ -133,7 +133,7 @@ Dr. Pillowpounce | Moderation
 
 Lormen | Moderation
 
-Main | Moderation
+Main | Moderation | Game Designer
 
 Moses Christ | Moderation
 
