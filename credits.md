@@ -119,7 +119,7 @@ Nat | Community Team | Moderation
 
 Vamp | Moderation Lead | Game Design Lead Assistant | Game Designer | Community Team  | Moderation
 
-Dismas | Moderation Lead Assistant | Moderation
+Dismas | Moderation Lead Assistant | Moderation | Game Designer
 
 Normal | Moderation Lead Assistant | Game Designer | Moderation | Support
 
@@ -147,7 +147,7 @@ Sugarhigh | Moderation
 
 Tricks | Moderation | Game Designer | Graphic Designer | Community Team
 
-Windoges | Moderation
+Windoges | Moderation | Game Designer
 
 
 ### <a name="support-team"></a>Support Team
