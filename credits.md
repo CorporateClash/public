@@ -139,8 +139,6 @@ Moses Christ | Moderation
 
 Ozzie The Duck | Moderation
 
-Spot | Moderation
-
 Socks Socks Socks Socksocks | Moderation
 
 Sugarhigh | Moderation
