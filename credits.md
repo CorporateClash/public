@@ -71,7 +71,7 @@ FoxthatRox  | 3D Modeler
 
 Lemmy | Brand Artist | Concept Artist | Community Team | Game Designer
 
-Loonatic | Texture Artist | Technical Artist | Game Designer
+Loonatic | Texture Artist | Technical Artist
 
 Mailman | Brand Artist | Comic Artist | Community Team
 
@@ -83,7 +83,7 @@ MaxGreatness | Composer
 
 Pandora | Brand Artist | Community Team | Game Designer
 
-Polygon | 3D Modeler | 3D Animator | Texture Artist | Game Designer
+Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Designer
 
 Purest Melody | Composer
 
