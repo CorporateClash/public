@@ -81,8 +81,6 @@ MasterFrasca | Composer
 
 MaxGreatness | Composer
 
-Pandora | Brand Artist | Community Team | Game Designer
-
 Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Designer
 
 Purest Melody | Composer
@@ -214,6 +212,8 @@ NonsensicalThings | Armadillo Sounds
 Obligatory Unicorn | Former Re-texture Artist, some music
 
 Old Geezer | Former Composer
+
+Pandora | Former Brand Artist
 
 Qpeck | Former Re-texture Artist
 
