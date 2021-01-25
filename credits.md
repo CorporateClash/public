@@ -28,6 +28,8 @@ Jwcotejr | Game Developer
 
 Lemintex | Game Developer
 
+Lily | Game Developer
+
 Little Cat | Game Developer
 
 Sir Tubby Cheezyfish | Game Developer | Game Designer | Technical Artist
