@@ -150,9 +150,7 @@ Windoges | Moderation | Game Designer
 
 ### <a name="support-team"></a>Support Team
 
-Spider Tacos | Support Lead | Support | Moderation
-
-Penny | Support Lead Assistant | Support | Moderation
+Penny | Support Lead | Support | Moderation
 
 Coal | Support
 
@@ -226,6 +224,8 @@ Shellybobelly | Former Support
 Smokin' Foreman | Various Boardbot Models
 
 Sperry | Former Game Developer
+
+Spider Tacos | Former Support Lead
 
 Treetop Legend | Former 3D Modeler
 
