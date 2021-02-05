@@ -93,6 +93,8 @@ Sourdough | Concept Artist | Game Designer | Community Team | Moderation
 
 Spooks | 3D Modeler | Community Team | Game Designer
 
+Sir Dapper Penguin | 3D Modeler
+
 Wintrie | Graphic Designer | Community Team
 
 ### <a name="game-design-team"></a>Game Design Team
