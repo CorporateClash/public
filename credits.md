@@ -47,11 +47,9 @@ Yannik | Game Developer
 
 ### <a name="creative-team"></a>Creative Team
 
-Rox | Creative Team Lead | Graphic Designer | Video Editor | Community Team | Moderation
+LoopyGoopyG | Creative Team Lead | Concept Artist | Game Designer
 
 Tedster | Creative Team Lead | Game Designer | Moderation | Support
-
-LoopyGoopyG | Creative Lead Assistant | Concept Artist | Game Designer
 
 Aero | Brand Artist | Graphic Designer | Community Team
 
@@ -60,6 +58,8 @@ AnonymousAvocado | Concept Artist
 Arabesco | Concept Artist
 
 Brandy | Comic Artist
+
+BubblyDinoPop | Brand Artist | Concept Artist | Game Designer | Community Team
 
 BunnyHeidi | Concept Artist
 
@@ -108,6 +108,8 @@ Toonsies | Game Design Lead Assistant | Creative Lead Assistant | 2D Artist | Co
 Poppy Cheezycorn | Community Manager | Community Team | Texture Artist
 
 Flurry | Community Lead Assistant | Community Team
+
+Rox | Community Lead Assistant | Community Team | Video Editor | Graphic Designer | Moderation
 
 Baskerville | Community Team | Moderation
 
@@ -176,8 +178,6 @@ Bannini | Former Brand Artist
 Barks | Former Developer
 
 Bizzy | Former Game Developer
-
-BubblyDinoPop | Former Brand Artist | Former Concept Artist | Former Community Team Member | Former Game Designer
 
 Daaniel | Former Texture Artist
 
