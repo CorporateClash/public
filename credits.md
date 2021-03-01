@@ -115,8 +115,6 @@ Baskerville | Community Team | Moderation
 
 Cracking A. Joke | Community Team | Game Designer | Moderation
 
-Cream Cheese | Community Team
-
 Nat | Community Team | Moderation
 
 ### <a name="moderation-team"></a>Moderation Team
@@ -158,8 +156,6 @@ Penny | Support Lead | Support | Moderation
 
 Coal | Support
 
-Cranky Biggenbubble | Support
-
 Mailmare | Support
 
 Skids | Support | Game Designer
@@ -178,6 +174,8 @@ Bannini | Former Brand Artist
 Barks | Former Developer
 
 Bizzy | Former Game Developer
+
+Cream Cheese | Former Community Team
 
 Daaniel | Former Texture Artist
 
