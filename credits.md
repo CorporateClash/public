@@ -14,7 +14,7 @@ Hunter Ray | Lead Web Developer
 
 Eliz | Technical Team Lead | Game Developer | Moderation
 
-Goose | Technical Lead Assistant | Game Developer
+Goose | Technical Lead Assistant | Game Developer | Moderation
 
 Lorthos | Technical Lead Assistant | Game Developer
 
@@ -75,7 +75,7 @@ Lemmy | Brand Artist | Concept Artist | Community Team | Game Designer
 
 Loonatic | Texture Artist | Technical Artist
 
-Mailman | Brand Artist | Comic Artist | Community Team
+Mailman | Brand Artist | Comic Artist | Concept Artist | Community Team
 
 Maree | Concept Artist
 
@@ -89,7 +89,7 @@ Purest Melody | Composer
 
 Shawny | Brand Artist | Concept Artist | Community Team
 
-Sourdough | Concept Artist | Game Designer | Community Team | Moderation
+Sourdough | Concept Artist | UI/UX Designer | Game Designer | Community Team | Moderation
 
 Spooks | 3D Modeler | Community Team | Game Designer
 
@@ -123,8 +123,6 @@ Vamp | Moderation Lead | Game Design Lead Assistant | Game Designer | Community 
 
 Dismas | Moderation Lead Assistant | Moderation | Game Designer
 
-Normal | Moderation Lead Assistant | Game Designer | Moderation | Support
-
 Turkeybone | Moderation Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
 
 Casper Petalglow | Moderation
@@ -133,11 +131,19 @@ Dom | Moderation
 
 Dr. Pillowpounce | Moderation
 
+Ghost | Moderation
+
+Little Bath | Moderation
+
 Lormen | Moderation
 
 Main | Moderation | Game Designer
 
 Moses Christ | Moderation
+
+Mumbo Jumbo | Moderation
+
+Olive | Moderation
 
 Ozzie The Duck | Moderation
 
@@ -153,6 +159,8 @@ Windoges | Moderation | Game Designer
 ### <a name="support-team"></a>Support Team
 
 Penny | Support Lead | Support | Moderation
+
+Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
 
 Coal | Support
 
