@@ -103,6 +103,8 @@ Jay Nite | Game Design Lead | Game Developer | Game Designer
 
 Toonsies | Game Design Lead Assistant | Creative Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
 
+Turkeybone | Game Design Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
+
 ### <a name="community-team"></a>Community Team
 
 Poppy Cheezycorn | Community Manager | Community Team | Texture Artist
@@ -123,7 +125,7 @@ Vamp | Moderation Lead | Game Design Lead Assistant | Game Designer | Community 
 
 Dismas | Moderation Lead Assistant | Moderation | Game Designer
 
-Turkeybone | Moderation Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
+Socks Socks Socks Socksocks | Moderation Lead Assistant | Moderation
 
 Casper Petalglow | Moderation
 
@@ -146,8 +148,6 @@ Mumbo Jumbo | Moderation
 Olive | Moderation
 
 Ozzie The Duck | Moderation
-
-Socks Socks Socks Socksocks | Moderation
 
 Sugarhigh | Moderation
 
