@@ -166,8 +166,6 @@ Coal | Support
 
 Mailmare | Support
 
-Skids | Support | Game Designer
-
 
 ### <a name="contributors"></a>Former Contributors
 
@@ -228,6 +226,8 @@ Qpeck | Former Re-texture Artist
 Ryot | Former Game Developer
 
 Shellybobelly | Former Support
+
+Skids | Former Game Developer | Former Game Designer
 
 Smokin' Foreman | Various Boardbot Models
 
