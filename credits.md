@@ -16,8 +16,6 @@ Eliz | Technical Team Lead | Game Developer | Moderation
 
 Goose | Technical Lead Assistant | Game Developer | Moderation
 
-Lorthos | Technical Lead Assistant | Game Developer
-
 Biff | Game Developer
 
 Gustavo | Game Developer
@@ -39,8 +37,6 @@ Spicy | Game Developer
 Sketched | Game Developer | Game Designer
 
 Travis | Game Developer
-
-Vincent B. | Game Developer
 
 Yannik | Game Developer
 
@@ -101,7 +97,7 @@ Wintrie | Graphic Designer | Community Team
 
 Jay Nite | Game Design Lead | Game Developer | Game Designer
 
-Toonsies | Game Design Lead Assistant | Creative Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
+Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
 
 Turkeybone | Game Design Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
 
@@ -205,6 +201,8 @@ Lady Giggles JiggleWiggle | Former Sound Engineer
 
 Liam | Former Developer
 
+Lorthos | Former Technical Lead | Former Game Designer
+
 Malverde | TTC Layout
 
 McZoop | Former Concept Artist
@@ -236,6 +234,8 @@ Sperry | Former Game Developer
 Spider Tacos | Former Support Lead
 
 Treetop Legend | Former 3D Modeler
+
+Vincent B. | Former Game Developer
 
 Wubcake | Koala Sounds
 
