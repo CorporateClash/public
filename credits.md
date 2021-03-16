@@ -117,7 +117,7 @@ Nat | Community Team | Moderation
 
 ### <a name="moderation-team"></a>Moderation Team
 
-Vamp | Moderation Lead | Game Design Lead Assistant | Game Designer | Community Team  | Moderation
+Vamp | Moderation Lead | Game Designer | Community Team  | Moderation
 
 Dismas | Moderation Lead Assistant | Moderation | Game Designer
 
