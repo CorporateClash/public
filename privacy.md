@@ -10,9 +10,9 @@
 
 We need to collect this information to operate this service. 
 
-* IP Addresses and browser user agents are required to prevent malicious abuse of our systems, hereby defined as "generic information".
+* IP Addresses and browser user agents are required to prevent malicious abuse of our systems.
 * The password field is only used for making sure you're the one who is trying to log in.
-* The email, username and password fields are required to log users in and provide account security mechanisms, hereby defined as "PII".
+* The email, username and password fields are required to log users in and provide account security mechanisms.
 
 We may use third party services help us operate our services, including running various systems (such as Freshdesk for customer support). Your data is never sold, but it may be transferred or transmitted via our Data Processors (as defined below).   
 
@@ -50,9 +50,9 @@ Your use of the feature is contengent on accepting the terms of service and priv
 
 We use first-party cookies to contain a "session" that allows you to stay logged in between page loads. This session is associated with PII related to your account, but is not used to track you in places other than our websites.
 
-We use some third-party cookies like the Cloudflare [`__cfduid`](https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies#12345682) cookie and [`__cf_bm`](https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies#12345681) cookie to ensure our website is protected against malicious attacks. These cookies are used across Cloudflare-operated websites in order to stop bots from performing malicious actions, such as signing up fake accounts.
+We may use some third-party cookies like the Cloudflare [`__cfduid`](https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies#12345682) cookie or [`__cf_bm`](https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies#12345681) cookie to ensure our website is protected against malicious attacks. These cookies are used across Cloudflare-operated websites in order to stop bots from performing malicious actions, such as signing up fake accounts.
 
-When we use Twitter or Youtube embeds to show content from their services, we ask them to use a "no cookie" or "no tracking" version of the embed. It is up to them to honor this.
+When we use Twitter or YouTube embeds to show content from their services, we ask them to use a "no cookie" or "no tracking" version of the embed. It is up to them to honor this.
 
 ### Updates to this document
 
