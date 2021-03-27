@@ -53,6 +53,8 @@ AnonymousAvocado | Concept Artist
 
 Arabesco | Concept Artist
 
+Basher | 3D Modeler
+
 Brandy | Comic Artist
 
 BubblyDinoPop | Brand Artist | Concept Artist | Game Designer | Community Team
@@ -67,11 +69,11 @@ Fargo | Texture Artist
 
 FoxthatRox  | 3D Modeler
 
-Lemmy | Brand Artist | Concept Artist | Community Team | Game Designer
+Lemmy | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
 
 Loonatic | Texture Artist | Technical Artist
 
-Mailman | Brand Artist | Comic Artist | Concept Artist | Community Team
+Mailman | Brand Artist | Comic Artist | 3D Animator | Concept Artist | Community Team
 
 Maree | Concept Artist
 
