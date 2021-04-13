@@ -50,7 +50,7 @@ Your use of the feature is contengent on accepting the terms of service and priv
 
 We use first-party cookies to contain a "session" that allows you to stay logged in between page loads. This session is associated with PII related to your account, but is not used to track you in places other than our websites.
 
-We may use some third-party cookies like the Cloudflare [`__cfduid`](https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies#12345682) cookie or [`__cf_bm`](https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies#12345681) cookie to ensure our website is protected against malicious attacks. These cookies are used across Cloudflare-operated websites in order to stop bots from performing malicious actions, such as signing up fake accounts.
+We may use some third-party cookies like the Cloudflare [`__cf_bm`](https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies#12345681) cookie to ensure our website is protected against malicious attacks. These cookies are used by Cloudflare to detect and stop bots from performing malicious actions, such as signing up for fake accounts.
 
 When we use Twitter or YouTube embeds to show content from their services, we ask them to use a "no cookie" or "no tracking" version of the embed. It is up to them to honor this.
 
