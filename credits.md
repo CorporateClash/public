@@ -149,7 +149,7 @@ Ozzie The Duck | Moderation
 
 Sugarhigh | Moderation
 
-Tricks | Moderation | Game Designer | Graphic Designer | Community Team
+Madi | Moderation | Support | Game Designer | Graphic Designer | Community Team
 
 Windoges | Moderation | Game Designer
 
