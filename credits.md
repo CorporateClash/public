@@ -139,6 +139,8 @@ Lormen | Moderation
 
 Main | Moderation | Game Designer
 
+Madi | Moderation | Support | Game Designer | Graphic Designer | Community Team
+
 Moses Christ | Moderation
 
 Mumbo Jumbo | Moderation
@@ -148,8 +150,6 @@ Olive | Moderation
 Ozzie The Duck | Moderation
 
 Sugarhigh | Moderation
-
-Madi | Moderation | Support | Game Designer | Graphic Designer | Community Team
 
 Windoges | Moderation | Game Designer
 
