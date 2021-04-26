@@ -23,9 +23,9 @@ We allow a user to request PII associated with their account to be deleted or do
 
 Due to technical limitations, users can only request their information be downloaded, not directly transferred to a competitor.
 
-We may imose security and authentication checks during deletion or download requests to prevent unauthorized use of our system.
+We may impose security and authentication checks during deletion or download requests to prevent unauthorized use of our system.
 
-When a user deletes their account, the user understands that their account and related information, including access to the user’s toons and other in-game content, will be permanently lost.
+When you delete your account, you understand that your account and related information, including access to your toons and other in-game content, will be permanently lost.
 
 ### Parental opt-out
 
@@ -36,6 +36,10 @@ If you are a parent or legal guardian, and would no longer like you or your chil
 When you link your Corporate Clash account to Google or another sign-in provider, or use the "sign in with..." feature, we receive some of your data from the sign-in provider, such as your name, email, and a unique identifier. This data will only be used to associate the account you have with the sign-in provider to your Corporate Clash account in order to provide the account linking and "sign in with..." feature. We will never sell or export this information to anyone other than transmitting it via our data processors (detailed below) in order to store the data in a database or transfer it to your browser.
 
 Your use of the feature is contengent on accepting the terms of service and privacy policy of the sign-in provider. You are not required to use this feature to access the main service.
+
+### signining in and linking with third-party websites
+
+We partner with certain third-party websites to allow you to log in to them with your Corporate Clash account and provide information on your account to them - this might includes data such as your toon's look, name, progress, etc, as well as personal data, such as the username or email associated with your account. This can be initiated from the third-party's website.
 
 ### Data Processors
 
