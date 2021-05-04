@@ -28,13 +28,9 @@ Lemintex | Game Developer
 
 Lily | Game Developer
 
-Little Cat | Game Developer
-
 Sir Tubby Cheezyfish | Game Developer | Game Designer | Technical Artist
 
 Spicy | Game Developer
-
-Sketched | Game Developer | Game Designer
 
 Travis | Game Developer
 
@@ -46,6 +42,8 @@ Yannik | Game Developer
 LoopyGoopyG | Creative Team Lead | Concept Artist | Game Designer
 
 Tedster | Creative Team Lead | Game Designer | Moderation | Support
+
+Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | Concept Artist | Game Designer | Community Team
 
 Aero | Brand Artist | Graphic Designer | Community Team
 
@@ -63,7 +61,9 @@ BunnyHeidi | Concept Artist
 
 Cappuccino | Sound Designer
 
-Duke Trickyflip | Composer
+Cartooncog | Comic Artist
+
+Duke Trickyflip | Composer | Sound Designer
 
 Fargo | Texture Artist
 
@@ -72,8 +72,6 @@ FoxthatRox  | 3D Modeler
 Lemmy | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
 
 Loonatic | Texture Artist | Technical Artist
-
-Mailman | Brand Artist | Comic Artist | 3D Animator | Concept Artist | Community Team
 
 Maree | Concept Artist
 
@@ -84,6 +82,8 @@ MaxGreatness | Composer
 Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Designer
 
 Purest Melody | Composer
+
+Salem | Texture Artist
 
 Shawny | Brand Artist | Concept Artist | Community Team
 
@@ -115,8 +115,6 @@ Baskerville | Community Team | Moderation
 
 Cracking A. Joke | Community Team | Game Designer | Moderation
 
-Nat | Community Team | Moderation
-
 ### <a name="moderation-team"></a>Moderation Team
 
 Vamp | Moderation Lead | Game Designer | Community Team  | Moderation
@@ -129,10 +127,6 @@ Casper Petalglow | Moderation
 
 Dom | Moderation
 
-Dr. Pillowpounce | Moderation
-
-Ghost | Moderation
-
 Little Bath | Moderation
 
 Lormen | Moderation
@@ -142,8 +136,6 @@ Main | Moderation | Game Designer
 Madi | Moderation | Support | Game Designer | Graphic Designer | Community Team
 
 Moses Christ | Moderation
-
-Mumbo Jumbo | Moderation
 
 Olive | Moderation
 
@@ -160,7 +152,11 @@ Penny | Support Lead | Support | Moderation
 
 Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
 
+Chrisso | Support
+
 Coal | Support
+
+Kam | Support
 
 Mailmare | Support
 
@@ -203,6 +199,8 @@ Lady Giggles JiggleWiggle | Former Sound Engineer
 
 Liam | Former Developer
 
+Little Cat | Former Game Developer
+
 Lorthos | Former Technical Lead | Former Game Designer
 
 Malverde | TTC Layout
@@ -210,6 +208,8 @@ Malverde | TTC Layout
 McZoop | Former Concept Artist
 
 Mel N. Colley | Former Concept Artist
+
+Nat | Former Community Team
 
 NeoNote | Former Concept Artist
 
@@ -226,6 +226,8 @@ Qpeck | Former Re-texture Artist
 Ryot | Former Game Developer
 
 Shellybobelly | Former Support
+
+Sketched | Former Game Developer | Former Game Designer
 
 Skids | Former Game Developer | Former Game Designer
 
