@@ -30,8 +30,6 @@ Lily | Game Developer
 
 Sir Tubby Cheezyfish | Game Developer | Game Designer | Technical Artist
 
-Spicy | Game Developer
-
 Travis | Game Developer
 
 Yannik | Game Developer
@@ -97,11 +95,9 @@ Wintrie | Graphic Designer | Community Team
 
 ### <a name="game-design-team"></a>Game Design Team
 
-Jay Nite | Game Design Lead | Game Developer | Game Designer
-
 Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
 
-Turkeybone | Game Design Lead Assistant | Game Developer | Game Designer | Community Team | Moderation
+Turkeybone | Game Design Lead Assistant | Game Developer | Game Designer | Community Team
 
 ### <a name="community-team"></a>Community Team
 
@@ -111,7 +107,7 @@ Flurry | Community Lead Assistant | Community Team
 
 Rox | Community Lead Assistant | Community Team | Video Editor | Graphic Designer | Moderation
 
-Baskerville | Community Team | Moderation
+Baskerville | Community Team
 
 Cracking A. Joke | Community Team | Game Designer | Moderation
 
@@ -126,6 +122,8 @@ Socks Socks Socks Socksocks | Moderation Lead Assistant | Moderation
 Casper Petalglow | Moderation
 
 Dom | Moderation
+
+Dr. Pillow | Moderation
 
 Little Bath | Moderation
 
@@ -158,8 +156,6 @@ Coal | Support
 
 Kam | Support
 
-Mailmare | Support
-
 
 ### <a name="contributors"></a>Former Contributors
 
@@ -179,7 +175,7 @@ Cream Cheese | Former Community Team
 
 Daaniel | Former Texture Artist
 
-Devvy | Former Technical Lead | Former Game Developer | former Moderation
+Devvy | Former Technical Lead | Former Game Developer | Former Moderation
 
 Djcat | Former Re-texture Artist
 
@@ -190,6 +186,8 @@ Dr. Mawsh | Former Concept Artist
 Drewcification | Former Game Developer
 
 Fleetwire | Former Texture Artist | Former Composer | Former Sound Designer
+
+Jay Nite | Former Game Design Lead | Former Game Developer | Former Community Team
 
 jjkoletar | Server Stability Improvements
 
