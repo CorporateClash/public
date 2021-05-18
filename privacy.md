@@ -19,17 +19,13 @@ We may use third party services help us operate our services. Your data is never
 
 ### Managing your data
 
-We allow a user to request PII associated with their account to be deleted or downloaded via the website account page. Data downloads can only be performed every 30 days.
+We allow a user to request PII associated with their account to be deleted via the website account page. We may impose security and authentication checks during deletion to prevent unauthorized use of this feature and will not authorize account deletion via other means.
 
-Due to technical limitations, users can only request their information be downloaded, not directly transferred to a competitor.
-
-We may impose security and authentication checks during deletion or download requests to prevent unauthorized use of our system.
-
-When you delete your account, you understand that your account and related information, including access to your toons and other in-game content, will be permanently lost.
+**When you delete your account, you understand that your account and related information, including access to your toons and other in-game content, will be permanently lost.**
 
 ### Parental opt-out
 
-If you are a parent or legal guardian, and would no longer like you or your child to be bound to this privacy policy, you may use the information above to delete your child's data. Since this information is required to operate the service, the account will be deleted. For security purposes, this can only be done by manually logging into the account and performing the deletion yourself. Your PII will no longer be stored on our systems once complete.
+If you are a parent or legal guardian, and would no longer like you or your child to be bound to this privacy policy, you may use the information above to delete your child's account. Since this information is required to operate the service, the account will be deleted. For security purposes, this can only be done manually by logging into the account and performing the deletion yourself.
 
 ### third-party sign-in provider data
 
@@ -39,7 +35,7 @@ Your use of the feature is contengent on accepting the terms of service and priv
 
 ### signining in and linking with third-party websites
 
-We partner with certain third-party websites to allow you to log in to them with your Corporate Clash account and provide information on your account to them - this might includes data such as your toon's look, name, progress, etc, as well as personal data, such as the username or email associated with your account. This can be initiated from the third-party's website.
+We partner with certain third-party websites to allow you to log in to them with your Corporate Clash account and provide information on your account to them - this might includes data such as your toon's look, name, progress, etc, as well as personal data, such as the username or email associated with your account. This can be initiated from the third-party's website. 
 
 ### Data Processors
 
@@ -47,6 +43,8 @@ We partner with certain third-party websites to allow you to log in to them with
 * DigitalOcean ([Digitalocean DPA](https://www.digitalocean.com/legal/data-processing-agreement/))
 * Amazon Web Services/AWS ([AWS DPA](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf))
 * OVHcloud ([OVH DPA](https://us.ovhcloud.com/legal/data-processing-agreement)) 
+* Google Cloud Platform ([GCP DPA](https://cloud.google.com/terms/data-processing-terms))
+* Microsoft Azure ([Azure DPA](https://aka.ms/dpa))
 
 ### Cookies
 
