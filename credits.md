@@ -113,7 +113,7 @@ Cracking A. Joke | Community Team | Game Designer | Moderation
 
 Vamp | Moderation Lead | Game Designer | Community Team  | Moderation
 
-Dismas | Moderation Lead Assistant | Moderation | Game Designer
+Dismas | Moderation Lead Assistant | Moderation | Support | Game Designer
 
 Socks Socks Socks Socksocks | Moderation Lead Assistant | Moderation
 
