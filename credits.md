@@ -12,7 +12,7 @@
 
 Hunter Ray | Lead Web Developer
 
-Eliz | Technical Team Lead | Game Developer | Moderation
+Eliz | Technical Team Lead | Game Developer
 
 Goose | Technical Lead Assistant | Game Developer | Moderation
 
@@ -41,7 +41,7 @@ LoopyGoopyG | Creative Team Lead | Concept Artist | Game Designer
 
 Tedster | Creative Team Lead | Game Designer | Moderation | Support
 
-Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | Concept Artist | Game Designer | Community Team
+Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | Texture Artist | Concept Artist | Game Designer | Community Team
 
 Aero | Brand Artist | Graphic Designer | Community Team
 
@@ -51,17 +51,15 @@ Arabesco | Concept Artist
 
 Basher | 3D Modeler
 
-Brandy | Comic Artist
+Brandy | Comic Artist | Game Designer
 
 BubblyDinoPop | Brand Artist | Concept Artist | Game Designer | Community Team
 
 BunnyHeidi | Concept Artist
 
-Cappuccino | Sound Designer
-
 Cartooncog | Comic Artist
 
-Duke Trickyflip | Composer | Sound Designer
+Duke Trickyflip | Composer | Sound Designer | Game Designer
 
 Fargo | Texture Artist
 
@@ -81,11 +79,9 @@ Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Desi
 
 Purest Melody | Composer
 
-Salem | Texture Artist
-
 Shawny | Brand Artist | Concept Artist | Community Team
 
-Sourdough | Concept Artist | UI/UX Designer | Game Designer | Community Team | Moderation
+Sourdough | Concept Artist | UI/UX Designer | Community Team | Moderation
 
 Spooks | 3D Modeler | Community Team | Game Designer
 
@@ -98,6 +94,8 @@ Wintrie | Graphic Designer | Community Team
 Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
 
 Turkeybone | Game Design Lead Assistant | Game Developer | Game Designer | Community Team
+
+Windoges | Game Design Lead Assistant | Game Designer | Moderation | Support
 
 ### <a name="community-team"></a>Community Team
 
@@ -123,15 +121,11 @@ Casper Petalglow | Moderation
 
 Dom | Moderation
 
-Dr. Pillow | Moderation
+Dr. Pillowhopper | Moderation
 
 Little Bath | Moderation
 
-Lormen | Moderation
-
 Main | Moderation | Game Designer
-
-Madi | Moderation | Support | Game Designer | Graphic Designer | Community Team
 
 Moses Christ | Moderation
 
@@ -140,8 +134,6 @@ Olive | Moderation
 Ozzie The Duck | Moderation
 
 Sugarhigh | Moderation
-
-Windoges | Moderation | Game Designer
 
 
 ### <a name="support-team"></a>Support Team
@@ -171,6 +163,8 @@ Barks | Former Developer
 
 Bizzy | Former Game Developer
 
+Cappuccino | Former Sound Designer
+
 Cream Cheese | Former Community Team
 
 Daaniel | Former Texture Artist
@@ -199,7 +193,11 @@ Liam | Former Developer
 
 Little Cat | Former Game Developer
 
+Lormen | Former Moderation Lead
+
 Lorthos | Former Technical Lead | Former Game Designer
+
+Madi | Former Graphic Designer | Former Game Designer
 
 Malverde | TTC Layout
 
@@ -222,6 +220,8 @@ Pandora | Former Brand Artist
 Qpeck | Former Re-texture Artist
 
 Ryot | Former Game Developer
+
+Salem | Former Texture Artist
 
 Shellybobelly | Former Support
 
