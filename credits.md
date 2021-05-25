@@ -153,7 +153,7 @@ Kam | Support
 
 Adam H. | Former 3D Modeler
 
-Aeterna | Former Developer
+Aeterna | Former Developer | Former Moderation
 
 Artsyinnocence | Former Brand Artist
 
@@ -163,7 +163,11 @@ Barks | Former Developer
 
 Bizzy | Former Game Developer
 
+Caitlin | Former Moderation | Former Support
+
 Cappuccino | Former Sound Designer
+
+Cranky Biggenbubble | Former Support
 
 Cream Cheese | Former Community Team
 
@@ -179,7 +183,15 @@ Dr. Mawsh | Former Concept Artist
 
 Drewcification | Former Game Developer
 
+Eliza | Former Moderation
+
+Envious | Former Support Lead
+
 Fleetwire | Former Texture Artist | Former Composer | Former Sound Designer
+
+Ghost | Former Moderation
+
+hypsin88 | Former Community Team
 
 Jay Nite | Former Game Design Lead | Former Game Developer | Former Community Team
 
@@ -189,7 +201,9 @@ Kitt Kitt Lou | Former Game Developer
 
 Lady Giggles JiggleWiggle | Former Sound Engineer
 
-Liam | Former Developer
+Liam | Former Game Developer
+
+Liam | Former Moderation
 
 Little Cat | Former Game Developer
 
@@ -197,7 +211,9 @@ Lormen | Former Moderation Lead
 
 Lorthos | Former Technical Lead | Former Game Designer
 
-Madi | Former Graphic Designer | Former Game Designer
+Madi | Former Graphic Designer | Former Game Designer | Former Moderation | Former Support
+
+Mailmare | Former Support
 
 Malverde | TTC Layout
 
@@ -205,7 +221,9 @@ McZoop | Former Concept Artist
 
 Mel N. Colley | Former Concept Artist
 
-Nat | Former Community Team
+Mumbo Jumbo | Former Moderation
+
+Nat | Former Community Team | Former Moderation
 
 NeoNote | Former Concept Artist
 
@@ -215,7 +233,7 @@ Obligatory Unicorn | Former Re-texture Artist, some music
 
 Old Geezer | Former Composer
 
-Pandora | Former Brand Artist
+Pandora | Former Brand Artist | Former Moderation
 
 Qpeck | Former Re-texture Artist
 
@@ -227,13 +245,19 @@ Shellybobelly | Former Support
 
 Sketched | Former Game Developer | Former Game Designer
 
-Skids | Former Game Developer | Former Game Designer
-
 Smokin' Foreman | Various Boardbot Models
+
+SovieToon | Former Moderation
 
 Sperry | Former Game Developer
 
-Spider Tacos | Former Support Lead
+Spider Tacos | Former Support Lead | Former Moderation
+
+Spot | Former Moderation
+
+Teddy | Former Comic Artist
+
+Tooncan Sam | Former Moderation
 
 Treetop Legend | Former 3D Modeler
 
@@ -242,6 +266,8 @@ Vincent B. | Former Game Developer
 Wubcake | Koala Sounds
 
 Wubwub | Former 3D Modeler
+
+Yoral | Former Moderation
 
 ### <a name="special-thanks"></a>Special thanks
 
