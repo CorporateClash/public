@@ -16,10 +16,6 @@ Eliz | Technical Team Lead | Game Developer
 
 Goose | Technical Lead Assistant | Game Developer | Moderation
 
-Biff | Game Developer
-
-Gustavo | Game Developer
-
 Isocle | Game Developer
 
 Jwcotejr | Game Developer
@@ -190,6 +186,8 @@ Envious | Former Support Lead
 Fleetwire | Former Texture Artist | Former Composer | Former Sound Designer
 
 Ghost | Former Moderation
+
+Gustavo | Former Game Developer
 
 hypsin88 | Former Community Team
 
