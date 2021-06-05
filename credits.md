@@ -101,6 +101,8 @@ Flurry | Community Lead Assistant | Community Team
 
 Rox | Community Lead Assistant | Community Team | Video Editor | Graphic Designer | Moderation
 
+Alex The Wizard | Community Team | Video Editor
+
 Baskerville | Community Team
 
 Cracking A. Joke | Community Team | Game Designer | Moderation
@@ -121,6 +123,8 @@ Dr. Pillowhopper | Moderation
 
 Little Bath | Moderation
 
+Madsiekins | Moderation
+
 Main | Moderation | Game Designer
 
 Moses Christ | Moderation
@@ -129,7 +133,11 @@ Olive | Moderation
 
 Ozzie The Duck | Moderation
 
+Robin | Moderation
+
 Sugarhigh | Moderation
+
+Tripoverrocks | Moderation
 
 
 ### <a name="support-team"></a>Support Team
