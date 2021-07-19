@@ -2,9 +2,9 @@
 
 1. The use of numbers is prohibited unless in the form of a coherent name.
 2. Potentially identifiable first/last names are not allowed.
-3. Town/City/State names are prohibited, unless they are not exclusive to themselves.
+3. City/Regional/Country names are prohibited, including nationalities and ethnicities, unless not exclusive to themselves.
 4. Disney-based character names are not allowed. However, all other character names are allowed as long as they follow name rules.
-5. No described relationships, such as those of lineage and possession. 
+5. No described relationships, such as those that are possessive, romantic, or imply lineage.
 6. No sports teams (football teams, hockey teams, etc.) are allowed, unless they are not exclusive to themselves.
 7. No celebrities or bands are allowed. Celebrity puns however, are allowed as long as they follow the other naming rules.
 8. No names that pose as a member of staff, person(s) of authority, NPCs, or refer to game locations, unless they are not exclusive to themselves.

@@ -8,6 +8,7 @@
 * [Special Thanks](#special-thanks)
 * [And most importantly...](#and-most-importantly)
 
+
 ### <a name="technical-team"></a>Technical Team
 
 Hunter Ray | Lead Web Developer
@@ -34,8 +35,6 @@ Yannik | Game Developer
 ### <a name="creative-team"></a>Creative Team
 
 LoopyGoopyG | Creative Team Lead | Concept Artist | Game Designer
-
-Tedster | Creative Team Lead | Game Designer | Moderation | Support
 
 Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | Texture Artist | Concept Artist | Game Designer | Community Team
 
@@ -85,6 +84,7 @@ Sir Dapper Penguin | 3D Modeler
 
 Wintrie | Graphic Designer | Community Team
 
+
 ### <a name="game-design-team"></a>Game Design Team
 
 Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
@@ -92,6 +92,7 @@ Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer
 Turkeybone | Game Design Lead Assistant | Game Developer | Game Designer | Community Team
 
 Windoges | Game Design Lead Assistant | Game Designer | Moderation | Support
+
 
 ### <a name="community-team"></a>Community Team
 
@@ -107,21 +108,26 @@ Baskerville | Community Team
 
 Cracking A. Joke | Community Team | Game Designer | Moderation
 
+
 ### <a name="moderation-team"></a>Moderation Team
 
-Vamp | Moderation Lead | Game Designer | Community Team  | Moderation
+Sayori | Moderation Lead | Moderation
 
-Dismas | Moderation Lead Assistant | Moderation | Support | Game Designer
+Dr. Pillowhopper | Moderation Lead Assistant | Moderation
 
-Socks Socks Socks Socksocks | Moderation Lead Assistant | Moderation
+Sunny | Moderation Lead Assistant | Game Designer | Community Team | Moderation
+
+Cam | Moderation
 
 Casper Petalglow | Moderation
 
+Cody Alcatraz | Moderation
+
 Dom | Moderation
 
-Dr. Pillowhopper | Moderation
-
 Little Bath | Moderation
+
+Krissy | Moderation
 
 Madsiekins | Moderation
 
@@ -129,26 +135,24 @@ Main | Moderation | Game Designer
 
 Moses Christ | Moderation
 
-Olive | Moderation
-
 Ozzie The Duck | Moderation
 
-Robin | Moderation
-
 Sugarhigh | Moderation
+
+Timer | Moderation
 
 Tripoverrocks | Moderation
 
 
 ### <a name="support-team"></a>Support Team
 
-Penny | Support Lead | Support | Moderation
+Penny | Support Lead | Support
 
 Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
 
 Chrisso | Support
 
-Coal | Support
+Coal | Support | Moderation
 
 Kam | Support
 
@@ -178,6 +182,8 @@ Cream Cheese | Former Community Team
 Daaniel | Former Texture Artist
 
 Devvy | Former Technical Lead | Former Game Developer | Former Moderation
+
+Dismas | Former Moderation Lead Assistant | Former Moderation | Former Support | Former Game Designer
 
 Djcat | Former Re-texture Artist
 
@@ -239,6 +245,8 @@ Obligatory Unicorn | Former Re-texture Artist, some music
 
 Old Geezer | Former Composer
 
+Olive | Former Moderation
+
 Pandora | Former Brand Artist | Former Moderation
 
 Qpeck | Former Re-texture Artist
@@ -263,6 +271,8 @@ Spot | Former Moderation
 
 Teddy | Former Comic Artist
 
+Tedster | Former Creative Team Lead | Former Game Designer | Former Moderation | Former Support
+
 Tooncan Sam | Former Moderation
 
 Treetop Legend | Former 3D Modeler
@@ -274,6 +284,7 @@ Wubcake | Koala Sounds
 Wubwub | Former 3D Modeler
 
 Yoral | Former Moderation
+
 
 ### <a name="special-thanks"></a>Special thanks
 
