@@ -13,9 +13,7 @@
 
 Hunter Ray | Lead Web Developer
 
-Eliz | Technical Team Lead | Game Developer
-
-Goose | Technical Lead Assistant | Game Developer | Moderation
+Goose | Technical Team Lead | Game Developer | Moderation
 
 Isocle | Game Developer
 
@@ -36,6 +34,10 @@ Yannik | Game Developer
 
 LoopyGoopyG | Creative Team Lead | Concept Artist | Game Designer
 
+Tedster | Creative Team Lead | Game Designer
+
+Duke Trickyflip | Creative Lead Assistant | Composer | Sound Designer | Game Designer
+
 Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | Texture Artist | Concept Artist | Game Designer | Community Team
 
 Aero | Brand Artist | Graphic Designer | Community Team
@@ -54,8 +56,6 @@ BunnyHeidi | Concept Artist
 
 Cartooncog | Comic Artist
 
-Duke Trickyflip | Composer | Sound Designer | Game Designer
-
 Fargo | Texture Artist
 
 FoxthatRox  | 3D Modeler
@@ -72,11 +72,7 @@ MaxGreatness | Composer
 
 Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Designer
 
-Purest Melody | Composer
-
 Shawny | Brand Artist | Concept Artist | Community Team
-
-Sourdough | Concept Artist | UI/UX Designer | Community Team | Moderation
 
 Spooks | 3D Modeler | Community Team | Game Designer
 
@@ -86,10 +82,11 @@ Wintrie | Graphic Designer | Community Team
 
 
 ### <a name="game-design-team"></a>Game Design Team
+Turkeybone | Game Design Lead | Game Developer | Game Designer | Community Team
+
+Jay Nite | Game Design Lead Assistant | Game Developer | Game Designer
 
 Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
-
-Turkeybone | Game Design Lead Assistant | Game Developer | Game Designer | Community Team
 
 Windoges | Game Design Lead Assistant | Game Designer | Moderation | Support
 
@@ -100,13 +97,13 @@ Poppy Cheezycorn | Community Manager | Community Team | Texture Artist
 
 Flurry | Community Lead Assistant | Community Team
 
-Rox | Community Lead Assistant | Community Team | Video Editor | Graphic Designer | Moderation
-
 Alex The Wizard | Community Team | Video Editor
 
 Baskerville | Community Team
 
 Cracking A. Joke | Community Team | Game Designer | Moderation
+
+Rox | Community Team | Video Editor | Graphic Designer
 
 
 ### <a name="moderation-team"></a>Moderation Team
@@ -123,11 +120,15 @@ Casper Petalglow | Moderation
 
 Cody Alcatraz | Moderation
 
+Dismas | Moderation
+
 Dom | Moderation
 
 Little Bath | Moderation
 
-Krissy | Moderation
+Krissy | Moderation | Support
+
+Madi | Moderation | Game Designer
 
 Madsiekins | Moderation
 
@@ -149,6 +150,8 @@ Tripoverrocks | Moderation
 Penny | Support Lead | Support
 
 Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
+
+Belak | Support
 
 Chrisso | Support
 
@@ -183,8 +186,6 @@ Daaniel | Former Texture Artist
 
 Devvy | Former Technical Lead | Former Game Developer | Former Moderation
 
-Dismas | Former Moderation Lead Assistant | Former Moderation | Former Support | Former Game Designer
-
 Djcat | Former Re-texture Artist
 
 Donchado | Kangaroo Sounds
@@ -192,6 +193,8 @@ Donchado | Kangaroo Sounds
 Dr. Mawsh | Former Concept Artist
 
 Drewcification | Former Game Developer
+
+Eliz | Former Technical Lead | Former Game Developer | Former Moderation
 
 Eliza | Former Moderation
 
@@ -223,8 +226,6 @@ Lormen | Former Moderation Lead
 
 Lorthos | Former Technical Lead | Former Game Designer
 
-Madi | Former Graphic Designer | Former Game Designer | Former Moderation | Former Support
-
 Mailmare | Former Support
 
 Malverde | TTC Layout
@@ -249,6 +250,8 @@ Olive | Former Moderation
 
 Pandora | Former Brand Artist | Former Moderation
 
+Purest Melody | Former Composer
+
 Qpeck | Former Re-texture Artist
 
 Ryot | Former Game Developer
@@ -261,6 +264,8 @@ Sketched | Former Game Developer | Former Game Designer
 
 Smokin' Foreman | Various Boardbot Models
 
+Sourdough | Former Creative Lead | Former Concept Artist | Former UI/UX Designer | Former Moderation
+
 SovieToon | Former Moderation
 
 Sperry | Former Game Developer
@@ -270,8 +275,6 @@ Spider Tacos | Former Support Lead | Former Moderation
 Spot | Former Moderation
 
 Teddy | Former Comic Artist
-
-Tedster | Former Creative Team Lead | Former Game Designer | Former Moderation | Former Support
 
 Tooncan Sam | Former Moderation
 
