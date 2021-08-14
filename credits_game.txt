@@ -16,7 +16,6 @@ Yannik | Game Developer
 
 
 
-
 \1OrangeText\1Creative Team\2
 
 LoopyGoopyG | Creative Team Lead | Concept Artist | Game Designer
@@ -72,6 +71,7 @@ Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer
 Windoges | Game Design Lead Assistant | Game Designer | Moderation | Support
 
 
+
 \1OrangeText\1Community Team\2
 
 Peter F. | Community Manager | Community Team | Texture Artist
@@ -89,7 +89,6 @@ Cracking A. Joke | Community Team | Game Designer | Moderation
 Rox | Community Team | Video Editor | Graphic Designer
 
 Wintrie | Graphic Designer | Community Team
-
 
 
 
@@ -282,7 +281,6 @@ Wubcake | Koala Sounds
 Wubwub | Former 3D Modeler
 
 Yoral | Former Moderation
-
 
 
 
