@@ -15,13 +15,9 @@ Hunter Ray | Lead Web Developer
 
 Goose | Technical Team Lead | Game Developer | Moderation
 
-Isocle | Game Developer
-
 Jwcotejr | Game Developer
 
 Lemintex | Game Developer
-
-Lily | Game Developer
 
 Sir Tubby Cheezyfish | Game Developer | Game Designer | Technical Artist
 
@@ -40,8 +36,6 @@ Duke Trickyflip | Creative Lead Assistant | Composer | Sound Designer | Game Des
 
 Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | Texture Artist | Concept Artist | Game Designer | Community Team
 
-Aero | Brand Artist | Graphic Designer | Community Team
-
 AnonymousAvocado | Concept Artist
 
 Arabesco | Concept Artist
@@ -58,15 +52,13 @@ Cartooncog | Comic Artist
 
 Fargo | Texture Artist
 
-FoxthatRox  | 3D Modeler
+FoxthatRox | 3D Modeler
 
 Lemmy | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
 
 Loonatic | Texture Artist | Technical Artist
 
 Maree | Concept Artist
-
-MasterFrasca | Composer 
 
 MaxGreatness | Composer
 
@@ -78,10 +70,9 @@ Spooks | 3D Modeler | Community Team | Game Designer
 
 Sir Dapper Penguin | 3D Modeler
 
-Wintrie | Graphic Designer | Community Team
-
 
 ### <a name="game-design-team"></a>Game Design Team
+
 Turkeybone | Game Design Lead | Game Developer | Game Designer | Community Team
 
 Jay Nite | Game Design Lead Assistant | Game Developer | Game Designer
@@ -97,6 +88,8 @@ Poppy Cheezycorn | Community Manager | Community Team | Texture Artist
 
 Flurry | Community Lead Assistant | Community Team
 
+Aero | Brand Artist | Graphic Designer | Community Team
+
 Alex The Wizard | Community Team | Video Editor
 
 Baskerville | Community Team
@@ -104,6 +97,8 @@ Baskerville | Community Team
 Cracking A. Joke | Community Team | Game Designer | Moderation
 
 Rox | Community Team | Video Editor | Graphic Designer
+
+Wintrie | Graphic Designer | Community Team
 
 
 ### <a name="moderation-team"></a>Moderation Team
@@ -208,6 +203,8 @@ Gustavo | Former Game Developer
 
 hypsin88 | Former Community Team
 
+Isocle | Former Game Developer
+
 Jay Nite | Former Game Design Lead | Former Game Developer | Former Community Team
 
 jjkoletar | Server Stability Improvements
@@ -216,9 +213,9 @@ Kitt Kitt Lou | Former Game Developer
 
 Lady Giggles JiggleWiggle | Former Sound Engineer
 
-Liam | Former Game Developer
-
 Liam | Former Moderation
+
+Lily | Former Game Developer
 
 Little Cat | Former Game Developer
 
@@ -229,6 +226,8 @@ Lorthos | Former Technical Lead | Former Game Designer
 Mailmare | Former Support
 
 Malverde | TTC Layout
+
+MasterFrasca | Former Creative Lead | Former Composer
 
 McZoop | Former Concept Artist
 
@@ -241,6 +240,8 @@ Nat | Former Community Team | Former Moderation
 NeoNote | Former Concept Artist
 
 NonsensicalThings | Armadillo Sounds
+
+Nosyliam | Former Game Lead
 
 Obligatory Unicorn | Former Re-texture Artist, some music
 
@@ -258,7 +259,7 @@ Ryot | Former Game Developer
 
 Salem | Former Texture Artist
 
-Shellybobelly | Former Support
+Shellybobelly | Former Support Lead
 
 Sketched | Former Game Developer | Former Game Designer
 
@@ -297,7 +298,7 @@ Developers of Astron
 
 Developers of Panda3D
 
-Disney Interactive | Developing Toontown Online
+Disney Games and Interactive Experiences | Developing Toontown Online
 
 Piplup | Retired New Battle GUI concept
 
