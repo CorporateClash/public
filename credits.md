@@ -84,7 +84,7 @@ Windoges | Game Design Lead Assistant | Game Designer | Moderation | Support
 
 ### <a name="community-team"></a>Community Team
 
-Poppy Cheezycorn | Community Manager | Community Team | Texture Artist
+Peter F. | Community Manager | Community Team | Texture Artist
 
 Flurry | Community Lead Assistant | Community Team
 
