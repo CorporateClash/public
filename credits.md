@@ -19,6 +19,8 @@ Jwcotejr | Game Developer
 
 Lemintex | Game Developer
 
+Main | Game Developer | Composer | Game Designer | Moderation
+
 Sir Tubby Cheezyfish | Game Developer | Game Designer | Technical Artist
 
 Travis | Game Developer
@@ -126,8 +128,6 @@ Krissy | Moderation | Support
 Madi | Moderation | Game Designer
 
 Madsiekins | Moderation
-
-Main | Moderation | Game Designer
 
 Moses Christ | Moderation
 
