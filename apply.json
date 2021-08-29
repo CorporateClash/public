@@ -4,6 +4,10 @@
       "name": "Creative Team",
       "positions": [
         {
+          "name": "Texture Artist",
+          "link": "https://clash.lol/apply-textureartist"
+        },
+        {
           "name": "3D Animator",
           "link": "https://clash.lol/apply-3danimator"
         },
@@ -22,10 +26,6 @@
         {
           "name": "Sound Engineer",
           "link": "https://clash.lol/apply-soundengineer"
-        },
-        {
-          "name": "Texture Artist",
-          "link": "https://clash.lol/apply-textureartist"
         },
         {
           "name": "UX/UI Designer",
