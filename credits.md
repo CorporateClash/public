@@ -36,7 +36,7 @@ Tedster | Creative Team Lead | Game Designer
 
 Duke Trickyflip | Creative Lead Assistant | Composer | Sound Designer | Game Designer
 
-Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | Texture Artist | Concept Artist | Game Designer | Community Team
+Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | Game Designer | Community Team
 
 AnonymousAvocado | Concept Artist
 
@@ -52,6 +52,8 @@ BunnyHeidi | Concept Artist
 
 Cartooncog | Comic Artist
 
+Emile | Concept Artist | Game Designer
+
 Fargo | Texture Artist
 
 FoxthatRox | 3D Modeler
@@ -63,6 +65,8 @@ Loonatic | Texture Artist | Technical Artist
 Maree | Concept Artist
 
 MaxGreatness | Composer
+
+Mrmanny | Sound Designer
 
 Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Designer
 
@@ -109,7 +113,9 @@ Sayori | Moderation Lead | Moderation
 
 Dr. Pillowhopper | Moderation Lead Assistant | Moderation
 
-Sunny | Moderation Lead Assistant | Game Designer | Community Team | Moderation
+Little Bath | Moderation Lead Assistant | Moderation
+
+Madi | Moderation Lead Assistant | Moderation | Game Designer
 
 Cam | Moderation
 
@@ -119,13 +125,7 @@ Cody Alcatraz | Moderation
 
 Dismas | Moderation
 
-Dom | Moderation
-
-Little Bath | Moderation
-
 Krissy | Moderation | Support
-
-Madi | Moderation | Game Designer
 
 Madsiekins | Moderation
 
@@ -133,11 +133,18 @@ Moses Christ | Moderation
 
 Ozzie The Duck | Moderation
 
+Rachael | Moderation
+
 Sugarhigh | Moderation
+
+Steven | Moderation
+
+Sunny | Moderation | Game Designer | Community Team
 
 Timer | Moderation
 
 Tripoverrocks | Moderation
+
 
 
 ### <a name="support-team"></a>Support Team
@@ -182,6 +189,8 @@ Daaniel | Former Texture Artist
 Devvy | Former Technical Lead | Former Game Developer | Former Moderation
 
 Djcat | Former Re-texture Artist
+
+Dom | Former Moderation
 
 Donchado | Kangaroo Sounds
 
