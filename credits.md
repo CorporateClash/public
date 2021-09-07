@@ -115,7 +115,7 @@ Dr. Pillowhopper | Moderation Lead Assistant | Moderation
 
 Little Bath | Moderation Lead Assistant | Moderation
 
-Madi | Moderation Lead Assistant | Moderation | Game Designer
+madibye | Moderation Lead Assistant | Moderation | Game Designer
 
 Cam | Moderation
 
