@@ -70,6 +70,8 @@ Mrmanny | Sound Designer
 
 Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Designer
 
+Salem | Texture Artist
+
 Shawny | Brand Artist | Concept Artist | Community Team
 
 Spooks | 3D Modeler | Community Team | Game Designer
@@ -113,17 +115,19 @@ Sayori | Moderation Lead | Moderation
 
 Dr. Pillowhopper | Moderation Lead Assistant | Moderation
 
-Little Bath | Moderation Lead Assistant | Moderation
+Little Bath | Moderation Lead Assistant | Moderation | Game Designer
 
 madibye | Moderation Lead Assistant | Moderation | Game Designer
 
 Cam | Moderation
 
-Casper Petalglow | Moderation
+Casper Petalglow | Moderation | Game Designer
 
 Cody Alcatraz | Moderation
 
 Dismas | Moderation
+
+King Nathan | Moderation
 
 Krissy | Moderation | Support
 
@@ -265,8 +269,6 @@ Purest Melody | Former Composer
 Qpeck | Former Re-texture Artist
 
 Ryot | Former Game Developer
-
-Salem | Former Texture Artist
 
 Shellybobelly | Former Support Lead
 
