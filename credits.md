@@ -17,15 +17,13 @@ Goose | Technical Team Lead | Game Developer | Moderation
 
 Jwcotejr | Game Developer
 
-Lemintex | Game Developer
-
 Main | Game Developer | Composer | Game Designer | Moderation
+
+Sheriff Cranky | Game Developer | Web Developer | Game Designer
 
 Sir Tubby Cheezyfish | Game Developer | Game Designer | Technical Artist
 
 Travis | Game Developer
-
-Yannik | Game Developer
 
 
 ### <a name="creative-team"></a>Creative Team
@@ -102,7 +100,7 @@ Alex The Wizard | Community Team | Video Editor
 
 Baskerville | Community Team
 
-Cracking A. Joke | Community Team | Game Designer | Moderation
+Cracking A. Joke | Community Team | Game Designer
 
 Rox | Community Team | Video Editor | Graphic Designer
 
@@ -226,6 +224,8 @@ Kitt Kitt Lou | Former Game Developer
 
 Lady Giggles JiggleWiggle | Former Sound Engineer
 
+Lemintex | Former Game Developer
+
 Liam | Former Moderation
 
 Lily | Former Game Developer
@@ -297,6 +297,8 @@ Vincent B. | Former Game Developer
 Wubcake | Koala Sounds
 
 Wubwub | Former 3D Modeler
+
+Yannik | Former Game Developer
 
 Yoral | Former Moderation
 
