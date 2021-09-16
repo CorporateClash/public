@@ -17,7 +17,7 @@ Goose | Technical Team Lead | Game Developer | Moderation
 
 Jwcotejr | Game Developer
 
-Main | Game Developer | Composer | Game Designer | Moderation
+Main | Game Developer | Composer | Game Designer
 
 Sheriff Cranky | Game Developer | Web Developer | Game Designer
 
@@ -215,8 +215,6 @@ Gustavo | Former Game Developer
 hypsin88 | Former Community Team
 
 Isocle | Former Game Developer
-
-Jay Nite | Former Game Design Lead | Former Game Developer | Former Community Team
 
 jjkoletar | Server Stability Improvements
 
