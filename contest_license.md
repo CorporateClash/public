@@ -10,7 +10,7 @@ You retain ownership rights in your Content. However, we do require you to grant
 
 ### License to Corporate Clash
 
-By providing content, you grant to Corporate Clash a worldwide, non-exclusive, royalty-free, sublicensable and transferable license to use that Content (including to reproduce, distribute, prepare derivative works, display and perform it) in connection with the Service and Corporate Clash’s (and its successors' and Affiliates') business, including for the purpose of promoting and redistributing part or all of the Service.
+By providing content, you grant to Corporate Clash a worldwide, non-revocable, non-exclusive, royalty-free, sublicensable and transferable license to use that Content (including to reproduce, distribute, prepare derivative works, display and perform it) in connection with the Service and Corporate Clash’s (and its successors' and Affiliates') business, including for the purpose of promoting and redistributing part or all of the Service.
 
 ### License to Other Users
 
