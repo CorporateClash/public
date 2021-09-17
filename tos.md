@@ -2,8 +2,8 @@ These Terms of Service govern your use of our services, as outlined below. When 
 
 ### Definitions
 
-* "services" are products and services operated by us or under our control
-* "we", "us", and "our" refer to the company "Corporate Clash"
+* "service", "the service", or "services" refer to products and services operated by us or under our control.
+* "we", "us", and "our" refer to the company "Corporate Clash".
 * "you" and "your" refer to your account, you, or anyone with access to your account. 
 * "Corporate Clash entities" refers to the officers, directors, employees, and volunteers that help us run our services.
 * “Disney” may referrer to The Walt Disney Company or any of its subsidiaries. 
