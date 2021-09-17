@@ -2,6 +2,8 @@
 
 This is an extension of the Terms of Service available at https://corporateclash.net/help/terms. Should any or all section(s) of the terms of service become void or unenforcable, this license shall remain in effect for the content in which it is licensed.
 
+If you choose to upload Content, you must not submit to the Service any Content that does not comply with this Agreement, the TOS, or the law. For example, the Content you submit must not include third-party intellectual property (such as copyrighted material) unless you have permission from that party or are otherwise legally entitled to do so. You are legally responsible for the Content you submit to the Service.
+
 ### Rights you Grant
 
 You retain ownership rights in your Content. However, we do require you to grant certain rights to Corporate Clash and other users of the Service, as described below.
