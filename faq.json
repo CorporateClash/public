@@ -38,7 +38,7 @@
   {
     "type": "faq",
     "q": "What is ToonStep?",
-    "a": "Toonstep is our two-factor authentication system that requires you verify new logins that don't originate from past IP addresses that you have trusted. Toonstep is not required and not recommended if you use a strong password and/or a password manager for random passwords across different websites."
+    "a": "Toonstep is our two-factor authentication system that requires you verify new logins that don't originate from past IP addresses that you have trusted. Enabling ToonStep is highly recommended for the safety of your account and will only allow authorized users to access your account.”"
   },
   {
     "type": "faq",
