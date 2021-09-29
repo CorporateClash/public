@@ -28,7 +28,7 @@ Travis | Game Developer
 
 ### <a name="creative-team"></a>Creative Team
 
-LoopyGoopyG | Creative Team Lead | Concept Artist | Game Designer
+LoopyGG | Creative Team Lead | Concept Artist | Game Designer
 
 Tedster | Creative Team Lead | Game Designer
 
