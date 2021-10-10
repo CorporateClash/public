@@ -16,10 +16,6 @@
           "link": "https://clash.lol/apply-3dmodeler"
         },
         {
-          "name": "Comic Artist",
-          "link": "https://clash.lol/apply-comicartist"
-        },
-        {
           "name": "Concept Artist",
           "link": "https://clash.lol/apply-conceptartist"
         },
@@ -39,6 +35,10 @@
         {
           "name": "Video Editor",
           "link": "https://clash.lol/apply-videoeditor"
+        },
+        {
+          "name": "Comic Artist",
+          "link": "https://clash.lol/apply-comicartist"
         }
       ]
     },
