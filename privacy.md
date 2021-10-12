@@ -47,6 +47,8 @@ We partner with certain third-party websites to allow you to log in to them with
 * Google Cloud Platform ([GCP DPA](https://cloud.google.com/terms/data-processing-terms))
 * Microsoft Azure ([Azure DPA](https://aka.ms/dpa))
 * Elastic Cloud ([Elastic DPA](https://drive.google.com/file/d/1Z_C9TC0x5PECTBuTp6DPUxYDiIp7pY4M/view?usp=sharing))
+* Datadog ([DD DPA](https://www.datadoghq.com/legal/datadog-eea-data-processing-addendum/))
+
 
 ### Cookies
 
