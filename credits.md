@@ -76,8 +76,6 @@ Shawny | Brand Artist | Concept Artist | Community Team
 
 Spooks | 3D Modeler | Community Team | Game Designer
 
-Sir Dapper Penguin | 3D Modeler
-
 
 ### <a name="game-design-team"></a>Game Design Team
 
@@ -271,6 +269,8 @@ Qpeck | Former Re-texture Artist
 Ryot | Former Game Developer
 
 Shellybobelly | Former Support Lead
+
+Sir Dapper Penguin | Former 3D Modeler
 
 Sketched | Former Game Developer | Former Game Designer
 
