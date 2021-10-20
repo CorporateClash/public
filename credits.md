@@ -15,13 +15,17 @@ Hunter Ray | Lead Web Developer
 
 Goose | Technical Team Lead | Game Developer | Moderation
 
+CheezedFish | Game Developer | Game Designer | Technical Artist
+
 Jwcotejr | Game Developer
+
+Loonatic | Technical Artist | Texture Artist
 
 Main | Game Developer | Composer | Game Designer
 
-Sheriff Cranky | Game Developer | Web Developer | Game Designer
+Salem | Technical Artist | Texture Artist
 
-CheezedFish | Game Developer | Game Designer | Technical Artist
+Sheriff Cranky | Game Developer | Web Developer | Game Designer
 
 Travis | Game Developer
 
@@ -60,8 +64,6 @@ FoxthatRox | 3D Modeler
 
 Lemmy | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
 
-Loonatic | Texture Artist | Technical Artist
-
 Maree | Concept Artist
 
 MaxGreatness | Composer
@@ -69,8 +71,6 @@ MaxGreatness | Composer
 Mrmanny | Sound Designer
 
 Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Designer
-
-Salem | Texture Artist
 
 Shawny | Brand Artist | Concept Artist | Community Team
 
