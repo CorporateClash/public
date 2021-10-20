@@ -149,7 +149,7 @@ Tripoverrocks | Moderation
 
 ### <a name="support-team"></a>Support Team
 
-Penny | Support Lead | Support
+Bethany | Support Lead | Support
 
 Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
 
