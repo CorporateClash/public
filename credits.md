@@ -21,7 +21,7 @@ Main | Game Developer | Composer | Game Designer
 
 Sheriff Cranky | Game Developer | Web Developer | Game Designer
 
-Sir Tubby Cheezyfish | Game Developer | Game Designer | Technical Artist
+CheezedFish | Game Developer | Game Designer | Technical Artist
 
 Travis | Game Developer
 
@@ -35,6 +35,8 @@ Tedster | Creative Team Lead | Game Designer
 Duke Trickyflip | Creative Lead Assistant | Composer | Sound Designer | Game Designer
 
 Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | Game Designer | Community Team
+
+Angel | Concept Artist | Game Designer
 
 AnonymousAvocado | Concept Artist
 
@@ -125,8 +127,6 @@ Cody Alcatraz | Moderation
 
 Dismas | Moderation
 
-King Nathan | Moderation
-
 Krissy | Moderation | Support
 
 Madsiekins | Moderation
@@ -155,11 +155,7 @@ Penny | Support Lead | Support
 
 Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
 
-Belak | Support
-
-Chrisso | Support
-
-Coal | Support | Moderation
+Belak | Support | Moderation
 
 Kam | Support
 
@@ -181,6 +177,10 @@ Bizzy | Former Game Developer
 Caitlin | Former Moderation | Former Support
 
 Cappuccino | Former Sound Designer
+
+Chrisso | Former Support
+
+Coal | Former Support | Former Moderation
 
 Cranky Biggenbubble | Former Support
 
@@ -217,6 +217,8 @@ hypsin88 | Former Community Team
 Isocle | Former Game Developer
 
 jjkoletar | Server Stability Improvements
+
+King Nathan | Former Moderation
 
 Kitt Kitt Lou | Former Game Developer
 
