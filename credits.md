@@ -106,6 +106,8 @@ Rox | Community Team | Video Editor | Graphic Designer
 
 Wintrie | Graphic Designer | Community Team
 
+Ziggy | Graphic Designer | Community Team
+
 
 ### <a name="moderation-team"></a>Moderation Team
 
