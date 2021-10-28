@@ -15,17 +15,17 @@ Hunter Ray | Lead Web Developer
 
 Goose | Technical Team Lead | Game Developer | Moderation
 
+Main | Technical Lead Assistant | Game Developer | Composer | Game Designer
+
+Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Game Designer
+
 CheezedFish | Game Developer | Game Designer | Technical Artist
 
 Jwcotejr | Game Developer
 
 Loonatic | Technical Artist | Texture Artist
 
-Main | Game Developer | Composer | Game Designer
-
 Salem | Technical Artist | Texture Artist
-
-Sheriff Cranky | Game Developer | Web Developer | Game Designer
 
 Travis | Game Developer
 
