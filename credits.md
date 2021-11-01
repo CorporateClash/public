@@ -104,6 +104,8 @@ Cracking A. Joke | Community Team | Game Designer
 
 Rox | Community Team | Video Editor | Graphic Designer
 
+Sunny | Community Team | Game Designer
+
 Wintrie | Graphic Designer | Community Team
 
 Ziggy | Graphic Designer | Community Team
@@ -140,8 +142,6 @@ Rachael | Moderation
 Sugarhigh | Moderation
 
 Steven | Moderation
-
-Sunny | Moderation | Game Designer | Community Team
 
 Timer | Moderation
 
