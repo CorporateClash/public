@@ -40,8 +40,6 @@ Duke Trickyflip | Creative Lead Assistant | Composer | Sound Designer | Game Des
 
 Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | Game Designer | Community Team
 
-Angel | Concept Artist | Game Designer
-
 AnonymousAvocado | Concept Artist
 
 Arabesco | Concept Artist
@@ -165,6 +163,8 @@ Kam | Support
 Adam H. | Former 3D Modeler
 
 Aeterna | Former Developer | Former Moderation
+
+Angel | Former Concept Artist | Former Game Designer
 
 Artsyinnocence | Former Brand Artist
 
