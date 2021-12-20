@@ -25,65 +25,61 @@ Jwcotejr | Game Developer
 
 Loonatic | Technical Artist | Texture Artist
 
-Salem | Technical Artist | Texture Artist
+Salem | Technical Artist | Texture Artist | 2D Artist
 
 Travis | Game Developer
 
 
 ### <a name="creative-team"></a>Creative Team
 
-LoopyGG | Creative Team Lead | Concept Artist | Game Designer
+LoopyGG | Creative Team Lead | Concept Artist | UI/UX Designer | Game Designer
 
 Tedster | Creative Team Lead | Game Designer
 
 Duke Trickyflip | Creative Lead Assistant | Composer | Sound Designer | Game Designer
 
-Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | Game Designer | Community Team
+Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | 2D Artist | Game Designer | Community Team
 
-AnonymousAvocado | Concept Artist
-
-Arabesco | Concept Artist
+AnonymousAvocado | Concept Artist | Game Designer
 
 Basher | 3D Modeler
 
-Brandy | Comic Artist | Game Designer
-
 BubblyDinoPop | Brand Artist | Concept Artist | Game Designer | Community Team
 
-BunnyHeidi | Concept Artist
-
-Cartooncog | Comic Artist
+BunnyHeidi | Concept Artist | Game Designer
 
 Emile | Concept Artist | Game Designer
 
-Fargo | Texture Artist
+Fargo | Texture Artist | 2D Artist
 
 FoxthatRox | 3D Modeler
 
 Lemmy | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
 
-Maree | Concept Artist
+Maree | Concept Artist | Game Designer
+
+Maven | Sound Designer | Game Designer
 
 MaxGreatness | Composer
 
 Mrmanny | Sound Designer
 
-Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Designer
+Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Game Designer
 
-Shawny | Brand Artist | Concept Artist | Community Team
+Shawny | Brand Artist | Concept Artist | Community Team | Game Designer
 
-Spooks | 3D Modeler | Community Team | Game Designer
+Spooks | 3D Modeler | Graphic Designer | Community Team | Game Designer
 
 
 ### <a name="game-design-team"></a>Game Design Team
 
-Turkeybone | Game Design Lead | Game Developer | Game Designer | Community Team
+Turkeybone | Game Design Lead | Game Developer | Game Designer | Community Team | Moderation
 
 Jay Nite | Game Design Lead Assistant | Game Developer | Game Designer
 
 Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
 
-Windoges | Game Design Lead Assistant | Game Designer | Moderation | Support
+Windoges | Game Design Lead Assistant | Support Lead Assistant | Game Designer | Moderation | Support
 
 
 ### <a name="community-team"></a>Community Team
@@ -100,13 +96,15 @@ Baskerville | Community Team
 
 Cracking A. Joke | Community Team | Game Designer
 
+Kam | Community Team | Support
+
 Rox | Community Team | Video Editor | Graphic Designer
 
 Sunny | Community Team | Game Designer
 
 Wintrie | Graphic Designer | Community Team
 
-Ziggy | Graphic Designer | Community Team
+Ziggy | Brand Artist | Graphic Designer | Community Team
 
 
 ### <a name="moderation-team"></a>Moderation Team
@@ -117,7 +115,7 @@ Dr. Pillowhopper | Moderation Lead Assistant | Moderation
 
 Little Bath | Moderation Lead Assistant | Moderation | Game Designer
 
-Madi | Moderation Lead Assistant | Moderation | Game Designer
+Madi | Moderation Lead Assistant | Moderation | Game Designer | Community Team
 
 Cam | Moderation
 
@@ -143,19 +141,17 @@ Steven | Moderation
 
 Timer | Moderation
 
-Tripoverocks | Moderation
+Tripoverocks | Moderation | Support
 
 
 
 ### <a name="support-team"></a>Support Team
 
-Bethany | Support Lead | Support
+Bethany | Support Lead | Support | Community Team
 
 Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
 
 Belak | Support | Moderation
-
-Kam | Support
 
 
 ### <a name="contributors"></a>Former Contributors
@@ -166,6 +162,8 @@ Aeterna | Former Developer | Former Moderation
 
 Angel | Former Concept Artist | Former Game Designer
 
+Arabesco | Former Concept Artist
+
 Artsyinnocence | Former Brand Artist
 
 Bannini | Former Brand Artist
@@ -174,9 +172,13 @@ Barks | Former Developer
 
 Bizzy | Former Game Developer
 
+Brandy | Former Comic Artist | Forner Game Designer
+
 Caitlin | Former Moderation | Former Support
 
 Cappuccino | Former Sound Designer
+
+Cartooncog | Former Comic Artist
 
 Chrisso | Former Support
 
