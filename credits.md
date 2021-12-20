@@ -172,7 +172,7 @@ Barks | Former Developer
 
 Bizzy | Former Game Developer
 
-Brandy | Former Comic Artist | Forner Game Designer
+Brandy | Former Comic Artist | Former Game Designer
 
 Caitlin | Former Moderation | Former Support
 
