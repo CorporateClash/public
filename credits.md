@@ -54,7 +54,7 @@ Fargo | Texture Artist | 2D Artist
 
 FoxthatRox | 3D Modeler
 
-Lemmy | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
+Lemmy | 2D Artist | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
 
 Maree | Concept Artist | Game Designer
 
@@ -100,8 +100,6 @@ Kam | Community Team | Support
 
 Rox | Community Team | Video Editor | Graphic Designer
 
-Sunny | Community Team | Game Designer
-
 Wintrie | Graphic Designer | Community Team
 
 Ziggy | Brand Artist | Graphic Designer | Community Team
@@ -117,6 +115,8 @@ Little Bath | Moderation Lead Assistant | Moderation | Game Designer
 
 Madi | Moderation Lead Assistant | Moderation | Game Designer | Community Team
 
+Sunny | Moderation Lead Assistant | Moderation | Community Team | Game Designer
+
 Cam | Moderation
 
 Casper Petalglow | Moderation | Game Designer
@@ -124,8 +124,6 @@ Casper Petalglow | Moderation | Game Designer
 Cody Alcatraz | Moderation
 
 Dismas | Moderation
-
-Krissy | Moderation | Support
 
 Madsiekins | Moderation
 
@@ -141,7 +139,7 @@ Steven | Moderation
 
 Timer | Moderation
 
-Tripoverocks | Moderation | Support
+Tripoverocks | Moderation | Support | Game Designer
 
 
 
@@ -152,6 +150,8 @@ Bethany | Support Lead | Support | Community Team
 Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
 
 Belak | Support | Moderation
+
+Krissy | Support
 
 
 ### <a name="contributors"></a>Former Contributors
