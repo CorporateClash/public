@@ -117,6 +117,8 @@ Madi | Moderation Lead Assistant | Moderation | Game Designer | Community Team
 
 Sunny | Moderation Lead Assistant | Moderation | Community Team | Game Designer
 
+Autumn | Moderation
+
 Cam | Moderation
 
 Casper Petalglow | Moderation | Game Designer
@@ -136,6 +138,8 @@ Rachael | Moderation
 Sugarhigh | Moderation
 
 Steven | Moderation
+
+Stevie | Moderation
 
 Timer | Moderation
 
