@@ -27,6 +27,8 @@ Loonatic | Technical Artist | Texture Artist
 
 Salem | Technical Artist | Texture Artist | 2D Artist
 
+Sayori | Game Developer
+
 Travis | Game Developer
 
 
@@ -107,7 +109,7 @@ Ziggy | Brand Artist | Graphic Designer | Community Team
 
 ### <a name="moderation-team"></a>Moderation Team
 
-Sayori | Moderation Lead | Moderation
+Normal | Moderation Lead | Moderation | Game Designer | Support
 
 Dr. Pillowhopper | Moderation Lead Assistant | Moderation
 
@@ -150,8 +152,6 @@ Tripoverocks | Moderation | Support | Game Designer
 ### <a name="support-team"></a>Support Team
 
 Bethany | Support Lead | Support | Community Team
-
-Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
 
 Belak | Support | Moderation
 
