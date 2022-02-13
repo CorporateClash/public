@@ -15,7 +15,7 @@ Hunter Ray | Lead Web Developer
 
 Goose | Technical Team Lead | Game Developer | Moderation
 
-Main | Technical Lead Assistant | Game Developer | Composer | Game Designer
+Main | Technical Lead Assistant | Game Design Lead Assistant | Game Developer | Composer | Game Designer
 
 Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Game Designer
 
@@ -25,7 +25,7 @@ Jwcotejr | Game Developer
 
 Loonatic | Technical Artist | Texture Artist
 
-Salem | Technical Artist | Texture Artist | 2D Artist
+Salem | Technical Artist | Texture Artist | 2D Artist | Game Designer 
 
 Sayori | Game Developer
 
@@ -38,9 +38,11 @@ LoopyGG | Creative Team Lead | Concept Artist | UI/UX Designer | Game Designer
 
 Tedster | Creative Team Lead | Game Designer
 
-Duke Trickyflip | Creative Lead Assistant | Composer | Sound Designer | Game Designer
+Mailman | Art Director | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | 2D Artist | Game Designer | Community Team
 
-Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | 2D Artist | Game Designer | Community Team
+Polygon | Art Director | Creative Lead Assistant | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Game Designer
+
+Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Game Designer
 
 AnonymousAvocado | Concept Artist | Game Designer
 
@@ -49,6 +51,8 @@ Basher | 3D Modeler
 BubblyDinoPop | Brand Artist | Concept Artist | Game Designer | Community Team
 
 BunnyHeidi | Concept Artist | Game Designer
+
+Cyd | 2D Artist | Game Designer
 
 Emile | Concept Artist | Game Designer
 
@@ -70,23 +74,24 @@ Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist
 
 Shawny | Brand Artist | Concept Artist | Community Team | Game Designer
 
+Snail | 2D Artist
+
 Spooks | 3D Modeler | Graphic Designer | Community Team | Game Designer
 
+Toonsies | 2D Animator | Comic Artist | Game Designer | Community Team
 
 ### <a name="game-design-team"></a>Game Design Team
 
 Turkeybone | Game Design Lead | Game Developer | Game Designer | Community Team | Moderation
 
-Jay Nite | Game Design Lead Assistant | Game Developer | Game Designer
-
-Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
+Maven | Game Design Lead Assistant | Sound Designer | Game Designer
 
 Windoges | Game Design Lead Assistant | Support Lead Assistant | Game Designer | Moderation | Support
 
 
 ### <a name="community-team"></a>Community Team
 
-Peter F. | Community Manager | Community Team | Texture Artist
+Peter F. | Community Manager | Community Team | Texture Artist | 2D Artist
 
 Flurry | Community Lead Assistant | Community Team
 
@@ -97,8 +102,6 @@ Alex The Wizard | Community Team | Video Editor
 Baskerville | Community Team
 
 Cracking A. Joke | Community Team | Game Designer
-
-Kam | Community Team | Support
 
 Rox | Community Team | Video Editor | Graphic Designer
 
@@ -117,7 +120,9 @@ Little Bath | Moderation Lead Assistant | Moderation | Game Designer
 
 Madi | Moderation Lead Assistant | Moderation | Game Designer | Community Team
 
-Sunny | Moderation Lead Assistant | Moderation | Community Team | Game Designer
+Timer | Moderation Lead Assistant | Moderation
+
+AcryliCat | Moderation
 
 Autumn | Moderation
 
@@ -129,24 +134,29 @@ Cody Alcatraz | Moderation
 
 Dismas | Moderation
 
+Gloomy | Moderation
+
+Kevin Valle | Moderation
+
 Madsiekins | Moderation
 
 Moses Christ | Moderation
 
 Ozzie The Duck | Moderation
 
+Paigerage | Moderation
+
 Rachael | Moderation
 
-Sugarhigh | Moderation
+Sherry | Moderation
 
 Steven | Moderation
 
 Stevie | Moderation
 
-Timer | Moderation
+Sugarhigh | Moderation
 
 Tripoverocks | Moderation | Support | Game Designer
-
 
 
 ### <a name="support-team"></a>Support Team
@@ -155,7 +165,11 @@ Bethany | Support Lead | Support | Community Team
 
 Belak | Support | Moderation
 
+Juniper | Support
+
 Krissy | Support
+
+Spider Tacos | Support
 
 
 ### <a name="contributors"></a>Former Contributors
@@ -222,7 +236,11 @@ hypsin88 | Former Community Team
 
 Isocle | Former Game Developer
 
+Jay Nite | Former Game Design Lead | Former Game Developer | Former Game Designer
+
 jjkoletar | Server Stability Improvements
+
+Kam | Former Support | Former Community Team
 
 King Nathan | Former Moderation
 
@@ -262,7 +280,7 @@ NonsensicalThings | Armadillo Sounds
 
 Nosyliam | Former Game Lead
 
-Obligatory Unicorn | Former Re-texture Artist, some music
+Obligatory Unicorn | Former Re-texture Artist | Music
 
 Old Geezer | Former Composer
 
@@ -293,6 +311,8 @@ Sperry | Former Game Developer
 Spider Tacos | Former Support Lead | Former Moderation
 
 Spot | Former Moderation
+
+Sunny | Former Moderation Lead | Former Game Design Lead Assistant | Former Community Team
 
 Teddy | Former Comic Artist
 
