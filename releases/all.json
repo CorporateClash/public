@@ -1,5 +1,10 @@
 [
   {
+    "uid": "131",
+    "name": "v1.2.6.5",
+    "path": "releases/1.2.6.5.md"
+  },
+  {
     "uid": "130",
     "name": "v1.2.6.4",
     "path": "releases/1.2.6.4.md"
