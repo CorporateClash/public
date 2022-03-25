@@ -118,7 +118,7 @@ Dr. Pillowhopper | Moderation Lead Assistant | Moderation
 
 Little Bath | Moderation Lead Assistant | Moderation | Game Designer
 
-Madi | Moderation Lead Assistant | Moderation | Game Designer | Community Team
+Madi | Moderation Lead Assistant | Moderation | Game Designer | Community Team | Game Developer
 
 Timer | Moderation Lead Assistant | Moderation
 
@@ -126,7 +126,7 @@ AcryliCat | Moderation
 
 Autumn | Moderation
 
-Cam | Moderation
+Cam | Moderation | Game Developer
 
 Casper Petalglow | Moderation | Game Designer
 
