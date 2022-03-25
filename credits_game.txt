@@ -4,77 +4,84 @@ Hunter Ray | Lead Web Developer
 
 Goose | Technical Team Lead | Game Developer | Moderation
 
+Main | Technical Lead Assistant | Game Design Lead Assistant | Game Developer | Composer | Game Designer
+
+Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Game Designer
+
+CheezedFish | Game Developer | Game Designer | Technical Artist
+
 Jwcotejr | Game Developer
 
-Lemintex | Game Developer
+Loonatic | Technical Artist | Texture Artist
 
-Sir Tubby Cheezyfish | Game Developer | Game Designer | Technical Artist
+Salem | Technical Artist | Texture Artist | 2D Artist | Game Designer 
+
+Sayori | Game Developer
 
 Travis | Game Developer
-
-Yannik | Game Developer
-
 
 
 \1OrangeText\1Creative Team\2
 
-LoopyGoopyG | Creative Team Lead | Concept Artist | Game Designer
+LoopyGG | Creative Team Lead | Concept Artist | UI/UX Designer | Game Designer
 
 Tedster | Creative Team Lead | Game Designer
 
-Duke Trickyflip | Creative Lead Assistant | Composer | Sound Designer | Game Designer
+Mailman | Art Director | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | 2D Artist | Game Designer | Community Team
 
-Mailman | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | Texture Artist | Concept Artist | Game Designer | Community Team
+Polygon | Art Director | Creative Lead Assistant | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Game Designer
 
-AnonymousAvocado | Concept Artist
+Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Game Designer
 
-Arabesco | Concept Artist
+AnonymousAvocado | Concept Artist | Game Designer
 
 Basher | 3D Modeler
 
-Brandy | Comic Artist | Game Designer
-
 BubblyDinoPop | Brand Artist | Concept Artist | Game Designer | Community Team
 
-BunnyHeidi | Concept Artist
+BunnyHeidi | Concept Artist | Game Designer
 
-Cartooncog | Comic Artist
+Cyd | 2D Artist | Game Designer
 
-Fargo | Texture Artist
+Emile | Concept Artist | Game Designer
+
+Fargo | Texture Artist | 2D Artist
 
 FoxthatRox | 3D Modeler
 
-Lemmy | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
+Lemmy | 2D Artist | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
 
-Loonatic | Texture Artist | Technical Artist
+Maree | Concept Artist | Game Designer
 
-Maree | Concept Artist
+Maven | Sound Designer | Game Designer
 
 MaxGreatness | Composer
 
-Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | Game Designer
+Mrmanny | Sound Designer
 
-Shawny | Brand Artist | Concept Artist | Community Team
+Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Game Designer
 
-Spooks | 3D Modeler | Community Team | Game Designer
+Shawny | Brand Artist | Concept Artist | Community Team | Game Designer
 
-Sir Dapper Penguin | 3D Modeler
+Snail | 2D Artist
+
+Spooks | 3D Modeler | Graphic Designer | Community Team | Game Designer
+
+Toonsies | 2D Animator | Comic Artist | Game Designer | Community Team
+
 
 \1OrangeText\1Game Design Team\2
 
-Turkeybone | Game Design Lead | Game Developer | Game Designer | Community Team
+Turkeybone | Game Design Lead | Game Developer | Game Designer | Community Team | Moderation
 
-Jay Nite | Game Design Lead Assistant | Game Developer | Game Designer
+Maven | Game Design Lead Assistant | Sound Designer | Game Designer
 
-Toonsies | Game Design Lead Assistant | 2D Artist | Comic Artist | Game Designer | Community Team
-
-Windoges | Game Design Lead Assistant | Game Designer | Moderation | Support
-
+Windoges | Game Design Lead Assistant | Support Lead Assistant | Game Designer | Moderation | Support
 
 
 \1OrangeText\1Community Team\2
 
-Peter F. | Community Manager | Community Team | Texture Artist
+Peter F. | Community Manager | Community Team | Texture Artist | 2D Artist
 
 Flurry | Community Lead Assistant | Community Team
 
@@ -84,68 +91,76 @@ Alex The Wizard | Community Team | Video Editor
 
 Baskerville | Community Team
 
-Cracking A. Joke | Community Team | Game Designer | Moderation
+Cracking A. Joke | Community Team | Game Designer
 
 Rox | Community Team | Video Editor | Graphic Designer
 
 Wintrie | Graphic Designer | Community Team
 
+Ziggy | Brand Artist | Graphic Designer | Community Team
+
 
 
 \1OrangeText\1Moderation Team\2
 
-Sayori | Moderation Lead | Moderation
+Normal | Moderation Lead | Moderation | Game Designer | Support
 
 Dr. Pillowhopper | Moderation Lead Assistant | Moderation
 
-Sunny | Moderation Lead Assistant | Game Designer | Community Team | Moderation
+Little Bath | Moderation Lead Assistant | Moderation | Game Designer
 
-Cam | Moderation
+Madi | Moderation Lead Assistant | Moderation | Game Designer | Community Team | Game Developer
 
-Casper Petalglow | Moderation
+Timer | Moderation Lead Assistant | Moderation
+
+AcryliCat | Moderation
+
+Autumn | Moderation
+
+Cam | Moderation | Game Developer
+
+Casper Petalglow | Moderation | Game Designer
 
 Cody Alcatraz | Moderation
 
 Dismas | Moderation
 
-Dom | Moderation
+Gloomy | Moderation
 
-Little Bath | Moderation
-
-Krissy | Moderation | Support
-
-Madi | Moderation | Game Designer
+Kevin Valle | Moderation
 
 Madsiekins | Moderation
-
-Main | Moderation | Game Designer
 
 Moses Christ | Moderation
 
 Ozzie The Duck | Moderation
 
+Paigerage | Moderation
+
+Rachael | Moderation
+
+Sherry | Moderation
+
+Steven | Moderation
+
+Stevie | Moderation
+
 Sugarhigh | Moderation
 
-Timer | Moderation
-
-Tripoverrocks | Moderation
-
+Tripoverocks | Moderation | Support | Game Designer
 
 
 \1OrangeText\1Support Team\2
 
-Penny | Support Lead | Support
+Bethany | Support Lead | Support | Community Team
 
-Normal | Support Lead Assistant | Moderation Lead Assistant | Game Designer | Moderation | Support
+Belak | Support | Moderation
 
-Belak | Support
+Juniper | Support
 
-Chrisso | Support
+Krissy | Support
 
-Coal | Support | Moderation
-
-Kam | Support
-
+Spider Tacos | Support
 
 
 \1OrangeText\1Former Contributors\2
@@ -153,6 +168,10 @@ Kam | Support
 Adam H. | Former 3D Modeler
 
 Aeterna | Former Developer | Former Moderation
+
+Angel | Former Concept Artist | Former Game Designer
+
+Arabesco | Former Concept Artist
 
 Artsyinnocence | Former Brand Artist
 
@@ -162,9 +181,17 @@ Barks | Former Developer
 
 Bizzy | Former Game Developer
 
+Brandy | Former Comic Artist | Former Game Designer
+
 Caitlin | Former Moderation | Former Support
 
 Cappuccino | Former Sound Designer
+
+Cartooncog | Former Comic Artist
+
+Chrisso | Former Support
+
+Coal | Former Support | Former Moderation
 
 Cranky Biggenbubble | Former Support
 
@@ -175,6 +202,8 @@ Daaniel | Former Texture Artist
 Devvy | Former Technical Lead | Former Game Developer | Former Moderation
 
 Djcat | Former Re-texture Artist
+
+Dom | Former Moderation
 
 Donchado | Kangaroo Sounds
 
@@ -198,13 +227,19 @@ hypsin88 | Former Community Team
 
 Isocle | Former Game Developer
 
-Jay Nite | Former Game Design Lead | Former Game Developer | Former Community Team
+Jay Nite | Former Game Design Lead | Former Game Developer | Former Game Designer
 
 jjkoletar | Server Stability Improvements
+
+Kam | Former Support | Former Community Team
+
+King Nathan | Former Moderation
 
 Kitt Kitt Lou | Former Game Developer
 
 Lady Giggles JiggleWiggle | Former Sound Engineer
+
+Lemintex | Former Game Developer
 
 Liam | Former Moderation
 
@@ -236,7 +271,7 @@ NonsensicalThings | Armadillo Sounds
 
 Nosyliam | Former Game Lead
 
-Obligatory Unicorn | Former Re-texture Artist, some music
+Obligatory Unicorn | Former Re-texture Artist | Music
 
 Old Geezer | Former Composer
 
@@ -250,9 +285,9 @@ Qpeck | Former Re-texture Artist
 
 Ryot | Former Game Developer
 
-Salem | Former Texture Artist
-
 Shellybobelly | Former Support Lead
+
+Sir Dapper Penguin | Former 3D Modeler
 
 Sketched | Former Game Developer | Former Game Designer
 
@@ -268,6 +303,8 @@ Spider Tacos | Former Support Lead | Former Moderation
 
 Spot | Former Moderation
 
+Sunny | Former Moderation Lead | Former Game Design Lead Assistant | Former Community Team
+
 Teddy | Former Comic Artist
 
 Tooncan Sam | Former Moderation
@@ -280,7 +317,10 @@ Wubcake | Koala Sounds
 
 Wubwub | Former 3D Modeler
 
+Yannik | Former Game Developer
+
 Yoral | Former Moderation
+
 
 
 
@@ -296,6 +336,8 @@ Disney Games and Interactive Experiences | Developing Toontown Online
 
 Piplup | Retired New Battle GUI concept
 
+Ryan P. | Boardbot Building concepts
+
 Toontown Rewritten | Reviving the spirit of Toontown
 
 Toontown Infinite | Various Resources and Inspiration
@@ -303,6 +345,7 @@ Toontown Infinite | Various Resources and Inspiration
 thedanielxx478 | Music
 
 Thomas The Toon Engine | April Toons 2020 Textures
+
 
 
 
