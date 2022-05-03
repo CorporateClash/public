@@ -76,4 +76,4 @@ IN NO EVENT WILL CORPORATE CLASH ENTITIES BE LIABLE TO YOU OR ANY THIRD PARTY FO
 
 ### Changes to these Terms
 
-Besides changes to formatting, we will make an adequate effort to notify you when our terms change within a fortnight via email or other means. We reserve the right to not notify you of changes to the terms whatsoever.
+When we update these terms, you may be required to explicitly accept the new terms before accessing our services again, however, we retain the right to update this document without notice. If so, users who continue to use our service after this document has been updated automatically agree to the new terms defined in the updated document.
