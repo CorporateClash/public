@@ -67,6 +67,15 @@
           "link": "https://clash.lol/apply-web-developer"
         }
       ]
+    },
+    {
+      "name": "Moderation Team",
+      "positions": [
+        {
+          "name": "Moderator",
+          "link": "https://clash.lol/modapplication"
+        }
+      ]
     }
   ],
   "content_lines": [
