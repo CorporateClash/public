@@ -15,17 +15,19 @@ Hunter Ray | Lead Web Developer
 
 Goose | Technical Team Lead | Game Developer | Moderation
 
-Main | Technical Lead Assistant | Game Design Lead Assistant | Game Developer | Composer | Game Designer
+Main | Technical Lead Assistant | Game Design Lead Assistant | Game Developer | Bot Developer | Composer | Game Designer
 
-Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Game Designer
+Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Bot Developer | Game Designer
 
 CheezedFish | Game Developer | Game Designer | Technical Artist
+
+Devvy | Game Developer
 
 Loonatic | Technical Artist | Texture Artist
 
 Salem | Technical Artist | Texture Artist | 2D Artist | Game Designer 
 
-Sayori | Game Developer
+Sayori | Game Developer | Bot Developer
 
 Travis | Game Developer
 
@@ -46,6 +48,8 @@ AnonymousAvocado | Concept Artist
 
 Basher | 3D Modeler | Texture Artist
 
+Berkie | 3D Modeler | 3D Animator | 2D Animator | Texture Artist
+
 BunnyHeidi | Concept Artist
 
 Cyd | 2D Artist | Game Designer | Moderation
@@ -57,6 +61,8 @@ Fargo | Texture Artist | 2D Artist
 FoxthatRox | 3D Modeler
 
 MaxGreatness | Composer
+
+Miphia | 3D Modeler
 
 Mrmanny | Sound Designer
 
@@ -94,7 +100,7 @@ Cracking A. Joke | Community Team | Game Designer
 
 Rox | Community Team | Video Editor | Graphic Designer
 
-Mi | Community Team | Comic Artist
+Mi | Community Team | Comic Artist | Concept Artist
 
 Snoopee | Community Team | Video Editor
 
@@ -109,7 +115,7 @@ Normal | Moderation Lead | Moderation | Game Designer | Support
 
 Little Bath | Moderation Lead Assistant | Moderation | Game Designer
 
-Madi | Moderation Lead Assistant | Moderation | Game Developer
+Madi | Moderation Lead Assistant | Moderation | Game Developer | Bot Developer
 
 Timer | Moderation Lead Assistant | Moderation | Game Designer
 
@@ -117,7 +123,7 @@ AcryliCat | Moderation Lead Assistant | Moderation
 
 Autumn | Moderation
 
-Cam | Moderation | Game Developer
+Cam | Moderation | Game Developer | Bot Developer
 
 Casper Petalglow | Moderation | Game Designer
 
@@ -186,8 +192,6 @@ Cranky Biggenbubble | Former Support
 Cream Cheese | Former Community Team
 
 Daaniel | Former Texture Artist
-
-Devvy | Former Technical Lead | Former Game Developer | Former Moderation
 
 Dismas | Former Moderation Lead Assistant | Former Moderation | Former Game Designer
 
