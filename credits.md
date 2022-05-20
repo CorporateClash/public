@@ -15,7 +15,7 @@ Hunter Ray | Lead Web Developer
 
 Goose | Technical Team Lead | Game Developer | Moderation
 
-Main | Technical Lead Assistant | Game Design Lead Assistant | Game Developer | Bot Developer | Composer | Game Designer
+Main | Technical Lead Assistant | Game Developer | Bot Developer | Game Designer | Composer
 
 Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Bot Developer | Game Designer
 
@@ -23,7 +23,7 @@ CheezedFish | Game Developer | Game Designer | Technical Artist
 
 Devvy | Game Developer
 
-Loonatic | Technical Artist | Texture Artist
+Loonatic | Technical Artist | Game Developer | Texture Artist | 2D Artist
 
 Salem | Technical Artist | Texture Artist | 2D Artist | Game Designer 
 
@@ -85,6 +85,8 @@ Lemmy | Game Design Lead Assistant | 2D Artist | Brand Artist | UI/UX Designer |
 
 Trip | Game Design Lead Assistant | Moderation | Support | Game Designer
 
+Cracking A. Joke | Game Design Lead Assistant | Community Team | Game Designer
+
 
 ### <a name="community-team"></a>Community Team
 
@@ -95,8 +97,6 @@ Flurry | Community Lead Assistant | Community Team
 Alex The Wizard | Community Lead Assistant | Community Team | Video Editor
 
 Aero | Brand Artist | Graphic Designer | Community Team
-
-Cracking A. Joke | Community Team | Game Designer
 
 Rox | Community Team | Video Editor | Graphic Designer
 
