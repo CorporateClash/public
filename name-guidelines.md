@@ -1,6 +1,6 @@
 ### Naming Guidelines
 
-1. The use of large numbers is prohibited. Numerical digits are allowed as long as the name is not formed of only a number.
+1. The use of large numbers is prohibited. Numerical digits written out as words are allowed as long as the name is not formed of only a number. Numerical digits are not allowed.
 2. Personally identifiable information is not allowed in any name.
 3. City/Regional/Country names are prohibited, including nationalities and ethnicities, unless not exclusive to themselves.
 4. Disney-based character names are not allowed. However, all other character names are allowed as long as they follow our other name rules.
