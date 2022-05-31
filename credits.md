@@ -25,7 +25,7 @@ Devvy | Game Developer
 
 Loonatic | Technical Artist | Game Developer | Texture Artist | 2D Artist
 
-Salem | Technical Artist | Texture Artist | 2D Artist | Game Designer 
+Salem | Technical Artist | Texture Artist | 2D Artist | Game Designer | Community Team
 
 Sayori | Game Developer | Bot Developer
 
@@ -52,7 +52,7 @@ Berkie | 3D Modeler | 3D Animator | 2D Animator | Texture Artist
 
 BunnyHeidi | Concept Artist
 
-Cyd | 2D Artist | Game Designer | Moderation
+Cyd | 2D Artist | Game Designer | Moderation | Community Team
 
 Emile | Concept Artist
 
@@ -92,11 +92,11 @@ Cracking A. Joke | Game Design Lead Assistant | Community Team | Game Designer
 
 Peter F. | Community Manager | Community Team | Texture Artist | 2D Artist
 
-Flurry | Community Lead Assistant | Community Team
-
 Alex The Wizard | Community Lead Assistant | Community Team | Video Editor
 
-Aero | Brand Artist | Graphic Designer | Community Team
+Ziggy | Community Lead Assistant | Community Team | Brand Artist | Graphic Designer
+
+Aero | Community Team | Brand Artist | Graphic Designer
 
 Rox | Community Team | Video Editor | Graphic Designer
 
@@ -104,9 +104,7 @@ Mi | Community Team | Comic Artist | Concept Artist
 
 Snoopee | Community Team | Video Editor
 
-Wintrie | Graphic Designer | Community Team
-
-Ziggy | Brand Artist | Graphic Designer | Community Team
+Wintrie | Community Team | Graphic Designer
 
 
 ### <a name="moderation-team"></a>Moderation Team
@@ -115,7 +113,7 @@ Normal | Moderation Lead | Moderation | Game Designer | Support
 
 Little Bath | Moderation Lead Assistant | Moderation | Game Designer
 
-Madi | Moderation Lead Assistant | Moderation | Game Developer | Bot Developer
+Madi | Moderation Lead Assistant | Moderation | Support | Game Developer | Bot Developer
 
 Timer | Moderation Lead Assistant | Moderation | Game Designer
 
@@ -129,9 +127,11 @@ Casper Petalglow | Moderation | Game Designer
 
 Cody Alcatraz | Moderation
 
+Gloomy | Moderation
+
 Kevin Valle | Moderation
 
-Madsiekins | Moderation
+Madsiekins | Moderation | Support
 
 Ozzie The Duck | Moderation
 
@@ -215,7 +215,7 @@ Envious | Former Support Lead
 
 Fleetwire | Former Texture Artist | Former Composer | Former Sound Designer
 
-Gloomy | Former Moderation
+Flurry | Former Community Lead Assistant | Former Community Team
 
 Ghost | Former Moderation
 
