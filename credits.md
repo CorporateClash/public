@@ -135,6 +135,8 @@ Madsiekins | Moderation | Support
 
 Ozzie The Duck | Moderation
 
+Princess Candy | Moderation
+
 Rachael | Moderation
 
 Sherry | Moderation
@@ -142,6 +144,8 @@ Sherry | Moderation
 Steven | Moderation
 
 Sugarhigh | Moderation
+
+Xen | Moderation
 
 
 ### <a name="support-team"></a>Support Team
@@ -151,6 +155,8 @@ Bethany | Support Lead | Support | Community Team
 Juniper | Support Lead Assistant | Support | Moderation
 
 Belak | Support
+
+Chris D. | Support
 
 
 ### <a name="contributors"></a>Former Contributors
