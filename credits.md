@@ -27,22 +27,20 @@ Loonatic | Technical Artist | Game Developer | Texture Artist | 2D Artist
 
 Salem | Technical Artist | Texture Artist | 2D Artist | Game Designer | Community Team
 
-Sayori | Game Developer | Bot Developer
-
 Travis | Game Developer
 
 
 ### <a name="creative-team"></a>Creative Team
 
-LoopyGG | Creative Team Lead | Concept Artist | UI/UX Designer | Game Designer
-
 Tedster | Creative Team Lead | Game Designer
+
+Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Game Designer
 
 Mailman | Art Director | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | UX/UI Designer | 2D Artist | Game Designer | Community Team
 
-Polygon | Art Director | Creative Lead Assistant | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Game Designer
+LoopyGG | Creative Lead Assistant | Concept Artist | UI/UX Designer | Game Designer
 
-Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Game Designer
+Polygon | Art Director | Creative Lead Assistant | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Game Designer
 
 AnonymousAvocado | Concept Artist
 
@@ -100,7 +98,7 @@ Aero | Community Team | Brand Artist | Graphic Designer
 
 Rox | Community Team | Video Editor | Graphic Designer
 
-Mi | Community Team | Comic Artist | Concept Artist
+Mi | Community Team | Comic Artist | Concept Artist | Moderation
 
 Snoopee | Community Team | Video Editor
 
@@ -156,7 +154,7 @@ Juniper | Support Lead Assistant | Support | Moderation
 
 Belak | Support
 
-Chris D. | Support
+Chris D. | Support | Game Designer
 
 
 ### <a name="contributors"></a>Former Contributors
@@ -298,6 +296,8 @@ Purest Melody | Former Composer
 Qpeck | Former Re-texture Artist
 
 Ryot | Former Game Developer
+
+Sayori | Former Moderation Lead | Former Moderation | Former Game Developer | Former Bot Developer
 
 Shellybobelly | Former Support Lead
 
