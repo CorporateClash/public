@@ -17,4 +17,5 @@
 15. Names that reference a cog in any form are not allowed.
 16. Names that are deemed too self-deprecating and/or insulting are not allowed.
 17. Names that reference any negative or inappropriate medical terminology are not allowed.
-18. All Moderators have the final say on all names. Every name is subject to Moderator discretion.
+18. No names that reference forms of in-game infractions.
+19. All Moderators have the final say on all names. Every name is subject to Moderator discretion.
