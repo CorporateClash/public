@@ -15,32 +15,32 @@ Hunter Ray | Lead Web Developer
 
 Goose | Technical Team Lead | Game Developer | Moderation
 
-Main | Technical Lead Assistant | Game Developer | Bot Developer | Game Designer | Composer
+Main | Technical Lead Assistant | Game Developer | Bot Developer | Content Designer | Composer
 
-Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Bot Developer | Game Designer
+Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Bot Developer | Content Designer
 
-CheezedFish | Game Developer | Game Designer | Technical Artist
+CheezedFish | Game Developer | Technical Artist | Content Designer | Lore Writer
 
 Devvy | Game Developer
 
 Loonatic | Technical Artist | Game Developer | Texture Artist | 2D Artist
 
-Salem | Technical Artist | Texture Artist | 2D Artist | Game Designer | Community Team
+Salem | Technical Artist | Texture Artist | 2D Artist | Content Designer | Lore Writer | Community Team
 
 Travis | Game Developer
 
 
 ### <a name="creative-team"></a>Creative Team
 
-Tedster | Creative Team Lead | Game Designer
+Tedster | Creative Team Lead | Content Designer
 
-Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Game Designer
+Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Lore Writer
 
-Mailman | Art Director | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | UX/UI Designer | 2D Artist | Game Designer | Community Team
+Mailman | Art Director | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | UX/UI Designer | 2D Artist | Content Designer | Community Team
 
-LoopyGG | Creative Lead Assistant | Concept Artist | UI/UX Designer | Game Designer
+LoopyGG | Creative Lead Assistant | Concept Artist | UI/UX Designer | Content Designer
 
-Polygon | Art Director | Creative Lead Assistant | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Game Designer
+Polygon | Art Director | Creative Lead Assistant | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Lore Writer
 
 AnonymousAvocado | Concept Artist
 
@@ -50,7 +50,7 @@ Berkie | 3D Modeler | 3D Animator | 2D Animator | Texture Artist
 
 BunnyHeidi | Concept Artist
 
-Cyd | 2D Artist | Game Designer | Moderation | Community Team
+Cyd | 2D Artist | Content Designer | Lore Writer | Moderation | Community Team
 
 Emile | Concept Artist
 
@@ -68,22 +68,22 @@ Shawny | Brand Artist | Concept Artist | Community Team
 
 Snail | 2D Artist
 
-Spooks | 3D Modeler | Texture Artist | Graphic Designer | Community Team | Game Designer
+Spooks | 3D Modeler | Texture Artist | Graphic Designer | Community Team | Content Designer
 
-Toonsies | 2D Animator | Comic Artist | Game Designer | Community Team
+Toonsies | 2D Animator | Comic Artist | Lore Writer | Community Team
 
 
 ### <a name="game-design-team"></a>Game Design Team
 
-Turkeybone | Game Design Lead | Game Developer | Game Designer | Community Team | Moderation
+Trip | Game Design Lead | Design Manager | Moderation | Support | Content Designer
 
-Maven | Game Design Lead Assistant | Sound Designer | Game Designer
+Maven | Game Design Lead | Writing Manager | Sound Designer | Lore Writer
 
-Lemmy | Game Design Lead Assistant | 2D Artist | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
+Turkeybone | Game Design Lead Assistant | Design Director | Game Developer | Content Designer | Community Team | Moderation
 
-Trip | Game Design Lead Assistant | Moderation | Support | Game Designer
+Lemmy | Game Design Lead Assistant | Writing Director | 2D Artist | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Content Designer | Lore Writer
 
-Cracking A. Joke | Game Design Lead Assistant | Community Team | Game Designer
+Cracking A. Joke | Game Design Lead Assistant | Community Team | Content Designer | Lore Writer
 
 
 ### <a name="community-team"></a>Community Team
@@ -107,13 +107,13 @@ Wintrie | Community Team | Graphic Designer
 
 ### <a name="moderation-team"></a>Moderation Team
 
-Normal | Moderation Lead | Moderation | Game Designer | Support
+Normal | Moderation Lead | Support | Moderation | Content Designer
 
-Little Bath | Moderation Lead Assistant | Moderation | Game Designer
+Little Bath | Moderation Lead Assistant | Moderation | Content Designer
 
 Madi | Moderation Lead Assistant | Moderation | Support | Game Developer | Bot Developer
 
-Timer | Moderation Lead Assistant | Moderation | Game Designer
+Timer | Moderation Lead Assistant | Moderation | Lore Writer
 
 AcryliCat | Moderation Lead Assistant | Moderation
 
@@ -121,7 +121,7 @@ Autumn | Moderation
 
 Cam | Moderation | Game Developer | Bot Developer
 
-Casper Petalglow | Moderation | Game Designer
+Casper Petalglow | Moderation | Lore Writer
 
 Cody Alcatraz | Moderation
 
@@ -154,7 +154,7 @@ Juniper | Support Lead Assistant | Support | Moderation
 
 Belak | Support
 
-Chris D. | Support | Game Designer
+Chris D. | Support | Content Designer
 
 
 ### <a name="contributors"></a>Former Contributors
