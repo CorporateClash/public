@@ -34,7 +34,7 @@ Travis | Game Developer
 
 Tedster | Creative Team Lead | Content Designer
 
-Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Lore Writer
+Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Lore Writer | Content Designer
 
 Mailman | Art Director | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | UX/UI Designer | 2D Artist | Content Designer | Community Team
 
@@ -98,7 +98,7 @@ Aero | Community Team | Brand Artist | Graphic Designer
 
 Rox | Community Team | Video Editor | Graphic Designer
 
-Mi | Community Team | Comic Artist | Concept Artist | Moderation
+Mi | Community Team | Comic Artist | Concept Artist | Moderation | Content Designer
 
 Snoopee | Community Team | Video Editor
 
