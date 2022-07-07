@@ -111,7 +111,7 @@ Normal | Moderation Lead | Support | Moderation | Content Designer
 
 Little Bath | Moderation Lead Assistant | Moderation | Content Designer
 
-Madi | Moderation Lead Assistant | Moderation | Support | Game Developer | Bot Developer
+Madi | Moderation Lead Assistant | Moderation | Support | Content Designer | Game Developer | Bot Developer
 
 Timer | Moderation Lead Assistant | Moderation | Lore Writer
 
@@ -124,6 +124,8 @@ Cam | Moderation | Game Developer | Bot Developer
 Casper Petalglow | Moderation | Lore Writer
 
 Cody Alcatraz | Moderation
+
+Domino | Moderation
 
 Gloomy | Moderation
 
@@ -142,6 +144,8 @@ Sherry | Moderation
 Steven | Moderation
 
 Sugarhigh | Moderation
+
+Windoges | Moderation | Support | Content Designer
 
 Xen | Moderation
 
@@ -313,8 +317,6 @@ SovieToon | Former Moderation
 
 Sperry | Former Game Developer
 
-Krissy | Former Moderation | Former Support
-
 Spider Tacos | Former Support Lead | Former Support | Former Moderation
 
 Spot | Former Moderation
@@ -330,8 +332,6 @@ Tooncan Sam | Former Moderation
 Treetop Legend | Former 3D Modeler
 
 Vincent B. | Former Game Developer
-
-Windoges | Former Game Design Lead Assistant | Former Support Lead Assistant | Former Moderation | Former Game Designer | Former Support
 
 Wubcake | Koala Sounds
 
