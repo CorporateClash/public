@@ -58,6 +58,8 @@ Fargo | Texture Artist | 2D Artist
 
 FoxthatRox | 3D Modeler
 
+Laffy | 2D Artist
+
 MaxGreatness | Composer
 
 Miphia | 3D Modeler
@@ -94,7 +96,7 @@ Peter F. | Community Manager | Texture Artist | 2D Artist | Social Media Crew | 
 
 Alex The Wizard | Community Lead Assistant | Video Editor | Social Media Crew | Partner Program Crew
 
-Ziggy | Community Lead Assistant | Social Media Crew | Brand Artist | Graphic Designer | Partner Program Crew
+Ziggy | Community Lead Assistant | Brand Artist | Graphic Designer | Partner Program Crew | Social Media Crew
 
 Aero | Brand Artist | Graphic Designer
 
@@ -104,7 +106,7 @@ Mi | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist
 
 Snoopee | Video Editor
 
-Wintrie | Social Media Crew | Graphic Designer
+Wintrie | Graphic Designer | Social Media Crew
 
 
 ### <a name="moderation-team"></a>Moderation Team
@@ -113,7 +115,7 @@ Normal | Moderation Lead | Support | Moderation | Content Designer
 
 Little Bath | Moderation Lead Assistant | Moderation | Content Designer
 
-Madi | Moderation Lead Assistant | Moderation | Support | Content Designer | Game Developer | Bot Developer
+Madi | Moderation Lead Assistant | Moderation | Content Designer | Game Developer | Bot Developer
 
 Timer | Moderation Lead Assistant | Moderation | Lore Writer
 
