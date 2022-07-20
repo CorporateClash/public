@@ -13,7 +13,7 @@
 
 Hunter Ray | Lead Web Developer
 
-Goose | Technical Team Lead | Game Developer | Moderation
+Goose | Technical Lead | Game Developer | Moderation
 
 Main | Technical Lead Assistant | Game Developer | Bot Developer | Content Designer | Composer
 
@@ -25,22 +25,22 @@ Devvy | Game Developer
 
 Loonatic | Technical Artist | Game Developer | Texture Artist | 2D Artist
 
-Salem | Technical Artist | Texture Artist | 2D Artist | Content Designer | Lore Writer | Community Team
+Salem | Technical Artist | Texture Artist | 2D Artist | Content Designer | Lore Writer | Social Media Crew
 
 Travis | Game Developer
 
 
 ### <a name="creative-team"></a>Creative Team
 
-Tedster | Creative Team Lead | Content Designer
+Tedster | Creative Lead | Support | Content Designer
 
-Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Lore Writer | Content Designer
+Duke Trickyflip | Creative Lead Assistant | Audio Director | Composer | Sound Designer | Lore Writer | Content Designer
 
-Mailman | Art Director | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | UX/UI Designer | 2D Artist | Content Designer | Community Team
+Mailman | Creative Lead Assistant | Art Director | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | UX/UI Designer | 2D Artist | Content Designer
 
 LoopyGG | Creative Lead Assistant | Concept Artist | UI/UX Designer | Content Designer
 
-Polygon | Art Director | Creative Lead Assistant | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Lore Writer
+Polygon | Creative Lead Assistant | Art Director | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Lore Writer
 
 AnonymousAvocado | Concept Artist
 
@@ -50,7 +50,7 @@ Berkie | 3D Modeler | 3D Animator | 2D Animator | Texture Artist
 
 BunnyHeidi | Concept Artist
 
-Cyd | 2D Artist | Content Designer | Lore Writer | Moderation | Community Team
+Cyd | 2D Artist | Content Designer | Lore Writer | Moderation | Social Media Crew
 
 Emile | Concept Artist
 
@@ -62,15 +62,17 @@ MaxGreatness | Composer
 
 Miphia | 3D Modeler
 
-Mrmanny | Sound Designer
-
-Shawny | Brand Artist | Concept Artist | Community Team
+Pooka | Concept Artist
 
 Snail | 2D Artist
 
-Spooks | 3D Modeler | Texture Artist | Graphic Designer | Community Team | Content Designer
+Sourdough | Concept Artist | UI/UX Designer
 
-Toonsies | 2D Animator | Comic Artist | Lore Writer | Community Team
+Spencer | 3D Modeler
+
+Spooks | 3D Modeler | Texture Artist | Graphic Designer | Content Designer
+
+Toonsies | 2D Animator | Comic Artist | Lore Writer | Social Media Crew
 
 
 ### <a name="game-design-team"></a>Game Design Team
@@ -79,30 +81,30 @@ Trip | Game Design Lead | Design Manager | Moderation | Support | Content Design
 
 Maven | Game Design Lead | Writing Manager | Sound Designer | Lore Writer
 
-Turkeybone | Game Design Lead Assistant | Design Director | Game Developer | Content Designer | Community Team | Moderation
+Turkeybone | Game Design Lead Assistant | Design Director | Game Developer | Content Designer | Moderation
 
-Lemmy | Game Design Lead Assistant | Writing Director | 2D Artist | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Content Designer | Lore Writer
+Lemmy | Game Design Lead Assistant | Writing Director | 2D Artist | Brand Artist | UI/UX Designer | Concept Artist | Lore Writer | Content Designer
 
-Cracking A. Joke | Game Design Lead Assistant | Community Team | Content Designer | Lore Writer
+Cracking A. Joke | Game Design Lead Assistant | Social Media Crew | Content Designer | Lore Writer
 
 
 ### <a name="community-team"></a>Community Team
 
-Peter F. | Community Manager | Community Team | Texture Artist | 2D Artist
+Peter F. | Community Manager | Texture Artist | 2D Artist | Social Media Crew | Partner Program Crew
 
-Alex The Wizard | Community Lead Assistant | Community Team | Video Editor
+Alex The Wizard | Community Lead Assistant | Video Editor | Social Media Crew | Partner Program Crew
 
-Ziggy | Community Lead Assistant | Community Team | Brand Artist | Graphic Designer
+Ziggy | Community Lead Assistant | Social Media Crew | Brand Artist | Graphic Designer | Partner Program Crew
 
-Aero | Community Team | Brand Artist | Graphic Designer
+Aero | Brand Artist | Graphic Designer
 
-Rox | Community Team | Video Editor | Graphic Designer
+Rox | Video Editor | Graphic Designer
 
-Mi | Community Team | Comic Artist | Concept Artist | Moderation | Content Designer
+Mi | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist
 
-Snoopee | Community Team | Video Editor
+Snoopee | Video Editor
 
-Wintrie | Community Team | Graphic Designer
+Wintrie | Social Media Crew | Graphic Designer
 
 
 ### <a name="moderation-team"></a>Moderation Team
@@ -115,7 +117,7 @@ Madi | Moderation Lead Assistant | Moderation | Support | Content Designer | Gam
 
 Timer | Moderation Lead Assistant | Moderation | Lore Writer
 
-AcryliCat | Moderation Lead Assistant | Moderation
+AcryliCat | Moderation Lead Assistant | Moderation | Support | Partner Program Crew
 
 Autumn | Moderation
 
@@ -129,9 +131,9 @@ Domino | Moderation
 
 Gloomy | Moderation
 
-Kevin Valle | Moderation
+Kevin Valle | Moderation | Support | Partner Program Crew
 
-Madsiekins | Moderation | Support
+Madsiekins | Moderation
 
 Ozzie The Duck | Moderation
 
@@ -152,7 +154,7 @@ Xen | Moderation
 
 ### <a name="support-team"></a>Support Team
 
-Bethany | Support Lead | Support | Community Team
+Bethany | Support Lead | Support | Social Media Crew | Partner Program Crew
 
 Juniper | Support Lead Assistant | Support | Moderation
 
@@ -275,6 +277,8 @@ Mel N. Colley | Former Concept Artist
 
 Moses Christ | Former Moderation
 
+Mrmanny | Former Sound Designer
+
 Mumbo Jumbo | Former Moderation
 
 Nat | Former Community Team | Former Moderation
@@ -303,6 +307,8 @@ Ryot | Former Game Developer
 
 Sayori | Former Moderation Lead | Former Moderation | Former Game Developer | Former Bot Developer
 
+Shawny | Former Brand Artist | Former Concept Artist
+
 Shellybobelly | Former Support Lead
 
 Sir Dapper Penguin | Former 3D Modeler
@@ -310,8 +316,6 @@ Sir Dapper Penguin | Former 3D Modeler
 Sketched | Former Game Developer | Former Game Designer
 
 Smokin' Foreman | Various Boardbot Models
-
-Sourdough | Former Creative Lead | Former Concept Artist | Former UI/UX Designer | Former Moderation
 
 SovieToon | Former Moderation
 
