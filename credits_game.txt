@@ -2,140 +2,136 @@
 
 Hunter Ray | Lead Web Developer
 
-Goose | Technical Team Lead | Game Developer | Moderation
+Goose | Technical Lead | Game Developer | Moderation
 
-Main | Technical Lead Assistant | Game Design Lead Assistant | Game Developer | Composer | Game Designer
+Main | Technical Lead Assistant | Game Developer | Bot Developer | Content Designer | Composer
 
-Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Game Designer
+Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Bot Developer | Content Designer
 
-CheezedFish | Game Developer | Game Designer | Technical Artist
+CheezedFish | Game Developer | Technical Artist | Content Designer | Lore Writer
 
-Jwcotejr | Game Developer
+Devvy | Game Developer
 
-Loonatic | Technical Artist | Texture Artist
+Jay Nite | Game Developer
 
-Salem | Technical Artist | Texture Artist | 2D Artist | Game Designer 
+Loonatic | Technical Artist | Game Developer | Texture Artist | 2D Artist
 
-Sayori | Game Developer
+Salem | Technical Artist | Texture Artist | 2D Artist | Content Designer | Lore Writer | Social Media Crew
 
 Travis | Game Developer
 
 
 \1OrangeText\1Creative Team\2
 
-LoopyGG | Creative Team Lead | Concept Artist | UI/UX Designer | Game Designer
+Tedster | Creative Lead | Support | Content Designer
 
-Tedster | Creative Team Lead | Game Designer
+Duke Trickyflip | Creative Lead Assistant | Audio Director | Composer | Sound Designer | Lore Writer | Content Designer
 
-Mailman | Art Director | Creative Lead Assistant | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | 2D Artist | Game Designer | Community Team
+Mailman | Creative Lead Assistant | Art Director | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | UX/UI Designer | 2D Artist | Content Designer
 
-Polygon | Art Director | Creative Lead Assistant | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Game Designer
+LoopyGG | Creative Lead Assistant | Concept Artist | UX/UI Designer | Content Designer
 
-Duke Trickyflip | Audio Director | Creative Lead Assistant | Composer | Sound Designer | Game Designer
+Polygon | Creative Lead Assistant | Art Director | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Lore Writer
 
-AnonymousAvocado | Concept Artist | Game Designer
+AnonymousAvocado | Concept Artist
 
-Basher | 3D Modeler
+Basher | 3D Modeler | Texture Artist
 
-BubblyDinoPop | Brand Artist | Concept Artist | Game Designer | Community Team
+Berkie | 3D Modeler | 3D Animator | 2D Animator | Texture Artist
 
-BunnyHeidi | Concept Artist | Game Designer
+BunnyHeidi | Concept Artist
 
-Cyd | 2D Artist | Game Designer
+Cyd | 2D Artist | Content Designer | Lore Writer | Moderation | Social Media Crew
 
-Emile | Concept Artist | Game Designer
+Emile | Concept Artist
 
 Fargo | Texture Artist | 2D Artist
 
 FoxthatRox | 3D Modeler
 
-Lemmy | 2D Artist | Brand Artist | UI/UX Designer | Concept Artist | Community Team | Game Designer
-
-Maree | Concept Artist | Game Designer
-
-Maven | Sound Designer | Game Designer
+Laffy | 2D Artist
 
 MaxGreatness | Composer
 
-Mrmanny | Sound Designer
+Miphia | 3D Modeler
 
-Polygon | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Game Designer
-
-Shawny | Brand Artist | Concept Artist | Community Team | Game Designer
+Pooka | Concept Artist
 
 Snail | 2D Artist
 
-Spooks | 3D Modeler | Graphic Designer | Community Team | Game Designer
+Sourdough | Concept Artist | UX/UI Designer
 
-Toonsies | 2D Animator | Comic Artist | Game Designer | Community Team
+Spencer | 3D Modeler
+
+Spooks | 3D Modeler | Texture Artist | Graphic Designer | Content Designer
+
+Toonsies | 2D Animator | Comic Artist | Lore Writer | Social Media Crew
 
 
 \1OrangeText\1Game Design Team\2
 
-Turkeybone | Game Design Lead | Game Developer | Game Designer | Community Team | Moderation
+Trip | Game Design Lead | Design Manager | Moderation | Support | Content Designer
 
-Maven | Game Design Lead Assistant | Sound Designer | Game Designer
+Maven | Game Design Lead | Writing Manager | Sound Designer | Lore Writer
 
-Windoges | Game Design Lead Assistant | Support Lead Assistant | Game Designer | Moderation | Support
+Turkeybone | Game Design Lead Assistant | Design Director | Game Developer | Content Designer | Moderation
+
+Lemmy | Game Design Lead Assistant | Writing Director | 2D Artist | Brand Artist | UX/UI Designer | Concept Artist | Lore Writer | Content Designer
+
+Cracking A. Joke | Game Design Lead Assistant | Social Media Crew | Content Designer | Lore Writer
 
 
 \1OrangeText\1Community Team\2
 
-Peter F. | Community Manager | Community Team | Texture Artist | 2D Artist
+Peter F. | Community Manager | Texture Artist | 2D Artist | Social Media Crew | Partner Program Crew
 
-Flurry | Community Lead Assistant | Community Team
+Alex The Wizard | Community Lead Assistant | Video Editor | Social Media Crew | Partner Program Crew
 
-Aero | Brand Artist | Graphic Designer | Community Team
+Ziggy | Community Lead Assistant | Brand Artist | Graphic Designer | Partner Program Crew | Social Media Crew
 
-Alex The Wizard | Community Team | Video Editor
+Aero | Brand Artist | Graphic Designer
 
-Baskerville | Community Team
+Rox | Video Editor | Graphic Designer
 
-Cracking A. Joke | Community Team | Game Designer
+Mi | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist | Brand Artist
 
-Rox | Community Team | Video Editor | Graphic Designer
+Snoopee | Video Editor
 
-Wintrie | Graphic Designer | Community Team
-
-Ziggy | Brand Artist | Graphic Designer | Community Team
+Wintrie | Graphic Designer | Social Media Crew
 
 
 
 \1OrangeText\1Moderation Team\2
 
-Normal | Moderation Lead | Moderation | Game Designer | Support
+Normal | Moderation Lead | Support | Moderation | Content Designer
 
-Dr. Pillowhopper | Moderation Lead Assistant | Moderation
+Little Bath | Moderation Lead Assistant | Moderation | Content Designer
 
-Little Bath | Moderation Lead Assistant | Moderation | Game Designer
+Madi | Moderation Lead Assistant | Moderation | Content Designer | Game Developer | Bot Developer
 
-Madi | Moderation Lead Assistant | Moderation | Game Designer | Community Team | Game Developer
+Timer | Moderation Lead Assistant | Moderation | Lore Writer
 
-Timer | Moderation Lead Assistant | Moderation
-
-AcryliCat | Moderation
+AcryliCat | Moderation Lead Assistant | Moderation | Support | Partner Program Crew
 
 Autumn | Moderation
 
-Cam | Moderation | Game Developer
+Cam | Moderation | Game Developer | Bot Developer
 
-Casper Petalglow | Moderation | Game Designer
+Casper Petalglow | Moderation
 
 Cody Alcatraz | Moderation
 
-Dismas | Moderation
+Domino | Moderation
 
 Gloomy | Moderation
 
-Kevin Valle | Moderation
+Kevin Valle | Moderation | Support | Partner Program Crew
 
 Madsiekins | Moderation
 
-Moses Christ | Moderation
-
 Ozzie The Duck | Moderation
 
-Paigerage | Moderation
+Princess Candy | Moderation
 
 Rachael | Moderation
 
@@ -143,24 +139,22 @@ Sherry | Moderation
 
 Steven | Moderation
 
-Stevie | Moderation
-
 Sugarhigh | Moderation
 
-Tripoverocks | Moderation | Support | Game Designer
+Windoges | Moderation | Support | Content Designer
+
+Xen | Moderation
 
 
 \1OrangeText\1Support Team\2
 
-Bethany | Support Lead | Support | Community Team
+Bethany | Support Lead | Support | Social Media Crew | Partner Program Crew
 
-Belak | Support | Moderation
+Juniper | Support Lead Assistant | Support | Moderation
 
-Juniper | Support
+Belak | Support
 
-Krissy | Support
-
-Spider Tacos | Support
+Chris D. | Support | Content Designer
 
 
 \1OrangeText\1Former Contributors\2
@@ -179,9 +173,13 @@ Bannini | Former Brand Artist
 
 Barks | Former Developer
 
+Baskerville | Former Community Team
+
 Bizzy | Former Game Developer
 
 Brandy | Former Comic Artist | Former Game Designer
+
+BubblyDinoPop | Former Brand Artist | Former Concept Artist | Former Game Designer
 
 Caitlin | Former Moderation | Former Support
 
@@ -199,7 +197,7 @@ Cream Cheese | Former Community Team
 
 Daaniel | Former Texture Artist
 
-Devvy | Former Technical Lead | Former Game Developer | Former Moderation
+Dismas | Former Moderation Lead Assistant | Former Moderation | Former Game Designer
 
 Djcat | Former Re-texture Artist
 
@@ -208,6 +206,8 @@ Dom | Former Moderation
 Donchado | Kangaroo Sounds
 
 Dr. Mawsh | Former Concept Artist
+
+Dr. Pillowhopper | Former Moderation Lead Assistant | Former Moderation
 
 Drewcification | Former Game Developer
 
@@ -219,6 +219,8 @@ Envious | Former Support Lead
 
 Fleetwire | Former Texture Artist | Former Composer | Former Sound Designer
 
+Flurry | Former Community Lead Assistant | Former Community Team
+
 Ghost | Former Moderation
 
 Gustavo | Former Game Developer
@@ -227,15 +229,17 @@ hypsin88 | Former Community Team
 
 Isocle | Former Game Developer
 
-Jay Nite | Former Game Design Lead | Former Game Developer | Former Game Designer
-
 jjkoletar | Server Stability Improvements
+
+Jwcotejr | Former Game Developer
 
 Kam | Former Support | Former Community Team
 
 King Nathan | Former Moderation
 
 Kitt Kitt Lou | Former Game Developer
+
+Krissy | Former Moderation | Former Support
 
 Lady Giggles JiggleWiggle | Former Sound Engineer
 
@@ -255,11 +259,17 @@ Mailmare | Former Support
 
 Malverde | TTC Layout
 
+Maree | Former Concept Artist
+
 MasterFrasca | Former Creative Lead | Former Composer
 
 McZoop | Former Concept Artist
 
 Mel N. Colley | Former Concept Artist
+
+Moses Christ | Former Moderation
+
+Mrmanny | Former Sound Designer
 
 Mumbo Jumbo | Former Moderation
 
@@ -277,6 +287,8 @@ Old Geezer | Former Composer
 
 Olive | Former Moderation
 
+Paigerage | Former Moderation
+
 Pandora | Former Brand Artist | Former Moderation
 
 Purest Melody | Former Composer
@@ -284,6 +296,10 @@ Purest Melody | Former Composer
 Qpeck | Former Re-texture Artist
 
 Ryot | Former Game Developer
+
+Sayori | Former Moderation Lead | Former Moderation | Former Game Developer | Former Bot Developer
+
+Shawny | Former Brand Artist | Former Concept Artist
 
 Shellybobelly | Former Support Lead
 
@@ -293,17 +309,17 @@ Sketched | Former Game Developer | Former Game Designer
 
 Smokin' Foreman | Various Boardbot Models
 
-Sourdough | Former Creative Lead | Former Concept Artist | Former UI/UX Designer | Former Moderation
-
 SovieToon | Former Moderation
 
 Sperry | Former Game Developer
 
-Spider Tacos | Former Support Lead | Former Moderation
+Spider Tacos | Former Support Lead | Former Support | Former Moderation
 
 Spot | Former Moderation
 
-Sunny | Former Moderation Lead | Former Game Design Lead Assistant | Former Community Team
+Stevie | Former Moderation
+
+Sunny | Former Moderation Lead | Former Game Design Lead Assistant | Former Moderation | Former Community Team | Former Game Designer
 
 Teddy | Former Comic Artist
 

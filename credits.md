@@ -23,6 +23,8 @@ CheezedFish | Game Developer | Technical Artist | Content Designer | Lore Writer
 
 Devvy | Game Developer
 
+Jay Nite | Game Developer
+
 Loonatic | Technical Artist | Game Developer | Texture Artist | 2D Artist
 
 Salem | Technical Artist | Texture Artist | 2D Artist | Content Designer | Lore Writer | Social Media Crew
@@ -38,7 +40,7 @@ Duke Trickyflip | Creative Lead Assistant | Audio Director | Composer | Sound De
 
 Mailman | Creative Lead Assistant | Art Director | Brand Artist | Comic Artist | 3D Animator | 3D Modeler | Texture Artist | Concept Artist | UX/UI Designer | 2D Artist | Content Designer
 
-LoopyGG | Creative Lead Assistant | Concept Artist | UI/UX Designer | Content Designer
+LoopyGG | Creative Lead Assistant | Concept Artist | UX/UI Designer | Content Designer
 
 Polygon | Creative Lead Assistant | Art Director | 3D Modeler | 3D Animator | Concept Artist | Texture Artist | 2D Artist | Lore Writer
 
@@ -68,7 +70,7 @@ Pooka | Concept Artist
 
 Snail | 2D Artist
 
-Sourdough | Concept Artist | UI/UX Designer
+Sourdough | Concept Artist | UX/UI Designer
 
 Spencer | 3D Modeler
 
@@ -85,7 +87,7 @@ Maven | Game Design Lead | Writing Manager | Sound Designer | Lore Writer
 
 Turkeybone | Game Design Lead Assistant | Design Director | Game Developer | Content Designer | Moderation
 
-Lemmy | Game Design Lead Assistant | Writing Director | 2D Artist | Brand Artist | UI/UX Designer | Concept Artist | Lore Writer | Content Designer
+Lemmy | Game Design Lead Assistant | Writing Director | 2D Artist | Brand Artist | UX/UI Designer | Concept Artist | Lore Writer | Content Designer
 
 Cracking A. Joke | Game Design Lead Assistant | Social Media Crew | Content Designer | Lore Writer
 
@@ -102,7 +104,7 @@ Aero | Brand Artist | Graphic Designer
 
 Rox | Video Editor | Graphic Designer
 
-Mi | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist
+Mi | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist | Brand Artist
 
 Snoopee | Video Editor
 
@@ -125,7 +127,7 @@ Autumn | Moderation
 
 Cam | Moderation | Game Developer | Bot Developer
 
-Casper Petalglow | Moderation | Lore Writer
+Casper Petalglow | Moderation
 
 Cody Alcatraz | Moderation
 
@@ -236,8 +238,6 @@ Gustavo | Former Game Developer
 hypsin88 | Former Community Team
 
 Isocle | Former Game Developer
-
-Jay Nite | Former Game Design Lead | Former Game Developer | Former Game Designer
 
 jjkoletar | Server Stability Improvements
 
