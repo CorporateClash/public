@@ -54,6 +54,14 @@
         }
       ]
     },
+     {
+      "name": "Moderation Team",
+      "positions": [
+        {
+          "name": "Moderator",
+          "link": "https://clash.lol/modapplication"
+        }
+    },
     {
       "name": "Technical Team",
       "positions": [
