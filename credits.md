@@ -29,6 +29,8 @@ Loonatic | Technical Artist | Game Developer | Texture Artist | 2D Artist
 
 Salem | Technical Artist | Texture Artist | 2D Artist | Content Designer | Lore Writer | Social Media Crew
 
+Sketched | Game Developer | Content Designer
+
 Travis | Game Developer
 
 
