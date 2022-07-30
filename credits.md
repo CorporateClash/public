@@ -15,9 +15,9 @@ Hunter Ray | Lead Web Developer
 
 Goose | Technical Lead | Game Developer | Moderation
 
-Main | Technical Lead Assistant | Game Developer | Bot Developer | Content Designer | Composer
+Main | Technical Lead Assistant | Game Developer | Content Designer | Composer
 
-Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Bot Developer | Content Designer
+Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Content Designer
 
 CheezedFish | Game Developer | Technical Artist | Content Designer | Lore Writer
 
@@ -74,7 +74,7 @@ Snail | 2D Artist
 
 Sourdough | Concept Artist | UX/UI Designer
 
-Spencer | 3D Modeler
+Spencer | 3D Modeler | Content Designer
 
 Spooks | 3D Modeler | Texture Artist | Graphic Designer | Content Designer
 
@@ -106,7 +106,9 @@ Aero | Brand Artist | Graphic Designer
 
 Rox | Video Editor | Graphic Designer
 
-Mi | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist | Brand Artist
+Max | Comic Artist
+
+Mi | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist | Brand Artist | Lore Writer
 
 Snoopee | Video Editor
 
@@ -125,7 +127,7 @@ Timer | Moderation Lead Assistant | Moderation | Lore Writer
 
 AcryliCat | Moderation Lead Assistant | Moderation | Support | Partner Program Crew
 
-Autumn | Moderation
+Autumn | Moderation | Lore Writer
 
 Cam | Moderation | Game Developer | Bot Developer
 
@@ -152,6 +154,8 @@ Sherry | Moderation
 Steven | Moderation
 
 Sugarhigh | Moderation
+
+Sunny | Moderation
 
 Windoges | Moderation | Support | Content Designer
 
@@ -317,8 +321,6 @@ Shellybobelly | Former Support Lead
 
 Sir Dapper Penguin | Former 3D Modeler
 
-Sketched | Former Game Developer | Former Game Designer
-
 Smokin' Foreman | Various Boardbot Models
 
 SovieToon | Former Moderation
@@ -330,8 +332,6 @@ Spider Tacos | Former Support Lead | Former Support | Former Moderation
 Spot | Former Moderation
 
 Stevie | Former Moderation
-
-Sunny | Former Moderation Lead | Former Game Design Lead Assistant | Former Moderation | Former Community Team | Former Game Designer
 
 Teddy | Former Comic Artist
 
