@@ -8,7 +8,7 @@
 6. No sports teams (football teams, hockey teams, etc.) are allowed, unless they are not exclusive to themselves.
 7. No celebrities or bands are allowed. Celebrity puns, however, are allowed as long as they follow the other naming rules.
 8. No names that pose as a member of staff, person(s) of authority, NPCs, or refer to game locations, unless they are not exclusive to themselves.
-9. No copyrighted names, including brand names, mascots, or websites, unless they are not exclusive to themselves.
+9. No copyrighted names, including but not limited to brand names or websites, unless they are not exclusive to themselves.
 10. Proper English spelling conventions must apply to all names.
 11. Names with improper grammar are prohibited. All names must follow conventional English grammar rules.
 12. No names which are deemed inappropriate or NSFW by staff.
