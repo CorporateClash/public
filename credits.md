@@ -106,9 +106,9 @@ Aero | Brand Artist | Graphic Designer
 
 Rox | Video Editor | Graphic Designer
 
-Max | Comic Artist
+Marlowe | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist | Brand Artist | Lore Writer
 
-Mi | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist | Brand Artist | Lore Writer
+Max | Comic Artist
 
 Snoopee | Video Editor
 
