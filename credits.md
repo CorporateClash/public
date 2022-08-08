@@ -155,9 +155,7 @@ Steven | Moderation
 
 Sugarhigh | Moderation
 
-Sunny | Moderation
-
-Windoges | Moderation | Support | Content Designer
+Sunny | Moderation | Content Designer
 
 Xen | Moderation
 
@@ -167,6 +165,8 @@ Xen | Moderation
 Bethany | Support Lead | Support | Social Media Crew | Partner Program Crew
 
 Juniper | Support Lead Assistant | Support | Moderation
+
+Windoges | Support Lead Assistant | Moderation | Content Designer | Support
 
 Belak | Support
 
