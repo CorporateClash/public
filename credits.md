@@ -98,7 +98,7 @@ Cracking A. Joke | Game Design Lead Assistant | Social Media Crew | Content Desi
 
 Peter F. | Community Manager | Texture Artist | 2D Artist | Social Media Crew | Partner Program Crew
 
-Alex The Wizard | Community Lead Assistant | Video Editor | Social Media Crew | Partner Program Crew
+Alex The Wizard | Community Lead Assistant | Video Editor | Social Media Crew | Partner Program Crew | Lore Writer
 
 Ziggy | Community Lead Assistant | Brand Artist | Graphic Designer | Partner Program Crew | Social Media Crew
 

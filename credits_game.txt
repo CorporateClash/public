@@ -1,4 +1,4 @@
-\1OrangeText\1Technical Team\2
+\1CreditsHeading\1Technical Team\2
 
 Hunter Ray | Lead Web Developer
 
@@ -23,7 +23,7 @@ Sketched | Game Developer | Content Designer
 Travis | Game Developer
 
 
-\1OrangeText\1Creative Team\2
+\1CreditsHeading\1Creative Team\2
 
 Tedster | Creative Lead | Support | Content Designer
 
@@ -70,7 +70,7 @@ Spooks | 3D Modeler | Texture Artist | Graphic Designer | Content Designer
 Toonsies | 2D Animator | Comic Artist | Lore Writer | Social Media Crew
 
 
-\1OrangeText\1Game Design Team\2
+\1CreditsHeading\1Game Design Team\2
 
 Trip | Game Design Lead | Design Manager | Moderation | Support | Content Designer
 
@@ -83,11 +83,11 @@ Lemmy | Game Design Lead Assistant | Writing Director | 2D Artist | Brand Artist
 Cracking A. Joke | Game Design Lead Assistant | Social Media Crew | Content Designer | Lore Writer
 
 
-\1OrangeText\1Community Team\2
+\1CreditsHeading\1Community Team\2
 
 Peter F. | Community Manager | Texture Artist | 2D Artist | Social Media Crew | Partner Program Crew
 
-Alex The Wizard | Community Lead Assistant | Video Editor | Social Media Crew | Partner Program Crew
+Alex The Wizard | Community Lead Assistant | Video Editor | Social Media Crew | Partner Program Crew | Lore Writer
 
 Ziggy | Community Lead Assistant | Brand Artist | Graphic Designer | Partner Program Crew | Social Media Crew
 
@@ -104,7 +104,7 @@ Snoopee | Video Editor
 Wintrie | Graphic Designer | Social Media Crew
 
 
-\1OrangeText\1Moderation Team\2
+\1CreditsHeading\1Moderation Team\2
 
 Normal | Moderation Lead | Support | Moderation | Content Designer
 
@@ -149,7 +149,7 @@ Sunny | Moderation | Content Designer
 Xen | Moderation
 
 
-\1OrangeText\1Support Team\2
+\1CreditsHeading\1Support Team\2
 
 Bethany | Support Lead | Support | Social Media Crew | Partner Program Crew
 
@@ -162,7 +162,7 @@ Belak | Support
 Chris D. | Support | Content Designer
 
 
-\1OrangeText\1Former Contributors\2
+\1CreditsHeading\1Former Contributors\2
 
 Adam H. | Former 3D Modeler
 
@@ -310,8 +310,6 @@ Shellybobelly | Former Support Lead
 
 Sir Dapper Penguin | Former 3D Modeler
 
-Sketched | Former Game Developer | Former Game Designer
-
 Smokin' Foreman | Various Boardbot Models
 
 SovieToon | Former Moderation
@@ -323,8 +321,6 @@ Spider Tacos | Former Support Lead | Former Support | Former Moderation
 Spot | Former Moderation
 
 Stevie | Former Moderation
-
-Sunny | Former Moderation Lead | Former Game Design Lead Assistant | Former Moderation | Former Community Team | Former Game Designer
 
 Teddy | Former Comic Artist
 
@@ -345,7 +341,7 @@ Yoral | Former Moderation
 
 
 
-\1OrangeText\1Special thanks to\2
+\1CreditsHeading\1Special thanks to\2
 
 Buster Dachshund | Textures
 
