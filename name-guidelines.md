@@ -4,7 +4,7 @@
 2. Personally identifiable information is not allowed in any name.
 3. City/Regional/Country names are prohibited, including nationalities and ethnicities, unless not exclusive to themselves.
 4. Disney-based character names are not allowed. However, all other character names are allowed as long as they follow our other name rules.
-5. No described relationships, such as those that are possessive, romantic, or imply lineage.
+5. No described relationships, such as those that imply possession, intimacy, or familial relation with another person.
 6. No sports teams (football teams, hockey teams, etc.) are allowed, unless they are not exclusive to themselves.
 7. No celebrities or bands are allowed. Celebrity puns, however, are allowed as long as they follow the other naming rules.
 8. No names that pose as a member of staff, person(s) of authority, NPCs, or refer to game locations, unless they are not exclusive to themselves.
