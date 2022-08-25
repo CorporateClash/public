@@ -11,9 +11,9 @@
 
 ### <a name="technical-team"></a>Technical Team
 
-Hunter Ray | Lead Web Developer
+Hunter Ray | Co-Director | CEO | Lead Web Developer
 
-Goose | Technical Lead | Game Developer | Moderation
+Goose | Co-Director | Technical Lead | Game Developer | Moderation
 
 Main | Technical Lead Assistant | Game Developer | Content Designer | Composer
 
@@ -83,9 +83,9 @@ Toonsies | 2D Animator | Comic Artist | Lore Writer | Social Media Crew
 
 ### <a name="game-design-team"></a>Game Design Team
 
-Trip | Game Design Lead | Design Manager | Moderation | Support | Content Designer
+Trip (Tripoverocks) |  Co-Director | Game Design Lead | Design Manager | Moderation | Support | Content Designer
 
-Maven | Game Design Lead | Writing Manager | Sound Designer | Lore Writer
+Maven |  Co-Director | Game Design Lead | Writing Manager | Sound Designer | Lore Writer
 
 Turkeybone | Game Design Lead Assistant | Design Director | Game Developer | Content Designer | Moderation
 
@@ -96,7 +96,7 @@ Cracking A. Joke | Game Design Lead Assistant | Social Media Crew | Content Desi
 
 ### <a name="community-team"></a>Community Team
 
-Peter F. | Community Manager | Texture Artist | 2D Artist | Social Media Crew | Partner Program Crew
+Peter F. (Poppy Cheezycorn) | Co-Director | Community Manager | Texture Artist | 2D Artist | Social Media Crew | Partner Program Crew
 
 Alex The Wizard | Community Lead Assistant | Video Editor | Social Media Crew | Partner Program Crew | Lore Writer
 
