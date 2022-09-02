@@ -610,4 +610,6 @@ We are listing out known issues with this version of the game to make sure that 
 - ToonTask dialogue looks very bad in the NPC tab.
 - Club Name Rewrites do not work.
 - Taking a screenshot will crash you.
+- Toon occlusion turns lots of other Toons invisible.
+- Text emoticons, such as :), do not work.
 - Other minor polish and useful planned QoL features are missing.
