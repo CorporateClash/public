@@ -718,5 +718,10 @@
     "uid": "1",
     "name": "v1.0.0",
     "path": "releases/1.0.0.md"
+  },
+  {
+    "uid": "0",
+    "name": "QAv1.3.0",
+    "path": "releases/qa1.3.0.md"
   }
 ]
