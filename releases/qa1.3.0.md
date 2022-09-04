@@ -1,3 +1,80 @@
+### Beta v1.3.0, QA #2 (September 4th, 2022)
+
+These patch notes are for our second Partner QA session. 
+
+**Toons**
+- Fixed issues with occlusion spheres.
+
+**Cogs**
+- Fixed status effects going down to 0 rounds on Skelecogs.
+- Adjusted the health variance for Skelecogs:
+  - Skelecogs: 90% to 110% (from 85% to 99%)
+  - Virtual Skelecogs: 80% to 120% (from 65% to 110%)
+
+**Chatbox**
+- Fixed some issues using Enter as the chat hotkey.
+- The Unite Cooldown Timer now scales vertically from the chatbox.
+- Added an option to close the Chatbox after sending a message from using only the Chat Key.
+- Closing the Chatbox now clears whisper targets and clears out chat entry.
+- The chat entry now indicates where your chat message is going to.
+- We've done a major backend overhaul on our chat filter system. Please let us know if you notice any issues with it! 
+- Some bugs relating to the chat filter were fixed as well:
+   - You are once again able to use text-based emoticons while chatting.
+   - You are once again able to say the names of other Toons nearby while sending local messages.
+   - Additionally, you're now able to say the names of your fellow clubmates while sending messages to your club!
+- Battle tab is now functional.
+
+**Groups**
+- Added a stronger ratelimit to creating and joining groups.
+- Toon status on the Group Viewer now respects district when determining if a Toon is in the right area.
+
+**Clubs**
+- Rebalanced Club Coin earnings a bit.
+  - Natural Club Coins earned while playing with other Clubmates has been multiplied by 5.
+  - Reduced the Club Coins earned from particularly difficult Club Tasks.
+  - Club Coins earned from Club Tasks now award Club Experience.
+  - Potentially fixed Club Experience.
+- Fixed an issue where Club Nametags would show in suits.
+- Fixed an oversight where gradient Club Colors would process their color changes uselessly on the server.
+
+**Battles**
+- Fixed an issue where Trap Experience was awarded to the Toon who used Lure.
+- Fixed an issue where Cogs could be double-lured on a Trap in the same turn to preserve its Lure state.
+- Fixed a server memory leak with Toon attacks.
+- Fixed an issue where prestige stars were persisting when they shouldn't have.
+- Fixed an issue where Toons would still have their Laff adjusted from a battle, even when leaving it.
+- Fixed some reward panel crashes with Daily Tasks.
+- Fixed some issues with cog spacing.
+- Fixed a minor memory leak with Broken TV.
+- Fixed an issue where Gags used on Cogs that were destroyed would be removed from the inventory.
+- Fixed an issue where unites would continue to be disabled despite the status effect having expired.
+- Fixed various instances of incorrect Cog rotations.
+- Fixed an issue where damage taken modifiers would apply twice to Trap Gags.
+- Fixed an issue where double luring a Trapped Cog would keep them lured.
+- Fixed an issue where a Cog's 'game over' dialogue would be cleared out prematurely.
+- Fixed LOTS of crashes.
+
+**Litigation Team**
+- Fixed an issue where Insurance Plan would not target the Case Manager.
+- Fixed an issue where the Gags disabled by Court Record were not being tinted red.
+- Fixed an issue where the Litigator would use Snap after having been destroyed.
+- Fixed some targeting issues with Snap and Court Sanction.
+
+**Schoolhouse**
+- Fixed the chalkboard SFX playing in the training room.
+- Tweaked the tutorial dialogue a bit.
+
+**Other**
+- 'Improved' a bug with unite cooldown.
+- Fixed an oversight with Daily Tasks where another Task would not be granted if you were full on maintasks/sidetasks.
+- Fixed some chair memory leaks.
+- Fixed a crash with table games.
+- Fixed some trolley crashes.
+- Fixed boss dialogue not showing up.
+- Fixed a crash with backing out of reporting clubs.
+- The text to interact with a chair text will no longer show up if there is someone already seated.
+
+
 ### Beta v1.3.0, QA #1 (September 2nd, 2022)
  
 These patch notes are for our initial Partner QA session. They have been stripped down from the complete v1.3.0 Patch Notes, and include only what is present in the QA sessions.
