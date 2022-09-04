@@ -54,7 +54,7 @@ Berkie | 3D Modeler | 3D Animator | 2D Animator | Texture Artist
 
 BunnyHeidi | Concept Artist
 
-Cyd | 2D Artist | Content Designer | Lore Writer | Moderation | Social Media Crew
+Cyd | 2D Artist | Content Designer | Lore Writer | Moderation | Social Media Crew | Support
 
 Emile | Concept Artist
 
@@ -129,6 +129,8 @@ AcryliCat | Moderation Lead Assistant | Moderation | Support | Partner Program C
 
 Autumn | Moderation | Lore Writer
 
+Breezy | Moderation
+
 Cam | Moderation | Game Developer | Bot Developer
 
 Casper Petalglow | Moderation
@@ -137,9 +139,13 @@ Cody Alcatraz | Moderation
 
 Domino | Moderation
 
-Gloomy | Moderation
+Gloomy | Moderation | Support
+
+Helena | Moderation
 
 Kevin Valle | Moderation | Support | Partner Program Crew
+
+Leaf | Moderation
 
 Madsiekins | Moderation
 
@@ -157,6 +163,8 @@ Sugarhigh | Moderation
 
 Sunny | Moderation | Content Designer
 
+Swag | Moderation
+
 Xen | Moderation
 
 
@@ -170,7 +178,7 @@ Windoges | Support Lead Assistant | Moderation | Content Designer | Support
 
 Belak | Support
 
-Chris D. | Support | Content Designer
+Chris D. | Support | Content Designer | Moderation
 
 
 ### <a name="contributors"></a>Former Contributors
