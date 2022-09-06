@@ -1,3 +1,147 @@
+### Beta v1.3.0, QA #3 (September 6th, 2022)
+ 
+These patch notes are for our third Partner QA session.
+ 
+**Battle Rebalances**
+We have some more battle rebalances for this session, hot off the presses! We've been in touch with our Community QAers to help come up with these, but we've got some surprises for 'em here too.
+ 
+- Virtual Skelecogs
+  - While these guys are feeling pretty good to fight, they still feel just a little overtuned -- especially during OCLO round 1.
+    - Max HP range has been tweaked from 80%-120% to 70%-110%.
+- IOUs
+  - We love 'em, but we need to nerf them a bit. They were originally designed for only one boost, and we didn't compensate when allowing two Toons to be boosted.
+    - Fixed a bug where you could combine same-level IOUs in the same turn.
+      - While this was a bug, this will cause certain IOU setups to take an additional turn to set up.
+    - Nerfed IOUs by around 30% across the board (but still be generous).
+    - Buffed 2-use IOUs to give them a bit more relevancy.
+    - Sorry, Drop IOUs.
+    - The new IOU boosts are as follows:
+      - Toon-Up: 90/45/35 -> 60/35/25
+      - Trap: 250/125/85 -> 170/90/65
+      - Lure: 40/20/15 -> 30/18/15
+      - Sound: 50/25/20 -> 35/20/15
+      - Squirt: 80/40/30 -> 60/35/25
+      - Zap: 80/40/30 -> 60/35/25
+      - Throw: 100/50/35 -> 70/40/30
+      - Drop: 150/75/55 -> 80/45/35
+      - Rain: 20 -> 15
+    - By the way, IOUs no longer count as a stun. They already haven't been, but seems important to mention.
+- Toon-Up
+  - We realized that "toon-up stunning" was removed with the new battle system. So, we're bringing it back, but making it a base Toon-Up effect.
+    - Toon-Up now provides the "Cheer" buff on Toons for the round.
+      - Provides +20% accuracy for the turn
+      - Applied to any targets healed by Toon-Up
+      - Does not stack
+- Lure
+  - Group Lure accuracy has been increased by 5%.
+- Sound
+  - Since our big changes to Sound, we've been able to properly see how this Gag Track plays out in battle without the community divide between Unprestige and Prestige Sound. We found that the Encore buff of Prestige Sound was particularly interesting, and opened up a lot of interesting battle potential. However, there were still lots of clear issues with Sound, especially in the endgame -- it was either so good that you didn't even have to think, or Cog Levels were too high and there was never a good opening to use Sound.
+  - To help give it a bit more relevancy, we've made the following changes to help make Sound feel more like a combo setup track, rather than a full-on AOE damage track.
+    - Unprestige Sound now receives the Encore buff for one round.
+      - Prestige Sound will receive the Encore buff for two rounds.
+    - Encore now gives a +15% Gag effectiveness buff to all Gags, including Sound.
+    - Using Sound while Encore is active will clear it and replace it with a new debuff: Winded.
+      - Winded lasts for two rounds, and reduces your Sound damage by 75%.
+      - The duration of Winded resets if Sound is used.
+        - You do not gain Encore if you are Winded.
+    - Reduced Sound's base damage.
+      - Kazoo: 5 -> 4
+      - Bike Horn: 10 -> 7
+      - Whistle: 16  -> 12
+      - Bugle: 23 -> 18
+      - Aoogah: 30 -> 25
+      - Elephant Trunk: 50 -> 40
+      - Foghorn: 70 -> 55
+      - Opera Singer: 90 -> 75
+- Squirt
+  - While Squirt feels good, alternating single and AOE soak for the gag doesn't actually provide the usability buff that we were expecting. In fact, it actually makes Squirt even more awkward to use with most Zap combos. So, we've reverting that change, but we also have some changes to make Prestige Squirt a bit more enticing too.
+    - All Squirt Gags now provide area-of-effect soak.
+    - Reduced the damage of the following Squirt Gags:
+      - Squirting Flower: 5 -> 4
+      - Squirt Gun: 16 -> 12
+      - Seltzer Bottle: 40 -> 30
+      - Storm Cloud: 95 -> 85 (fine, you can keep your 82 storm)
+    - Changed the scaling of soak rounds.
+      - Old: 3/3/4/4/5/5/6/6 for Level 1-8 Squirt Gags
+      - New: 3/3/3/3/4/4/4/4 for Level 1-8 Squirt Gags
+    - Zap will now remove only one round from Drenched, regardless of how many Zaps the Cog receives.
+      - This will help keep the Drenched effect on Cogs after zap combos.
+- Zap
+  - Surprise: we're adding a brand new Zap Gag!
+    - Meet the Stagelight, a brand-new Level 6 Zap Gag!
+      - The Stagelight was a community-concepted Zap Gag made by toona#1351 around a month ago in our Public Discord.
+      - We liked it so much, and with their permission, we took the time to make it!
+    - Carpet has been removed, and the old Level 3 to Level 6 Zap Gags have been moved down to replace it.
+    - The new Zap Gag order is as follows:
+      - Joybuzzer, Lightbulb, Broken Radio, Kart Battery, Broken TV, Stagelight, Tesla Coil, Lightning
+    - Tweaked the Broken TV sound effect.
+- Throw
+  - We're still brainstorming and discussing how we feel about the viability of Throw in certain combos, including how we might make single Throw more viable. Stay Tooned!
+- Drop
+  - A couple nights ago, we watched a Scapegoat with 2462 HP get literally one-shot by 3 Boulders and 1 Piano with 4 Prestige Drop with IOU boosts. Yeaaah, no. We're nerfing Drop Combos to a complete baseline to see how the track feels without the temptation of damage values beyond ones comprehension. If you're concerned, don't worry, we're likely to rebuff this track later (unless it somehow feels perfect). For nowm we need a basis to balance the rest of the track off of. Drop is still really, really good outside of 4-drop combos, after all.
+    - Combo Damage no longer ramps up with the number of Drops used.
+      - Old: 30%/40%/50% for 2-4 drops
+      - New: 30%/30%/30% for 2-4 drops
+        - While this may seem like a strange change, there really is no reason to scale combo damage this high anymore, especially when rolling for individual accuracy as opposed to total risk vs. reward.
+    - Removed Prestige Drop's combo damage modifier.
+      - Old: +10% combo damage per Prestige Drop
+      - New: +0% combo damage per Prestige Drop
+ 
+**Battles**
+- Fixed some movie issues.
+- Fixed some Toon animation issues.
+- Toon-Up IOUs are now used even when the Toon-Up misses.
+- Improved Cogs walking out of the elevator in Cog Buildings.
+ 
+**Chatbox**
+- Fixed an issue where friends weren't listed when using the "ftp" Shortcut.
+- Fixed an issue where Shortcuts were shown when they weren't meant to be.
+- Fixed an issue when attempting to whisper a user from the friends list.
+- Added the option to disable whisper popups.
+- Added whisper locking.
+- Club and Group messages can now be displayed as a popup message.
+    - This can be configured and is enabled by default.
+- Introduced the `Club Shout` Shortcut.
+    - Club members with the "Use Club Shouts" can now send a shout message once every 10 seconds.
+- The Chatbox will now always open in the Main tab.
+ 
+**Clubs**
+- Added a Universal Booster category to the Club Shop.
+- Removed the announcement toggle from options.
+- Optimized the server club manager a bit.
+ 
+**Gag n' Go**
+- Tweaked Reid Stock's nametag.
+ 
+**Litigation Team**
+- Fixed a district reset when attempting to do an OCLO with an open Group.
+- Fixed a server memory leak with the Litigation Team.
+- Fixed issue with Scapegoat's Rage being bad and also stupid.
+- Fixed Court Record's status effect not cleaning up upon Stenographer's destruction.
+- Fixed animation issues with Bayou Bellow.
+ 
+**Settings**
+- Reorganized the "social" settings page.
+ 
+**Schoolhouse**
+- Fixed an issue where the Tutorial zone was not deallocating.
+- Fixed an issue where Districts were selectable in the Tutorial.
+- Fixed an issue where Teleport Shortcuts could be used inside the tutorial.
+- The Desk Jockey now has a bowtie.
+ 
+**Audio**
+- Fixed a slight audio desync during the music transition when stunning a boss.
+- Reverted Almond Avenue to use the normal music for Acorn Acres streets.
+ 
+**Chairs**
+- All of the chairs around the Big Desk are now sittable.
+- Fixed various issues when playing Toono on chairs.
+ 
+**Misc**
+- The Unite Cooldown timer now cleans up properly upon logout.
+
+----
+
 ### Beta v1.3.0, QA #2 (September 4th, 2022)
 
 These patch notes are for our second Partner QA session. 
