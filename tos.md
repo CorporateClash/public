@@ -24,15 +24,27 @@ You also agree that:
 * you are not sanctioned by, or apart of a group sanctioned by, the US government, or otherwise participate or aid in undermining democratic processes
 * you have not previously been banned, suspended, or removed from our services
 
+### License
+
+#### Your license to use our services
+
+When utilzing our services within the provisions of this document, you are granted a license to our content; the license is a worldwide, non-exclusive, revocable, royalty-free, non-sublicensable, and non-transferable license to use that Content (including to reproduce, distribute, prepare derivative works, display and perform it) **SOLELY** as enabled by a feature of the Service or while recording or broadcasting the entire service.
+
+If you are banned from playing our service, you may consider your license to our content instantly revoked, however, not for any content made before the ban (non-retroactive), and your license will be reinstated when the ban expires, if the ban is temporary. However, we reserve the right to terminate, at any time, including retroactively, your license to our content, with or without a ban, upon written correspondance with you or the email address attached to your account (such revocation will go into effect immediately). 
+
+#### The licenses you provide to your content
+
+Upon submitting content to our service, whether via a no purchase necessary raffle, contest, or other means in which you submit content to us, you agree to license it to us and other players as described in [the content license terms](https://github.com/CorporateClash/Changelogs/blob/master/contest_license.md#license) unless such event expressly requires a different license or agreement. You should not submit any content if you do not agree to these terms.
+
 ### Your Responsibilities
 
 ##### You are responsible for the security of your account.
 
-You are the sole person responsible for actions and activities performed under your account, regardless of whether or not these actions were authorized by you.
+You are the sole person responsible for actions and activities performed under your account, and any diciplinary actions will affect the account regardless of whether or not you (the account owner) performed those actions.
 
 While we make tools available to aid in the protection of your account, you are responsible for using a strong password, keeping your e-mail account secure, and ensuring unauthorized parties do not access your account.
 
-We provide no recovery solutions or remediation if you lose control of your e-mail account and an unauthorized party uses access to your e-mail to change the account e-mail, get your account to be banned, or change the account password. 
+We provide no recovery solutions or remediation if you lose control of your e-mail account and an unauthorized party uses access to your account to change the account's e-mail, get your account to be banned, or otherwise remove your own access to your account.
 
 ### Your use of our Services
 
