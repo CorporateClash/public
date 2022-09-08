@@ -3,6 +3,7 @@
 These patch notes are for our fourth Partner QA session. 
 
 **Battle Rebalances**
+
 More gag rebalances based on testing & feedback.
 
 - Sound
