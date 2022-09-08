@@ -1,3 +1,82 @@
+### Beta v1.3.0, QA #4 (September 8th, 2022)
+
+These patch notes are for our fourth Partner QA session. 
+
+**Battle Rebalances**
+More gag rebalances based on testing & feedback.
+
+- Sound
+  - You want a Sound buff? The monkey's paw grants your wish.
+    - Sound now comes after Throw in the Gag Track order.
+    - Reverted the base damage nerfs for Sound.
+      - Kazoo: 4 -> 5
+      - Bike Horn: 7 -> 10
+      - Whistle: 12 -> 16
+      - Bugle: 18 -> 23
+      - Aoogah: 25 -> 30
+      - Elephant Trunk: 40 -> 50
+      - Foghorn: 55 -> 70
+      - Opera Singer: 75 -> 90
+    - Adjusted Encore.
+      - Unprestige Sound: 15% for 1 round -> 10% for 1 round
+      - Prestige Sound: 15% for 2 rounds -> 20% for 1 round
+      - The visual effect now displays 1 or 2 bugles, depending on prestige.
+    - Adjusted Winded.
+      - Removed the effect that causes Winded to persist when Sound is used.
+      - Reduced the damage penalty from 75% to 50%.
+- Squirt
+  - Adjusted wording of Soaked/Drenched status effects.
+  - Nerfed Soak's dodge debuff from 15% to 10%.
+- Drop
+  - Increased Drop's base accuracy from 55% to 60%.
+  - Instead of buffing Drop accuracy, Drop's prestige now gives it a 15% damage bonus when used against enemies with debuffs.
+
+**Chatbox**
+- Added 2 new emotes: Agree and Disagree.
+- The sticker menu now hides upon usage.
+- Added an option to configure Sticker messages being logged in the Chatbox.
+- The Chatbox always opening to the Main Tab is now configurable.
+- Stickers will now reflect the Toon's size from Cheesy Effects.
+- Added a 3-second rate limit to Stickers.
+- Fixed some issue with NPC message splitting.
+- Fixed whispered emotes rendering weirdly in the chatlog.
+- Fixed some animation issues with stickers.
+
+**Toons**
+- Player occlusion now applies to cog disguises as well.
+
+**Cogs**
+- Fixed district reset with Level 10 Needlenoses.
+  - Also -- we forgot to say that we added Level 10 Needlenoses.
+- Fixed issues with Litigator's retaliation targeting.
+- Prestige Lure no longer plays the stun head animation on Cogs.
+
+**CLO**
+- Fixed FOV in the first battle round.
+- Fixed an issue with the 2nd battle positions.
+- Added support for 4-man OCLO groups.
+
+**Clubs**
+- Club tasks are now blue.
+- Adjusted some price scaling for Clubs.
+- Added some scavenge icons for Club Task statuses and Club Level Ups.
+- The notification window for purchasing a Club Task now syncs with your currently selected Club Task.
+- Fixed a major oversight where skipping Trolley Games would net an insanely high amount of Club Coins.
+
+**Chairs**
+- Fixed an issue where a single Toon could unseat everyone in the area.
+- Fixed an issue where Toon positions weren't being interpolated upon unchairing oneself.
+
+**Misc**
+- Made sure that Kart Battery was Kart Battery in racing.
+- Potentially fixed a Toono crash.
+- Fixed several Toontorial issues.
+- Fixed an issue where you could force-join a tiered Boss Group without the right suit level.
+- Fixed an issue where Club and Group state wasn't cleaning up upon logout.
+- Added some scavenge icons for Daily Tasks.
+
+----
+
 ### Beta v1.3.0, QA #3 (September 6th, 2022)
  
 These patch notes are for our third Partner QA session.
