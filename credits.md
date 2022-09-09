@@ -80,6 +80,8 @@ Spooks | 3D Modeler | Texture Artist | Graphic Designer | Content Designer
 
 Toonsies | 2D Animator | Comic Artist | Lore Writer | Social Media Crew
 
+Unfinished | Composer
+
 
 ### <a name="game-design-team"></a>Game Design Team
 
@@ -108,7 +110,7 @@ Rox | Video Editor | Graphic Designer
 
 Marlowe | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist | Brand Artist | Lore Writer
 
-Max | Comic Artist
+Max | Comic Artist | Lore Writer
 
 Snoopee | Video Editor
 
