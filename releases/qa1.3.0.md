@@ -1,3 +1,35 @@
+### Beta v1.3.0, QA #5 (September 10th, 2022)
+
+These patch notes are for our fifth Partner QA session. 
+
+**Battles**
+- Added a new Gag Quick-Changer on the Gag Picker Panel to allow Toons to quickly switch Gags in the same track after selecting the Gag.
+  - If the player picks a Gag in a track where different Gag levels targets single/multiple targets (Toon-Up and Lure), the quick-changer will only show Gags with the same target type. For example, if a player picks a Hypno-Goggle (group Lure), the Quick-Changer will only switch to other Lure gags that is also a group Lure gag.
+- Added a new animation on the Gag Picker Panel to transition between Gags when hovering over different gags.
+- Fixed an issue where Bayou Bellow was not removing the Dazed Status Effect. 
+- Fixed various issues in the Gag-Picker UI where the knockback damage was incorrectly applied / shown.
+- Fixed Rain's IOU description when hovered over.
+- Fixed an issue where the Cheer Status Effect would still be shown if the Toon-Up Gag misses.
+- Fixed an issue where the Drop prestige boost was applied more than once.
+- Fixed a crash when a player goes sad inside the Overclocked C.L.O..
+
+**Chatbox**
+- Messages which don't display in the Chat Display are no longer stored to be displayed.
+  - This means every tab will now only store the last 100 messages to be displayed.
+- Fixed an issue where messages would "clump" together in the battle tab.
+- Fixed an issue where old chat messages would reappear in the Chat Display.
+- Reordered the Gag-up Unites to reflect the attack order change.
+
+**Misc**
+- Tweaked the length of the Tesla SFX.
+- Tweaked the audio balancing of the Wrecking Ball SFX.
+- Potentially fixed an issue where Kiwi heads would sometimes be partially transparent.
+- Fixed an issue where the underwater music and water SFX would keep playing after teleporting to another area without water with the /tp shortcut.
+- Fixed some crashes with Picnic Games.
+- Minor text fixes.
+
+----
+
 ### Beta v1.3.0, QA #4 (September 8th, 2022)
 
 These patch notes are for our fourth Partner QA session. 
