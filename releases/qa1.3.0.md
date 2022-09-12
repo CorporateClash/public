@@ -1,3 +1,41 @@
+### Beta v1.3.0, QA #6 (September 12th, 2022)
+
+These patch notes are for our sixth Partner QA session. 
+
+**Clubs**
+- Fixed an issue where a club's name wouldn't update after the club name change was approved.
+
+**Chatbox**
+- Added the ability to mention group member names in the group chat channel.
+- Re-added the ability to clear your current message by sending ".".
+- Added the filter UI for certain Shortcuts.
+- Fixed an issue where SpeedChat messages weren't logged.
+- Fixed an issue where the toon sound configuration wouldn't work.
+- Removed the transparent focus mode.
+  - Users who were using the minimal focus mode may experience a crash, if this is the case please delete your preferences.json file and relaunch the game.
+
+**Battle**
+- Updated the prestige description for Drop.
+- The Gag track order on the reward panel and the toon info tooltip in battle have been updated.
+- The unsoak animation will no longer occur when Drenched is applied to a Soaked Cog.
+- Some single target Toon attacks will now run in parallel.
+- Adjusted some of the electricity scales for Zap Gags.
+- Fixed an issue where Gag levels would switch when typing while the Gag Switcher is open.
+
+**CEO**
+- Instead of going in order from the front to the back of the Banquet Hall, the diners which join the battle are now randomly chosen.
+- The diner level ranges for each tier have been adjusted.
+  - Tier 1: Levels 13 - 15 -> 11 - 15
+  - Tier 2: Levels 14 - 16 -> 12 - 16
+  - Tier 3: Levels 15 - 17 -> 13 - 17
+
+**Misc**
+- Added a new settings loading system.
+- Fixed a crash when entering the elevator at the end of a Lawfice floor.
+- Fixed an issue where some of the hovers on the Calendar page would appear behind the Shtickerbook.
+
+---
+
 ### Beta v1.3.0, QA #5 (September 10th, 2022)
 
 These patch notes are for our fifth Partner QA session. 
