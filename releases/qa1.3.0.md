@@ -1,3 +1,29 @@
+### Beta v1.3.0, QA #7 (September 14th, 2022)
+ 
+These patch notes are for our seventh Partner QA session.
+ 
+**Clubs**
+- Toons will no longer be able to donate 0 Jellybeans to the Club.
+- Changed several mentions of S.O.S. Cards in Club Items to I.O.U.s.
+ 
+**Battle**
+- Tweaked the positions of Cogs in a 5-Cog battle.
+- The direction the Cogs are facing are now based on how far away they are from the center of the battle field.
+- Tweaked animation duration for multiple Drops.
+- Fixed an issue where Unites could be used by the Toon going sad while going sad.
+ 
+**Bosses**
+- When jumping on a Banquet Table during the C.E.O.'s Final Battle, the Toon's initial seltzer angle will be set based on where the Toon jumped onto the table.
+- Fixed a District Reset related to Level 1 Toons in Boss Battles.
+ 
+**Misc**
+- Fixed an issue where throwing Snowballs at Steve would not cause him to grow.
+- Fixed an issue where turning in a completed ToonTask does not fill the Toon's Laff Meter.
+- Fixed various client crashes in the Toontorial.
+- Minor text fixes.
+
+---
+
 ### Beta v1.3.0, QA #6 (September 12th, 2022)
 
 These patch notes are for our sixth Partner QA session. 
