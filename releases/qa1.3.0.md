@@ -19,7 +19,7 @@ Wait, there's more?
  
 **Bosses**
 - Improved the Speedchat menu for the C.E.O..
-- Added special Cog Voices to the L.A.A. and P.R.R.
+- Added special Cog Voices to the D.O.P.A and P.R.R..
 
 **Misc**
 - Added new music to the new Ye Olde Toontowne sigils.
