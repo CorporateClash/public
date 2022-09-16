@@ -19,7 +19,8 @@ Wait, there's more?
  
 **Bosses**
 - Improved the Speedchat menu for the C.E.O..
- 
+- Added special Cog Voices to the L.A.A. and P.R.R.
+
 **Misc**
 - Added new music to the new Ye Olde Toontowne sigils.
 - Updated Needlenose level range in the final O.C.L.O. round.
