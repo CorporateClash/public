@@ -1,3 +1,36 @@
+### Beta v1.3.0, QA #8 (September 16th, 2022)
+ 
+These patch notes are for our eighth (and final!) Partner QA session. We thank all of our testers for providing significant help for us these last couple weeks! From these sessions, we've been able to put together a whole catalogue of bugs and features we need to address in order to make sure v1.3.0 is as smooth as can be.
+ 
+**Gag Rebalances**
+Wait, there's more?
+ 
+- Squirt
+  - Squirt has a new passive ability: Splash Damage!
+    - When using Squirt on a Cog, the adjacent Cogs will take a bonus 15% damage of the Squirt's damage.
+    - This damage is affected by other boosts, such as IOUs.
+    - Note: The Toontorial has not been updated to include explanation for this ability yet.
+  - Prestige Squirt no longer applies Drenched. Rather, it boosts the Splash Damage from 15% up to 30%.
+ 
+**Battle**
+- Knockback damage of Throw & Squirt Gags is now not calculated on Cogs to be hit by a Trap.
+- Tweaked ToonTask positions on the reward panel.
+- Cleaned up some more cutscenes for Cogs joining battle.
+ 
+**Bosses**
+- Improved the Speedchat menu for the C.E.O..
+ 
+**Misc**
+- Added new music to the new Ye Olde Toontowne sigils.
+- Updated Needlenose level range in the final O.C.L.O. round.
+- Enforced a max camera height for Cog Buildings.
+- Gag-Up Unite reward icons now use the Level 8 Gag for their icon.
+  - They also will use the right icon this time.
+- Fixed some I.O.U. sorting issues.
+- Minor text fixes.
+
+---
+
 ### Beta v1.3.0, QA #7 (September 14th, 2022)
  
 These patch notes are for our seventh Partner QA session.
