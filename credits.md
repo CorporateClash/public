@@ -13,17 +13,19 @@
 
 Hunter Ray | Co-Director | CEO | Lead Web Developer
 
-Goose | Co-Director | Technical Lead | Game Developer | Moderation
+Goose | Co-Director | Technical Lead | Game Developer | Moderation | Content Designer
 
 Main | Technical Lead Assistant | Game Developer | Content Designer | Composer
 
 Sheriff Cranky | Technical Lead Assistant | Game Developer | Web Developer | Content Designer
 
+Chasminimus | Game Developer
+
 CheezedFish | Game Developer | Technical Artist | Content Designer | Lore Writer
 
 Devvy | Game Developer
 
-Jay Nite | Game Developer
+Jay Nite | Game Developer | Content Designer
 
 Loonatic | Technical Artist | Game Developer | Texture Artist | 2D Artist
 
@@ -76,7 +78,7 @@ Sourdough | Concept Artist | UX/UI Designer
 
 Spencer | 3D Modeler | Content Designer
 
-Spooks | 3D Modeler | Texture Artist | Graphic Designer | Content Designer
+Spooks | 3D Modeler | Texture Artist | Graphic Designer
 
 Toonsies | 2D Animator | Comic Artist | Lore Writer | Social Media Crew
 
@@ -85,15 +87,19 @@ Unfinished | Composer
 
 ### <a name="game-design-team"></a>Game Design Team
 
-Trip (Tripoverocks) |  Co-Director | Game Design Lead | Design Manager | Moderation | Support | Content Designer
+Trip (Tripoverocks) | Co-Director | Game Design Lead | Design Manager | Moderation | Support | Content Designer
 
-Maven |  Co-Director | Game Design Lead | Writing Manager | Sound Designer | Lore Writer
+Maven | Co-Director | Game Design Lead | Writing Manager | Sound Designer | Lore Writer
 
 Turkeybone | Game Design Lead Assistant | Design Director | Game Developer | Content Designer | Moderation
 
 Lemmy | Game Design Lead Assistant | Writing Director | 2D Artist | Brand Artist | UX/UI Designer | Concept Artist | Lore Writer | Content Designer
 
 Cracking A. Joke | Game Design Lead Assistant | Social Media Crew | Content Designer | Lore Writer
+
+Dante | Content Designer
+
+Mark (Missed by a Hare) | Content Designer
 
 
 ### <a name="community-team"></a>Community Team
@@ -108,7 +114,7 @@ Aero | Brand Artist | Graphic Designer
 
 Rox | Video Editor | Graphic Designer
 
-Marlowe | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist | Brand Artist | Lore Writer
+Marlowe | Comic Artist | Concept Artist | Moderation | Content Designer | 2D Artist | Brand Artist | Lore Writer | Support
 
 Max | Comic Artist | Lore Writer
 
@@ -152,8 +158,6 @@ Leaf | Moderation
 Madsiekins | Moderation
 
 Ozzie The Duck | Moderation
-
-Princess Candy | Moderation
 
 Rachael | Moderation
 
@@ -316,6 +320,8 @@ Olive | Former Moderation
 Paigerage | Former Moderation
 
 Pandora | Former Brand Artist | Former Moderation
+
+Princess Candy | Former Moderation
 
 Purest Melody | Former Composer
 
