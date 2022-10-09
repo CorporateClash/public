@@ -27,7 +27,7 @@ While researching, refrain from:
 
 #### Reward
 
-Valid security reports help ensure Toontown: Corporate Clash remains a safe environment for everyone. For security reports of particular importance, you might be gifted in-game items, currency, or similar. This reward is NOT guaranteed; it will be issued at the sole discretion of Corporate Clash Leadership, and will be non-transferrable (we may remove the item if we have discovered a breach of our TOS, eg. account-selling or selling the outfit code itself).
+Valid security reports help ensure Toontown: Corporate Clash remains a safe environment for everyone. For security reports of particular importance, you might be gifted in-game items, currency, or similar. This reward is NOT guaranteed; it will be issued at the sole discretion of Corporate Clash Leadership, and will be non-transferrable (we may remove the item(s) if we have discovered a breach of our TOS, eg. account-selling or selling the item code itself).
 
 #### Weakness
 
