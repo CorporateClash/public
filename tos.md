@@ -34,7 +34,7 @@ If you are banned from playing our service, you may consider your license to our
 
 #### The licenses you provide to your content
 
-Upon submitting content to our service, whether via a no purchase necessary raffle, contest, or other means in which you submit content to us, you agree to license it to us and other players as described in [the content license terms](https://github.com/CorporateClash/Changelogs/blob/master/contest_license.md#license) unless such event expressly requires a different license or agreement. You should not submit any content if you do not agree to these terms.
+Upon submitting content to our service, whether via a no purchase necessary raffle, contest, or other means in which you submit content to us, you agree to license it to us and other players as described in [the content license terms](https://github.com/CorporateClash/public/blob/master/contest_license.md#license) unless such event expressly requires a different license or agreement. You should not submit any content if you do not agree to these terms.
 
 ### Your Responsibilities
 
