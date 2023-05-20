@@ -28,7 +28,9 @@ You also agree that:
 
 #### Your license to use our services
 
-When utilzing our services within the provisions of this document, you are granted a license to our content; the license is a worldwide, non-exclusive, revocable, royalty-free, non-sublicensable, and non-transferable license to use that Content (including to reproduce, distribute, prepare derivative works, display and perform it) **SOLELY** as enabled by a feature of the Service or while recording or broadcasting the entire service.
+When utilzing our services within the provisions of this document, you are granted a license to our content; the license is a worldwide, non-exclusive, revocable, royalty-free, non-sublicensable, and non-transferable license to use that content (including to reproduce, distribute, prepare derivative works, display and perform it) **SOLELY** as enabled by a feature of the Service or while recording or broadcasting the entire service, and only when content is accessed in a manner explicitly enabled by use of our service.
+
+For clarity, this license does not grant you any rights or permissions to use content independently of the service, and does not enable you to use any of our content when accessed via unauthorized means.
 
 If you are banned from playing our service, you may consider your license to our content instantly revoked, however, not for any content made before the ban (non-retroactive), and your license will be reinstated when the ban expires, if the ban is temporary. However, we reserve the right to terminate, at any time, including retroactively, your license to our content, with or without a ban, upon written correspondance with you or the email address attached to your account (such revocation will go into effect immediately). 
 
