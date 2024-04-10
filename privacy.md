@@ -10,13 +10,13 @@
 
 ### How we use this data
 
-We need to collect this information to operate this service. 
+We need to collect this information to operate this service.
 
 * IP Addresses, hardware identifiers, and browser user agents are required to prevent malicious abuse of our systems.
 * The password field is only used to make sure you're the one who is trying to log in.
 * The email, username, and password fields are required to log users in and provide account security mechanisms.
 
-We may use third-party services to help us operate our services. Your data is never sold, but it may be transferred or transmitted via our Data Processors (as defined below).   
+We may use third-party services to help us operate our services. Your data is never sold, but it may be transferred or transmitted via our Data Processors (as defined below).
 
 ### Managing your data
 
@@ -36,7 +36,7 @@ Your use of the feature is contingent on agreeing to the terms of service and pr
 
 ### Signing-in and linking with third-party websites
 
-We partner with certain third-party websites to allow you to log in to them with your Corporate Clash account and provide information on your account to them via "Oauth" - this might include game data such as your toon's look, name, progress, etc., as well as personal data, such as the username or email associated with your account. 
+We partner with certain third-party websites to allow you to log in to them with your Corporate Clash account and provide information on your account to them via "Oauth" - this might include game data such as your toon's look, name, progress, etc., as well as personal data, such as the username or email associated with your account.
 
 When you agree to share data with these third parties, any shared information will be bound to the third party's own terms of service and privacy policy, and we cannot guarantee any level of security, privacy, or access control regarding such data. However, if you reasonably suspect a third-party website is using information gained via Oauth data sharing in a way inconsistent with proper data security and privacy standards or our privacy policy, please report it and any evidence you might have by emailing security@corporateclash.net.
 
