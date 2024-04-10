@@ -42,15 +42,15 @@ When you agree to share data with these third parties, any shared information wi
 
 ### Data Processors
 
-* Cloudflare ([Cloudflare DPA](https://drive.google.com/file/d/1-3p3X_WYuP_864MMBIO0OfMi0Pahf6kW/view?usp=sharing))
-* DigitalOcean ([Digitalocean DPA](https://www.digitalocean.com/legal/data-processing-agreement/))
-* Amazon Web Services/AWS ([AWS DPA](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf))
-* OVHcloud ([OVH DPA](https://us.ovhcloud.com/legal/data-processing-agreement)) 
-* Google Cloud Platform ([GCP DPA](https://cloud.google.com/terms/data-processing-terms))
-* Microsoft Azure ([Azure DPA](https://aka.ms/dpa))
-* Elastic Cloud ([Elastic DPA](https://drive.google.com/file/d/1Z_C9TC0x5PECTBuTp6DPUxYDiIp7pY4M/view?usp=sharing))
-* Datadog ([DD DPA](https://www.datadoghq.com/legal/datadog-eea-data-processing-addendum/))
-
+- Cloudflare ([Cloudflare DPA](https://www.cloudflare.com/cloudflare-customer-dpa/))
+- DigitalOcean ([Digitalocean DPA](https://www.digitalocean.com/legal/data-processing-agreement/))
+- Amazon Web Services/AWS ([AWS DPA](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf))
+- OVHcloud ([OVH DPA](https://us.ovhcloud.com/legal/data-processing-agreement))
+- Google Cloud Platform ([GCP DPA](https://cloud.google.com/terms/data-processing-terms))
+- Microsoft Azure ([Azure DPA](https://aka.ms/dpa))
+- Elastic Cloud ([Elastic DPA](https://sitecdn.corporateclash.net/files/dpa/elastic-dpa.pdf))
+- Datadog ([DD DPA](https://www.datadoghq.com/legal/datadog-eea-data-processing-addendum/))
+- Hetzner Online ([DPA](https://sitecdn.corporateclash.net/files/dpa/hetzner-dpa.pdf))
 
 ### Cookies
 
